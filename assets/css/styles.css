@@ -9,9 +9,9 @@ body {
 
 .page-header {
   text-align: center;
-  padding: 4em 2em;
-  background-color: rgb(200, 227, 78);
-  color: white;
+  padding: 4em 1em;
+  background-color: rgb(0, 255, 255);
+  color: rgb(0, 0, 0);
 }
 
 h1 {
@@ -66,6 +66,6 @@ table {
 }
 
 img {
-  max-width: 100px;
+  max-width: 69px;
   height: auto;
 }
