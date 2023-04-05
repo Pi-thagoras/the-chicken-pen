@@ -69,3 +69,8 @@ img {
   max-width: 69px;
   height: auto;
 }
+
+#molshap{
+  height: fit-content;
+  width: auto;
+}
