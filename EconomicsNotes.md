@@ -2,8 +2,11 @@
 title: "Economics Notes"
 ---
 
-Well I see you have an interest in economics :)
+Well I see you have some *interest* in economics :)
 
-Here are my notes that I have made so far:
+Pun Time!
+>Who had the most success after inflation hit the market? Bouncy castles.
+
+Here are my Year 11 notes that I have made so far:
 - [Market Efficiency](MarketEfficiency.md)
 - [Market Failure](MarketFailure.md)

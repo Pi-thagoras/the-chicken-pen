@@ -1,4 +1,7 @@
-# Market Efficiency
+---
+title: "Market Efficiency"
+---
+
 ## Consumer & Producer Surplus
 
 #### Consumer Surplus

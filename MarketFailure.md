@@ -1,4 +1,7 @@
-# Market Failure
+---
+title: "Market Failure"
+---
+
 ## **Common Property Resources and Public Goods**
 
 #### **Classifications:**
