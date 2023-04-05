@@ -66,11 +66,6 @@ table {
 }
 
 img {
-  max-width: 69px;
+  width: 100%;
   height: auto;
-}
-
-#molshap{
-  height: fit-content;
-  width: auto;
 }
