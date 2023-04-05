@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarketFailure.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarketFailure.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarketFailure.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarketFailure.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "43562aee34e02932",
   "lastOpenFiles": [
-    "EconomicsNotes.md",
     "MarketFailure.md",
+    "README.md",
     "index.md",
+    "test.md",
+    "EconomicsNotes.md",
     "assets/Waving_Pi.png"
   ]
 }
