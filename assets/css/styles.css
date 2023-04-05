@@ -1,0 +1,66 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71;
+}
+
+.page-header {
+  text-align: center;
+  padding: 4em 2em;
+  background-color: darkblue;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.page-content {
+  max-width: 64rem;
+  padding: 2rem 6rem;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
+blockquote {
+  padding: 0 1rem;
+  margin-left: 0;
+  border-left: 0.3rem solid #dce6f0;
+}
+
+pre {
+  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1rem;
+  line-height: normal;
+  color: #567482;
+  word-wrap: normal;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+  padding: 0.8rem;
+  overflow: auto;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  border-radius: 0.3rem;
+}
+
+code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+    margin-top: 0px;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
