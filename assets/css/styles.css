@@ -10,7 +10,7 @@ body {
 .page-header {
   text-align: center;
   padding: 4em 2em;
-  background-color: rgb(208, 255, 0);
+  background-color: rgb(200, 227, 78);
   color: white;
 }
 
@@ -63,4 +63,9 @@ table {
   display: block;
   width: 100%;
   overflow: auto;
+}
+
+img {
+  max-width: 100px;
+  height: auto;
 }

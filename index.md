@@ -8,4 +8,4 @@ This website is still under construction, so please hang tight while I get this 
 
 
 Current Notes :-)
-- [EconomicsNotes](EconomicsNotes.md)
+- [Economics Notes](EconomicsNotes.md)
