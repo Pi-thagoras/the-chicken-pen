@@ -3,7 +3,7 @@
 # The /jsp bit is what is called a 'base URL'
 # If you have a base URL, replace the 'jsp' with yours
 
-baseurl: jsp
+baseurl: the-chicken-pen
 
 # ignore everything below this line. it is not relevant for your purposes.
 
