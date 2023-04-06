@@ -1,0 +1,110 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountType2": "none",
+    "folderCountType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "wordCountType": "SpaceDelimited",
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "Intermolecular-Forces.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 92,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1680690605652,
+      "modifiedDate": 1680694995105
+    },
+    "testfolder/test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1680678724889,
+      "modifiedDate": 1680678724889
+    },
+    "test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 12,
+      "createdDate": 1680678724888,
+      "modifiedDate": 1680685541971
+    },
+    "README.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 298,
+      "nonWhitespaceCharacterCount": 242,
+      "createdDate": 1680678724875,
+      "modifiedDate": 1680690131697
+    },
+    "Market-Efficiency.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 592,
+      "pageCount": 1.9733333333333334,
+      "characterCount": 3456,
+      "nonWhitespaceCharacterCount": 2798,
+      "createdDate": 1680687799521,
+      "modifiedDate": 1680747039618
+    },
+    "Market-Failure.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 406,
+      "pageCount": 1.3533333333333333,
+      "characterCount": 2529,
+      "nonWhitespaceCharacterCount": 2045,
+      "createdDate": 1680684746706,
+      "modifiedDate": 1680689330137
+    },
+    "index.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 74,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 451,
+      "nonWhitespaceCharacterCount": 373,
+      "createdDate": 1680678724886,
+      "modifiedDate": 1680694985446
+    },
+    "Economics-Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 105,
+      "pageCount": 0.35,
+      "characterCount": 643,
+      "nonWhitespaceCharacterCount": 535,
+      "createdDate": 1680678889215,
+      "modifiedDate": 1680692008531
+    },
+    "Chemistry-Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 218,
+      "createdDate": 1680690218208,
+      "modifiedDate": 1680692037561
+    }
+  }
+}
