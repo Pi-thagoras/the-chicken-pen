@@ -16,16 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Intermolecular-Forces.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 92,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 582,
-      "nonWhitespaceCharacterCount": 481,
-      "createdDate": 1680690605652,
-      "modifiedDate": 1680694995105
-    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -56,16 +46,6 @@
       "createdDate": 1680678724875,
       "modifiedDate": 1680690131697
     },
-    "Market-Efficiency.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 592,
-      "pageCount": 1.9733333333333334,
-      "characterCount": 3456,
-      "nonWhitespaceCharacterCount": 2798,
-      "createdDate": 1680687799521,
-      "modifiedDate": 1680747039618
-    },
     "Market-Failure.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -75,6 +55,26 @@
       "nonWhitespaceCharacterCount": 2045,
       "createdDate": 1680684746706,
       "modifiedDate": 1680689330137
+    },
+    "Market-Efficiency.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 600,
+      "pageCount": 2,
+      "characterCount": 3507,
+      "nonWhitespaceCharacterCount": 2841,
+      "createdDate": 1680687799521,
+      "modifiedDate": 1680747394583
+    },
+    "Intermolecular-Forces.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 92,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1680690605652,
+      "modifiedDate": 1680694995105
     },
     "index.md": {
       "isDirectory": false,
@@ -99,12 +99,12 @@
     "Chemistry-Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 259,
-      "nonWhitespaceCharacterCount": 218,
+      "wordCount": 100,
+      "pageCount": 0.3333333333333333,
+      "characterCount": 652,
+      "nonWhitespaceCharacterCount": 549,
       "createdDate": 1680690218208,
-      "modifiedDate": 1680692037561
+      "modifiedDate": 1680748208865
     }
   }
 }
