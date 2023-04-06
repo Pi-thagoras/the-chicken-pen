@@ -19,12 +19,12 @@
     "Quotes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 258,
+      "nonWhitespaceCharacterCount": 215,
       "createdDate": 1680778371981,
-      "modifiedDate": 1680778371981
+      "modifiedDate": 1680779504816
     },
     "Chemistry-Topic-Test-One-Checklist.md": {
       "isDirectory": false,
@@ -99,12 +99,12 @@
     "index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 74,
-      "pageCount": 0.24666666666666667,
-      "characterCount": 451,
-      "nonWhitespaceCharacterCount": 373,
+      "wordCount": 103,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 653,
+      "nonWhitespaceCharacterCount": 542,
       "createdDate": 1680678724886,
-      "modifiedDate": 1680694985446
+      "modifiedDate": 1680779476704
     },
     "Economics-Notes.md": {
       "isDirectory": false,
