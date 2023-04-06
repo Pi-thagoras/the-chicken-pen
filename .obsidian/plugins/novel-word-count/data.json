@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Chemistry-Topic-Test-One-Checklist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1680765753080,
+      "modifiedDate": 1680765753080
+    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -104,7 +114,7 @@
       "characterCount": 652,
       "nonWhitespaceCharacterCount": 549,
       "createdDate": 1680690218208,
-      "modifiedDate": 1680748208865
+      "modifiedDate": 1680765743848
     }
   }
 }
