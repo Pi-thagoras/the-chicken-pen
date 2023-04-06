@@ -16,15 +16,25 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Chemistry-Topic-Test-One-Checklist.md": {
+    "Quotes.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1680778371981,
+      "modifiedDate": 1680778371981
+    },
+    "Chemistry-Topic-Test-One-Checklist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1309,
+      "nonWhitespaceCharacterCount": 1072,
       "createdDate": 1680765753080,
-      "modifiedDate": 1680765753080
+      "modifiedDate": 1680774880714
     },
     "testfolder/test.md": {
       "isDirectory": false,
@@ -109,12 +119,12 @@
     "Chemistry-Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 100,
-      "pageCount": 0.3333333333333333,
-      "characterCount": 652,
-      "nonWhitespaceCharacterCount": 549,
+      "wordCount": 105,
+      "pageCount": 0.35,
+      "characterCount": 719,
+      "nonWhitespaceCharacterCount": 611,
       "createdDate": 1680690218208,
-      "modifiedDate": 1680765743848
+      "modifiedDate": 1680774913393
     }
   }
 }
