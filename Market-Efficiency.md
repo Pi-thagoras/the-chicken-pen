@@ -41,7 +41,9 @@ Producing what society demands is called Allocative Efficiency
 - It's the highest price that a producer can charge on a good or service
 - It is usually below the equilibrium price
 - Intended to keep prices affordable for majority of the population
+
 ---
+
 - Needed for rationing process to regulate demand
 - Could lead to black markets
 
@@ -49,7 +51,9 @@ Producing what society demands is called Allocative Efficiency
 - It's the minimum price that a producer can charge on a good or service
 - It is usually above the equilibrium price
 - Designed to ensure that there is a minimum income received by producers
+
 ---
+
 - Informal illegal markets could result where workers are paid less than the minimum wage
 
 #### The Steps for Success - Price Ceilings and Floors Diagrams

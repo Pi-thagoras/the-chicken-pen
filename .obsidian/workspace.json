@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Market-Efficiency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Market-Efficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Market-Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Market-Efficiency.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "006b01dd269b3c0f",
   "lastOpenFiles": [
+    "index.md",
     "assets/faviconchickenpixel.ico",
     "assets/faviconchickenpixel.ico.crdownload",
     "assets/IconPixelChicken.png",
@@ -156,7 +157,6 @@
     "assets/favicon.ico",
     "assets/favicon.ico.crdownload",
     "Quotes.md",
-    "index.md",
     "test.md",
     "Market-Failure.md",
     "Chemistry-Topic-Test-One-Checklist.md",

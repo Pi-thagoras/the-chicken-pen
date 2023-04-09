@@ -16,26 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Quotes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 258,
-      "nonWhitespaceCharacterCount": 215,
-      "createdDate": 1680778371981,
-      "modifiedDate": 1680779504816
-    },
-    "Chemistry-Topic-Test-One-Checklist.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 212,
-      "pageCount": 0.7066666666666667,
-      "characterCount": 1309,
-      "nonWhitespaceCharacterCount": 1072,
-      "createdDate": 1680765753080,
-      "modifiedDate": 1680774880714
-    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -65,6 +45,16 @@
       "nonWhitespaceCharacterCount": 242,
       "createdDate": 1680678724875,
       "modifiedDate": 1680690131697
+    },
+    "Quotes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 258,
+      "nonWhitespaceCharacterCount": 215,
+      "createdDate": 1680778371981,
+      "modifiedDate": 1680779504816
     },
     "Market-Failure.md": {
       "isDirectory": false,
@@ -115,6 +105,16 @@
       "nonWhitespaceCharacterCount": 535,
       "createdDate": 1680678889215,
       "modifiedDate": 1680692008531
+    },
+    "Chemistry-Topic-Test-One-Checklist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1309,
+      "nonWhitespaceCharacterCount": 1072,
+      "createdDate": 1680765753080,
+      "modifiedDate": 1680774880714
     },
     "Chemistry-Notes.md": {
       "isDirectory": false,
