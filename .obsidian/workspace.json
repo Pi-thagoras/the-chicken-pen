@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ecf2952a260f002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Price-Elasticity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market-Efficiency.md",
+                "file": "Price-Elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market-Efficiency.md",
+                "file": "Price-Elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market-Efficiency.md"
+                "file": "Price-Elasticity.md"
               }
             }
+          },
+          {
+            "id": "a5bddaa4941cbdec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,8 +169,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "006b01dd269b3c0f",
+  "active": "8ecf2952a260f002",
   "lastOpenFiles": [
+    "Economics-Notes.md",
+    "Price-Elasticity.md",
+    "Market-Efficiency.md",
+    "Chemistry-Topic-Test-One-Checklist.md",
+    "Market-Failure.md",
     "index.md",
     "assets/faviconchickenpixel.ico",
     "assets/faviconchickenpixel.ico.crdownload",
@@ -158,13 +185,9 @@
     "assets/favicon.ico.crdownload",
     "Quotes.md",
     "test.md",
-    "Market-Failure.md",
-    "Chemistry-Topic-Test-One-Checklist.md",
     "Chemistry-Notes.md",
-    "Economics-Notes.md",
     "Intermolecular-Forces.md",
     "README.md",
-    "Market-Efficiency.md",
     "assets/Molecule_Shapes.png",
     "assets/Waving_Pi.png"
   ]

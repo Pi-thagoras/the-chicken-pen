@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Price-Elasticity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 600,
+      "pageCount": 2,
+      "characterCount": 3511,
+      "nonWhitespaceCharacterCount": 2841,
+      "createdDate": 1681021748502,
+      "modifiedDate": 1681021482913
+    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -71,10 +81,10 @@
       "noteCount": 1,
       "wordCount": 600,
       "pageCount": 2,
-      "characterCount": 3507,
+      "characterCount": 3511,
       "nonWhitespaceCharacterCount": 2841,
       "createdDate": 1680687799521,
-      "modifiedDate": 1680747394583
+      "modifiedDate": 1681021482913
     },
     "Intermolecular-Forces.md": {
       "isDirectory": false,
