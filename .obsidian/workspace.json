@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Price-Elasticity.md",
+                "file": "Intermolecular-Forces.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Price-Elasticity.md",
+                "file": "Intermolecular-Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Price-Elasticity.md",
+                "file": "Intermolecular-Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Price-Elasticity.md"
+                "file": "Intermolecular-Forces.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "8ecf2952a260f002",
   "lastOpenFiles": [
-    "Economics-Notes.md",
+    "assets/Methane-Polarity.png",
     "Price-Elasticity.md",
+    "Economics-Notes.md",
     "Market-Efficiency.md",
     "Chemistry-Topic-Test-One-Checklist.md",
     "Market-Failure.md",
