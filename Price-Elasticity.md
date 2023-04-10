@@ -13,7 +13,7 @@ title: "Price Elasticity"
 - This is called the percentage change calculation or aka point method
 
 **Or can be measured by:**
-- $\frac{\Delta Quantity}{Q_{avg}} \times \frac{P_{avg}}{\Delta Price}$
+- Change in Quantity / Q$_{avg}$ X P$_{avg}$ / Change in Price
 - This is called the midpoint average
 
 
