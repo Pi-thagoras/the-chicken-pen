@@ -4,29 +4,29 @@ title: "Price Elasticity"
 
 ## What is Price Elasticity?
 
-<u>Price Elasticity</u> is how responsive we are to certain changes in price of goods.
+Price Elasticity  how responsive we are to certain changes in price of goods.
 
 #### Price Elasticity of Demand
 - Measures the responsiveness of quantity demanded to changes in price
 
 **This can be measured by:**
-- Percentage change in quantity demanded ÷ Percentage change in price
+- % change in quantity demanded / % change in price
 - This is called the percentage change calculation or aka point method
 
 **Or can be measured by:**
-- Change in Quantity ÷ Q$_{avg}$ X P$_{avg}$ ÷ Change in Price
+- $\frac{\Delta Quantity}{Q_{avg}} \times \frac{P_{avg}}{\Delta Price}$
 - This is called the midpoint average
 
 
 ## Types of Price Elasticity
-| Elasticity          | Elasticity Co-efficient | Interpretation                                    |
-| ------------------- | ----------------------- | ------------------------------------------------- |
-| Price Elastic       | E > 1                   | Change in supply is greater than change in price  |
-| Price Inelastic     | E < 1                   | Change in supply is less than change in price     |
-| Perfectly Elastic   | E = ∞                   | Change in price results in no supply              |
-| Perfectly Inelastic | E = 0                   | Change in price results in no change in supply    |
-| Unitary Elastic     | E = 1                   | Change in supply is equal to than change in price |
 
+| Elasticity          | Elasticity Co-efficient | Interpretation                                    |                                     
+| ------------------- | ----------------------- | ------------------------------------------------- |
+| Price Elastic       | E > 1                   | Change in supply is greater than change in price  |                                     
+| Price Inelastic     | E < 1                   | Change in supply is less than change in price     |                                   
+| Perfectly Elastic   | E = $\infty$            | Change in price results in no supply              |
+| Perfectly Inelastic | E = 0                   | Change in price results in no change in supply    |                                 
+| Unitary Elastic     | E = 1                   | Change in supply is equal to than change in price |                                     
 
 #### Price Elastic
 -   The quantity demanded of the product is relatively responsive to changes in price
