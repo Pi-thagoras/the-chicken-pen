@@ -4,7 +4,7 @@ title: "Price Elasticity"
 
 ## What is Price Elasticity?
 
-Price Elasticity  how responsive we are to certain changes in price of goods.
+Price Elasticity is how responsive we are to certain changes in price of goods.
 
 #### Price Elasticity of Demand
 - Measures the responsiveness of quantity demanded to changes in price
@@ -14,7 +14,7 @@ Price Elasticity  how responsive we are to certain changes in price of goods.
 - This is called the percentage change calculation or aka point method
 
 **Or can be measured by:**
-- $\frac{\Delta Quantity}{Q_{avg}} \times \frac{P_{avg}}{\Delta Price}$
+- Change in Quantity / Q$_{avg}$  $\times$  P$_{avg}$ / Change in Price
 - This is called the midpoint average
 
 
