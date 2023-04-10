@@ -14,7 +14,7 @@ Price Elasticity is how responsive we are to certain changes in price of goods.
 - This is called the percentage change calculation or aka point method
 
 **Or can be measured by:**
-- Change in Quantity / Q$_{avg}$  $\times$  P$_{avg}$ / Change in Price
+- Change in Quantity / Average Quantity  X  Average Price / Change in Price
 - This is called the midpoint average
 
 
@@ -24,7 +24,7 @@ Price Elasticity is how responsive we are to certain changes in price of goods.
 | ------------------- | ----------------------- | ------------------------------------------------- |
 | Price Elastic       | E > 1                   | Change in supply is greater than change in price  |                                     
 | Price Inelastic     | E < 1                   | Change in supply is less than change in price     |                                   
-| Perfectly Elastic   | E = $\infty$            | Change in price results in no supply              |
+| Perfectly Elastic   | E = ∞                   | Change in price results in no supply              |
 | Perfectly Inelastic | E = 0                   | Change in price results in no change in supply    |                                 
 | Unitary Elastic     | E = 1                   | Change in supply is equal to than change in price |                                     
 
