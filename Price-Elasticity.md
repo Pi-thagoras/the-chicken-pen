@@ -14,7 +14,7 @@ Price Elasticity is how responsive we are to certain changes in price of goods.
 - This is called the percentage change calculation or aka point method
 
 **Or can be measured by:**
-- Change in Quantity / Average Quantity  X  Average Price / Change in Price
+- (Change in Quantity / Average Quantity)  X  (Average Price / Change in Price)
 - This is called the midpoint average
 
 
