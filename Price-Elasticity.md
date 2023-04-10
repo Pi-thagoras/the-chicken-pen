@@ -9,11 +9,11 @@ title: "Price Elasticity"
 - Measures the responsiveness of quantity demanded to changes in price
 
 **This can be measured by:**
-- % change in quantity demanded / % change in price
+- % change in quantity demanded ÷ % change in price
 - This is called the percentage change calculation or aka point method
 
 **Or can be measured by:**
-- Change in Quantity / Q$_{avg}$ X P$_{avg}$ / Change in Price
+- Change in Quantity ÷ Q$_{avg}$ X P$_{avg}$ ÷ Change in Price
 - This is called the midpoint average
 
 
@@ -22,7 +22,7 @@ title: "Price Elasticity"
 | ------------------- | ----------------------- | ------------------------------------------------- |
 | Price Elastic       | E > 1                   | Change in supply is greater than change in price  |                                     
 | Price Inelastic     | E < 1                   | Change in supply is less than change in price     |                                   
-| Perfectly Elastic   | E = $\infty$            | Change in price results in no supply              |
+| Perfectly Elastic   | E = ∞            | Change in price results in no supply              |
 | Perfectly Inelastic | E = 0                   | Change in price results in no change in supply    |                                 
 | Unitary Elastic     | E = 1                   | Change in supply is equal to than change in price |                                     
 
