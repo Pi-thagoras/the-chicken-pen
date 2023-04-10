@@ -41,13 +41,13 @@ This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 1. There must be at least one bond that is polar
 2. Molecule must be non-symmetric
 
-| Shape             | Molecule | Diagram | Polar or Non-Polar | Why?       |
-| ----------------- | -------- | ------- | ------------------ | ---------- |
-| Tetrahedral       | CH4      |    ![Methane-Polarity](assets/Methane-Polarity.png)     | Non-Polar          | Symmetric  |
-| Linear            | CO2      |  ![CarbonDioxide-Polarity](assets/CarbonDioxide-Polarity.png)       | Non-Polar          | Symmetric  |
-| Any Same Molecule | H2       |    ![Hydrogen-Polarity](assets/Hydrogen-Polarity.png)     | Non-Polar          | Symmetric  |
-| Linear            | HCl      |   ![HydrogenChloride-Polarity](assets/HydrogenChloride-Polarity.png)      | Polar              | Asymmetric |
-| Trigonal Planar   | BCl3     |  ![BoronTriChloride-Polarity](assets/BoronTriChloride-Polarity.png)       | Non-Polar          | Symmetric  |
-| V-Shaped          | H2O      |  ![Water-Polarity](assets/Water-Polarity.png)       | Polar              | Asymmetric |
-| Pyramidal         | NH3      |   ![Ammonia-Polarity](assets/Ammonia-Polarity.png)      | Polar              | Asymmetric |
-|                   |          |         |                    |            |
+| Shape             | Molecule | Diagram                                                            | Polar or Non-Polar | Why?       |
+| ----------------- | -------- | ------------------------------------------------------------------ | ------------------ | ---------- |
+| Tetrahedral       | CH4      | ![Methane-Polarity](assets/Methane-Polarity.png)                   | Non-Polar          | Symmetric  |
+| Linear            | CO2      | ![CarbonDioxide-Polarity](assets/CarbonDioxide-Polarity.png)       | Non-Polar          | Symmetric  |
+| Any Same Molecule | H2       | ![Hydrogen-Polarity](assets/Hydrogen-Polarity.png)                 | Non-Polar          | Symmetric  |
+| Linear            | HCl      | ![HydrogenChloride-Polarity](assets/HydrogenChloride-Polarity.png) | Polar              | Asymmetric |
+| Trigonal Planar   | BCl3     | ![BoronTriChloride-Polarity](assets/BoronTriChloride-Polarity.png) | Non-Polar          | Symmetric  |
+| V-Shaped          | H2O      | ![Water-Polarity](assets/Water-Polarity.png)                       | Polar              | Asymmetric |
+| Pyramidal         | NH3      | ![Ammonia-Polarity](assets/Ammonia-Polarity.png)                   | Polar              | Asymmetric |
+|                   |          |                                                                    |                    |            |
