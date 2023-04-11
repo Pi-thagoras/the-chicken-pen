@@ -97,16 +97,16 @@ img {
 }
 
 .waves {
-  position:relative;
+  position: relative;
   width: 100%;
   height:16vh;
-  margin-bottom:-10px; /*Fix for safari gap*/
+  /*margin-bottom:-10px;*/ /*Fix for safari gap*/
   min-height:100px;
   max-height:150px;
 }
 
 .page-content {
-  position:relative;
+  position: relative;
   background-color: white;
   max-width: 64rem;
   padding: 2rem 6rem;
