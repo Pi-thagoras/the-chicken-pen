@@ -4,15 +4,15 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #000000;
-  background-color: #FEB139;
+  color: #143F6B;
+  background-color: #F6F54D;
 }
 
 .page-header {
   text-align: center;
   padding: 2%;
-  background-color: #143F6B;
-  color: rgb(255, 255, 255);
+  background-color: #F55353;
+  color: #143F6B;
 }
 
 h1 {
