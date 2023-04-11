@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Price-Elasticity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 648,
+      "pageCount": 2.16,
+      "characterCount": 4076,
+      "nonWhitespaceCharacterCount": 3016,
+      "createdDate": 1681021748502,
+      "modifiedDate": 1681092493258
+    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -49,22 +59,12 @@
     "Quotes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 258,
-      "nonWhitespaceCharacterCount": 215,
+      "wordCount": 179,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 1067,
+      "nonWhitespaceCharacterCount": 877,
       "createdDate": 1680778371981,
-      "modifiedDate": 1680779504816
-    },
-    "Price-Elasticity.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 648,
-      "pageCount": 2.16,
-      "characterCount": 4076,
-      "nonWhitespaceCharacterCount": 3016,
-      "createdDate": 1681021748502,
-      "modifiedDate": 1681092493258
+      "modifiedDate": 1681184234228
     },
     "Market-Failure.md": {
       "isDirectory": false,
@@ -104,7 +104,7 @@
       "characterCount": 653,
       "nonWhitespaceCharacterCount": 542,
       "createdDate": 1680678724886,
-      "modifiedDate": 1680779476704
+      "modifiedDate": 1681178559214
     },
     "Economics-Notes.md": {
       "isDirectory": false,
