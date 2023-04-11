@@ -17,3 +17,13 @@ I also have some [quotes](Quotes.md), taken from a variety of different sources.
 
 
 *This website is constantly being updated whenever I have new notes/other stuff to add.*
+
+
+
+
+
+
+
+
+
+
