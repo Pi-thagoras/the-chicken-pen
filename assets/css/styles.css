@@ -78,7 +78,7 @@ img {
 .page-header {
   position:relative;
   text-align:center;
-  background: linear-gradient(60deg, #143F6B 0%, rgb(0, 146, 214) 100%);
+  background: linear-gradient(60deg, #CD104D 0%, #FFD372 100%);
   color:white;
 }
 
@@ -117,7 +117,7 @@ img {
 .page-footer {
   position: relative;
   padding: 2%;
-  background: linear-gradient(60deg, #143F6B 0%, rgb(0, 146, 214) 100%);
+  background: linear-gradient(60deg, #CD104D 0%, #FFD372 100%);
   color: #ffffff;
 }
 
