@@ -5,14 +5,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #143F6B;
-  background-color: #F6F54D;
+  background-color: #ffffff;
 }
 
 .page-header {
   text-align: center;
   padding: 2%;
-  background-color: #F55353;
-  color: #143F6B;
+  background-color: #143F6B;
+  color: #ffffff;
 }
 
 h1 {
