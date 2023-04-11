@@ -8,12 +8,12 @@ body {
   background-color: #ffffff;
 }
 
-.page-header {
+/*.page-header {
   text-align: center;
   padding: 2%;
   background-color: #143F6B;
   color: #ffffff;
-}
+}*/
 
 h1 {
   font-size: 50px;
@@ -89,6 +89,8 @@ img {
 }
 
 .inner-header {
+  height:65vh;
+  width:100%;
   margin: 0;
   padding: 0;
 }
