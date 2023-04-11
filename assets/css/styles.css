@@ -26,13 +26,6 @@ h1 {
   font-size: 1.1rem;
 }*/
 
-.page-footer {
-  position:relative;
-  padding: 2%;
-  background-color: #143F6B;
-  color: #ffffff;
-}
-
 blockquote {
   padding: 0 1rem;
   margin-left: 0;
@@ -114,8 +107,14 @@ img {
 
 .page-content {
   position:relative;
-  text-align:center;
   background-color: white;
+}
+
+.page-footer {
+  position: relative;
+  padding: 2%;
+  background-color: #143F6B;
+  color: #ffffff;
 }
 
 /* Animation */
