@@ -79,6 +79,7 @@ img {
   width: 600px;
 }
 
+/*Waves Below*/
 
 .header {
   position:relative;
@@ -88,8 +89,6 @@ img {
 }
 
 .inner-header {
-  height:65vh;
-  width:100%;
   margin: 0;
   padding: 0;
 }
