@@ -19,14 +19,15 @@ h1 {
   font-size: 50px;
 }
 
-.page-content {
+/*.page-content {
   max-width: 64rem;
   padding: 2rem 6rem;
   margin: 0 auto;
   font-size: 1.1rem;
-}
+}*/
 
 .page-footer {
+  position:relative;
   padding: 2%;
   background-color: #143F6B;
   color: #ffffff;
