@@ -16,16 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Price-Elasticity.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 639,
-      "pageCount": 2.13,
-      "characterCount": 4053,
-      "nonWhitespaceCharacterCount": 3013,
-      "createdDate": 1681021748502,
-      "modifiedDate": 1681023551750
-    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -66,6 +56,16 @@
       "createdDate": 1680778371981,
       "modifiedDate": 1680779504816
     },
+    "Price-Elasticity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 648,
+      "pageCount": 2.16,
+      "characterCount": 4076,
+      "nonWhitespaceCharacterCount": 3016,
+      "createdDate": 1681021748502,
+      "modifiedDate": 1681092493258
+    },
     "Market-Failure.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -89,12 +89,12 @@
     "Intermolecular-Forces.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 277,
-      "pageCount": 0.9233333333333333,
-      "characterCount": 2100,
-      "nonWhitespaceCharacterCount": 1513,
+      "wordCount": 278,
+      "pageCount": 0.9266666666666666,
+      "characterCount": 2374,
+      "nonWhitespaceCharacterCount": 1638,
       "createdDate": 1680690605652,
-      "modifiedDate": 1681044883137
+      "modifiedDate": 1681045146459
     },
     "index.md": {
       "isDirectory": false,
