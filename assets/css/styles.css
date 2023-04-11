@@ -81,7 +81,7 @@ img {
 
 /*Waves Below*/
 
-.header {
+.page-header {
   position:relative;
   text-align:center;
   background: linear-gradient(60deg, #143F6B 0%, rgba(0,172,193,1) 100%);
@@ -111,7 +111,7 @@ img {
   max-height:150px;
 }
 
-.content {
+.page-content {
   position:relative;
   height:20vh;
   text-align:center;
