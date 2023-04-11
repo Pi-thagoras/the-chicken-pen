@@ -26,6 +26,12 @@ h1 {
   font-size: 1.1rem;
 }
 
+.page-footer {
+  padding: 1%;
+  background-color: #143F6B;
+  color: #ffffff;
+}
+
 blockquote {
   padding: 0 1rem;
   margin-left: 0;
