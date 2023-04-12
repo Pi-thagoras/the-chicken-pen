@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "The Town.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681267070427,
+      "modifiedDate": 1681267070427
+    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
