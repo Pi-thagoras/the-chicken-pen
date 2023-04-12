@@ -66,11 +66,11 @@ table {
   overflow: auto;
 }
 
-img content:url("assets/Molecule_Shapes.png"){
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 100px;
+  height: 300px;
   width: auto;
 }
 
