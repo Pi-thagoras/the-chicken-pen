@@ -16,16 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Price-Elasticity.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 648,
-      "pageCount": 2.16,
-      "characterCount": 4076,
-      "nonWhitespaceCharacterCount": 3016,
-      "createdDate": 1681021748502,
-      "modifiedDate": 1681092493258
-    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -35,16 +25,6 @@
       "nonWhitespaceCharacterCount": 0,
       "createdDate": 1680678724889,
       "modifiedDate": 1680678724889
-    },
-    "test.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 16,
-      "nonWhitespaceCharacterCount": 12,
-      "createdDate": 1680678724888,
-      "modifiedDate": 1680685541971
     },
     "README.md": {
       "isDirectory": false,
@@ -56,15 +36,35 @@
       "createdDate": 1680678724875,
       "modifiedDate": 1680690131697
     },
+    "test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 12,
+      "createdDate": 1680678724888,
+      "modifiedDate": 1680685541971
+    },
     "Quotes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 179,
-      "pageCount": 0.5966666666666667,
-      "characterCount": 1067,
-      "nonWhitespaceCharacterCount": 877,
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1140,
+      "nonWhitespaceCharacterCount": 940,
       "createdDate": 1680778371981,
-      "modifiedDate": 1681184234228
+      "modifiedDate": 1681216152446
+    },
+    "Price-Elasticity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 648,
+      "pageCount": 2.16,
+      "characterCount": 4076,
+      "nonWhitespaceCharacterCount": 3016,
+      "createdDate": 1681021748502,
+      "modifiedDate": 1681092493258
     },
     "Market-Failure.md": {
       "isDirectory": false,
@@ -106,16 +106,6 @@
       "createdDate": 1680678724886,
       "modifiedDate": 1681178559214
     },
-    "Economics-Notes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 108,
-      "pageCount": 0.36,
-      "characterCount": 685,
-      "nonWhitespaceCharacterCount": 574,
-      "createdDate": 1680678889215,
-      "modifiedDate": 1681023579198
-    },
     "Chemistry-Topic-Test-One-Checklist.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -125,6 +115,16 @@
       "nonWhitespaceCharacterCount": 1072,
       "createdDate": 1680765753080,
       "modifiedDate": 1680774880714
+    },
+    "Economics-Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 574,
+      "createdDate": 1680678889215,
+      "modifiedDate": 1681023579198
     },
     "Chemistry-Notes.md": {
       "isDirectory": false,
