@@ -16,15 +16,15 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "The Town.md": {
+    "The-Town.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 115,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 1101,
+      "nonWhitespaceCharacterCount": 984,
       "createdDate": 1681267070427,
-      "modifiedDate": 1681267070427
+      "modifiedDate": 1681278759677
     },
     "testfolder/test.md": {
       "isDirectory": false,
@@ -36,16 +36,6 @@
       "createdDate": 1680678724889,
       "modifiedDate": 1680678724889
     },
-    "README.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 298,
-      "nonWhitespaceCharacterCount": 242,
-      "createdDate": 1680678724875,
-      "modifiedDate": 1680690131697
-    },
     "test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -55,6 +45,16 @@
       "nonWhitespaceCharacterCount": 12,
       "createdDate": 1680678724888,
       "modifiedDate": 1680685541971
+    },
+    "README.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 298,
+      "nonWhitespaceCharacterCount": 242,
+      "createdDate": 1680678724875,
+      "modifiedDate": 1680690131697
     },
     "Quotes.md": {
       "isDirectory": false,
@@ -116,16 +116,6 @@
       "createdDate": 1680678724886,
       "modifiedDate": 1681178559214
     },
-    "Chemistry-Topic-Test-One-Checklist.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 212,
-      "pageCount": 0.7066666666666667,
-      "characterCount": 1309,
-      "nonWhitespaceCharacterCount": 1072,
-      "createdDate": 1680765753080,
-      "modifiedDate": 1680774880714
-    },
     "Economics-Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -135,6 +125,16 @@
       "nonWhitespaceCharacterCount": 574,
       "createdDate": 1680678889215,
       "modifiedDate": 1681023579198
+    },
+    "Chemistry-Topic-Test-One-Checklist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1309,
+      "nonWhitespaceCharacterCount": 1072,
+      "createdDate": 1680765753080,
+      "modifiedDate": 1680774880714
     },
     "Chemistry-Notes.md": {
       "isDirectory": false,

@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d124ddedbad6b6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Town.md",
+                "file": "The-Town.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "28e483aa4e43e392",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Town.md",
+                "file": "The-Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Town.md",
+                "file": "The-Town.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Town.md"
+                "file": "The-Town.md"
               }
             }
           },
@@ -181,14 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d124ddedbad6b6da",
+  "active": "8ecf2952a260f002",
   "lastOpenFiles": [
+    "index.md",
+    "The-Town.md",
+    "[.md",
     "README.md",
-    "The Town.md",
     "Quotes.md",
     "test.md",
     "Chemistry-Topic-Test-One-Checklist.md",
-    "index.md",
     "Price-Elasticity.md",
     "Intermolecular-Forces.md",
     "Market-Failure.md",
