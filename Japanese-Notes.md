@@ -6,6 +6,7 @@ Hello these my Japanese Notes! Kind of.
 
 Pun Time!
 >What do you call a rooster that lays an egg? へんですね。
+
 >マイケル　ジャクソン：日日
 
 Japanese is... a language. 言語

@@ -16,36 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Japanese-History.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 173,
-      "pageCount": 0.5766666666666667,
-      "characterCount": 815,
-      "nonWhitespaceCharacterCount": 640,
-      "createdDate": 1681454804376,
-      "modifiedDate": 1681455604317
-    },
-    "Japanese-Text-Types.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 146,
-      "pageCount": 0.4866666666666667,
-      "characterCount": 766,
-      "nonWhitespaceCharacterCount": 607,
-      "createdDate": 1681453791900,
-      "modifiedDate": 1681454622517
-    },
-    "Japanese-Notes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 334,
-      "nonWhitespaceCharacterCount": 278,
-      "createdDate": 1681452322592,
-      "modifiedDate": 1681455615655
-    },
     "testfolder/test.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -126,6 +96,36 @@
       "createdDate": 1680687799521,
       "modifiedDate": 1681021482913
     },
+    "Japanese-Text-Types.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 146,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 767,
+      "nonWhitespaceCharacterCount": 607,
+      "createdDate": 1681453791900,
+      "modifiedDate": 1681464006453
+    },
+    "Japanese-Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 278,
+      "createdDate": 1681452322592,
+      "modifiedDate": 1681455615655
+    },
+    "Japanese-History.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 211,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 986,
+      "nonWhitespaceCharacterCount": 753,
+      "createdDate": 1681454804376,
+      "modifiedDate": 1681464478987
+    },
     "Intermolecular-Forces.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -139,12 +139,12 @@
     "index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 122,
-      "pageCount": 0.4066666666666667,
-      "characterCount": 773,
-      "nonWhitespaceCharacterCount": 643,
+      "wordCount": 130,
+      "pageCount": 0.43333333333333335,
+      "characterCount": 841,
+      "nonWhitespaceCharacterCount": 703,
       "createdDate": 1680678724886,
-      "modifiedDate": 1681452320706
+      "modifiedDate": 1681463912243
     },
     "Economics-Notes.md": {
       "isDirectory": false,
