@@ -1,4 +1,6 @@
-# The Town
+---
+title: "The Town"
+---
 
 The Town is located in a no better place than... the desert. Woo! Literally one of the harshest biomes to be living in (Deserts include polar deserts yes, but this desert is like Arrakis - expansive and hot, minus the sandworms). You have to be careful of countless things. Heatstrokes, rattlesnakes, and entire sandstorms. I have no clue how the inhabitants of this Town survived this long, but their houses are still intact.
 

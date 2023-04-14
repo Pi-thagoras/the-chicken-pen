@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The-Town.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eced0e4d382a1a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese-Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a478031ae6b826b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The-Town.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The-Town.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The-Town.md"
+                "file": "index.md"
               }
             }
           },
@@ -169,17 +193,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ecf2952a260f002",
+  "active": "9a478031ae6b826b",
   "lastOpenFiles": [
-    "index.md",
+    "Japanese-Text-Types.md",
+    "Japanese-History.md",
+    "Intermolecular-Forces.md",
+    "Japanese-Notes.md",
+    "Chemistry-Topic-Test-One-Checklist.md",
+    "Economics-Notes.md",
     "The-Town.md",
+    "Chemistry-Notes.md",
+    "index.md",
+    "Quotes.md",
     "[.md",
     "README.md",
-    "Quotes.md",
     "test.md",
-    "Chemistry-Topic-Test-One-Checklist.md",
     "Price-Elasticity.md",
-    "Intermolecular-Forces.md",
     "Market-Failure.md",
     "Market-Efficiency.md",
     "assets/BoronTriChloride-Polarity.png",
@@ -189,14 +218,12 @@
     "assets/Hydrogen-Polarity.png",
     "assets/CarbonDioxide-Polarity.png",
     "assets/Methane-Polarity.png",
-    "Economics-Notes.md",
     "assets/faviconchickenpixel.ico",
     "assets/faviconchickenpixel.ico.crdownload",
     "assets/IconPixelChicken.png",
     "assets/IconPixelChicken.png.crdownload",
     "assets/favicon.ico",
     "assets/favicon.ico.crdownload",
-    "Chemistry-Notes.md",
     "assets/Molecule_Shapes.png",
     "assets/Waving_Pi.png"
   ]
