@@ -3,7 +3,6 @@ title: "Japan's History"
 ---
 
 ## The Eras of Japan
-
 **縄文時代** - じょうもん
 - 13000BC – 300BC
 **弥生時代** - やよい

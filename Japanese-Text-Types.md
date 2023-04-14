@@ -10,6 +10,7 @@ These are for the 'Writing' section of the Year 12 JSL.
 - **Email**
 	- Person's name at top (1 Indent from Left)
 	- "Your" name (Right side at the end of passage)
+
 ## Part B - Polite
 - **Article**
 	- Title (1 Indent from Right)
