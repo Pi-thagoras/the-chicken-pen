@@ -16,15 +16,15 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "testfolder/test.md": {
+    "Price-Elasticity.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1680678724889,
-      "modifiedDate": 1680678724889
+      "wordCount": 648,
+      "pageCount": 2.16,
+      "characterCount": 4076,
+      "nonWhitespaceCharacterCount": 3016,
+      "createdDate": 1681021748502,
+      "modifiedDate": 1681092493258
     },
     "The-Town.md": {
       "isDirectory": false,
@@ -35,6 +35,26 @@
       "nonWhitespaceCharacterCount": 2892,
       "createdDate": 1681267070427,
       "modifiedDate": 1681453877409
+    },
+    "testfolder/test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1680678724889,
+      "modifiedDate": 1680678724889
+    },
+    "Quotes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1140,
+      "nonWhitespaceCharacterCount": 940,
+      "createdDate": 1680778371981,
+      "modifiedDate": 1681216152446
     },
     "test.md": {
       "isDirectory": false,
@@ -55,26 +75,6 @@
       "nonWhitespaceCharacterCount": 242,
       "createdDate": 1680678724875,
       "modifiedDate": 1680690131697
-    },
-    "Quotes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 188,
-      "pageCount": 0.6266666666666667,
-      "characterCount": 1140,
-      "nonWhitespaceCharacterCount": 940,
-      "createdDate": 1680778371981,
-      "modifiedDate": 1681216152446
-    },
-    "Price-Elasticity.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 648,
-      "pageCount": 2.16,
-      "characterCount": 4076,
-      "nonWhitespaceCharacterCount": 3016,
-      "createdDate": 1681021748502,
-      "modifiedDate": 1681092493258
     },
     "Market-Failure.md": {
       "isDirectory": false,
@@ -106,16 +106,6 @@
       "createdDate": 1681453791900,
       "modifiedDate": 1681464006453
     },
-    "Japanese-Notes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 334,
-      "nonWhitespaceCharacterCount": 278,
-      "createdDate": 1681452322592,
-      "modifiedDate": 1681455615655
-    },
     "Japanese-History.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -125,6 +115,16 @@
       "nonWhitespaceCharacterCount": 753,
       "createdDate": 1681454804376,
       "modifiedDate": 1681464478987
+    },
+    "Japanese-Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 335,
+      "nonWhitespaceCharacterCount": 278,
+      "createdDate": 1681452322592,
+      "modifiedDate": 1681468876043
     },
     "Intermolecular-Forces.md": {
       "isDirectory": false,
@@ -139,12 +139,12 @@
     "index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 130,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 841,
-      "nonWhitespaceCharacterCount": 703,
+      "wordCount": 129,
+      "pageCount": 0.43,
+      "characterCount": 831,
+      "nonWhitespaceCharacterCount": 694,
       "createdDate": 1680678724886,
-      "modifiedDate": 1681463912243
+      "modifiedDate": 1681525732158
     },
     "Economics-Notes.md": {
       "isDirectory": false,

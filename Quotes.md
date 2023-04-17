@@ -5,6 +5,8 @@ title: "Quotes"
 Welp, here are quotes that I personally think are cool.
 
 
+>アイドルは偶像 (ぐうぞう) だよ。噓という魔法 (まほう) で輝く生き物、噓はとびきりの愛なんだよ。- Hoshino Ai, 推しの子
+
 >刀には真実が移る。- Yamada Asaemon Sagiri, 地獄楽 (Hell's Paradise)
 
 >I must not fear. Fear is the mindkiller. - **Frank Herbert**, Dune
