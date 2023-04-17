@@ -2,12 +2,12 @@
 title: "Quotes"
 ---
 
-Welp, here are quotes that I personally think are cool.
+Welp, here are quotes that I personally think are cool. Books and movies are quoted with the author's name in bold and the book/movie name after it, while animes are quoted with the person who actually said it in bold and the name of the anime after it.
 
 
->アイドルは偶像 (ぐうぞう) だよ。噓という魔法 (まほう) で輝く生き物、噓はとびきりの愛なんだよ。- Hoshino Ai, 推しの子
+>アイドルは偶像 (ぐうぞう) だよ。噓という魔法 (まほう) で輝く生き物、噓はとびきりの愛なんだよ。- **Hoshino Ai**, 推しの子
 
->刀には真実が移る。- Yamada Asaemon Sagiri, 地獄楽 (Hell's Paradise)
+>刀には真実が移る。- **Yamada Asaemon Sagiri**, 地獄楽 (Hell's Paradise)
 
 >I must not fear. Fear is the mindkiller. - **Frank Herbert**, Dune
 
