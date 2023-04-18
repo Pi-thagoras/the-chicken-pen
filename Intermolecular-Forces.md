@@ -35,7 +35,7 @@ This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 - There is an uneven charge distribution
 - ∴ Polar Bond
 
-### Polarity of Molecules
+## Polarity of Molecules
 
 **To be polar:**
 1. There must be at least one bond that is polar
@@ -51,3 +51,30 @@ This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 | V-Shaped          | H2O      | ![Water-Polarity](assets/Water-Polarity.png)                       | Polar              | Asymmetric |
 | Pyramidal         | NH3      | ![Ammonia-Polarity](assets/Ammonia-Polarity.png)                   | Polar              | Asymmetric |
 |                   |          |                                                                    |                    |            |
+
+
+# Van der Waals Forces
+
+- These are Intermolecular Forces between molecules
+- The strength determines the M.P, B.P and other properties
+
+### 1. Dipole - Dipole Attraction
+
+- These affect polar molecules only
+- Due to slight differences in charges on each side of the molecule
+
+
+### 2. Dispersion Forces
+
+- It is the only way non-polar molecules interact wich each other
+
+1. Instantaneous dipole caused by random movement of electrons
+2. Induce dipoles in neighboring molecules
+3. Sets up dispersion force between molecules - The strength of the dispersion forces are determined by:
+	- Number of electrons in the molecule
+		- A larger number of electrons means temporary dipoles are larger and more frequent
+	- Shape of molecules
+		- Longer and Thinner is better
+
+Polar Molecules <u>can</u> experience both dipole - dipole AND dispersion forces.
+

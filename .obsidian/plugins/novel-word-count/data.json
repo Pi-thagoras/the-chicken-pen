@@ -16,16 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Nanotechnology.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 278,
-      "pageCount": 0.9266666666666666,
-      "characterCount": 2374,
-      "nonWhitespaceCharacterCount": 1638,
-      "createdDate": 1681716016273,
-      "modifiedDate": 1681045146459
-    },
     "The-Town.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -35,16 +25,6 @@
       "nonWhitespaceCharacterCount": 2892,
       "createdDate": 1681267070427,
       "modifiedDate": 1681453877409
-    },
-    "test.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 16,
-      "nonWhitespaceCharacterCount": 12,
-      "createdDate": 1680678724888,
-      "modifiedDate": 1680685541971
     },
     "testfolder/test.md": {
       "isDirectory": false,
@@ -56,25 +36,15 @@
       "createdDate": 1680678724889,
       "modifiedDate": 1680678724889
     },
-    "Price-Elasticity.md": {
+    "test.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 648,
-      "pageCount": 2.16,
-      "characterCount": 4076,
-      "nonWhitespaceCharacterCount": 3016,
-      "createdDate": 1681021748502,
-      "modifiedDate": 1681092493258
-    },
-    "Quotes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 234,
-      "pageCount": 0.78,
-      "characterCount": 1418,
-      "nonWhitespaceCharacterCount": 1171,
-      "createdDate": 1680778371981,
-      "modifiedDate": 1681702249340
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 12,
+      "createdDate": 1680678724888,
+      "modifiedDate": 1680685541971
     },
     "README.md": {
       "isDirectory": false,
@@ -86,25 +56,25 @@
       "createdDate": 1680678724875,
       "modifiedDate": 1680690131697
     },
-    "Market-Failure.md": {
+    "Quotes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 406,
-      "pageCount": 1.3533333333333333,
-      "characterCount": 2529,
-      "nonWhitespaceCharacterCount": 2045,
-      "createdDate": 1680684746706,
-      "modifiedDate": 1680689330137
+      "wordCount": 234,
+      "pageCount": 0.78,
+      "characterCount": 1418,
+      "nonWhitespaceCharacterCount": 1171,
+      "createdDate": 1680778371981,
+      "modifiedDate": 1681702249340
     },
-    "Japanese-Text-Types.md": {
+    "Nanotechnology.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 146,
-      "pageCount": 0.4866666666666667,
-      "characterCount": 767,
-      "nonWhitespaceCharacterCount": 607,
-      "createdDate": 1681453791900,
-      "modifiedDate": 1681464006453
+      "wordCount": 123,
+      "pageCount": 0.41,
+      "characterCount": 795,
+      "nonWhitespaceCharacterCount": 651,
+      "createdDate": 1681716016273,
+      "modifiedDate": 1681717190296
     },
     "Market-Efficiency.md": {
       "isDirectory": false,
@@ -115,6 +85,36 @@
       "nonWhitespaceCharacterCount": 2841,
       "createdDate": 1680687799521,
       "modifiedDate": 1681021482913
+    },
+    "Market-Failure.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 406,
+      "pageCount": 1.3533333333333333,
+      "characterCount": 2529,
+      "nonWhitespaceCharacterCount": 2045,
+      "createdDate": 1680684746706,
+      "modifiedDate": 1680689330137
+    },
+    "Price-Elasticity.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 648,
+      "pageCount": 2.16,
+      "characterCount": 4076,
+      "nonWhitespaceCharacterCount": 3016,
+      "createdDate": 1681021748502,
+      "modifiedDate": 1681092493258
+    },
+    "Japanese-Text-Types.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 146,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 767,
+      "nonWhitespaceCharacterCount": 607,
+      "createdDate": 1681453791900,
+      "modifiedDate": 1681464006453
     },
     "Japanese-Notes.md": {
       "isDirectory": false,
@@ -146,16 +146,6 @@
       "createdDate": 1680690605652,
       "modifiedDate": 1681045146459
     },
-    "index.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 129,
-      "pageCount": 0.43,
-      "characterCount": 831,
-      "nonWhitespaceCharacterCount": 694,
-      "createdDate": 1680678724886,
-      "modifiedDate": 1681525732158
-    },
     "Economics-Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -166,6 +156,26 @@
       "createdDate": 1680678889215,
       "modifiedDate": 1681023579198
     },
+    "Chemistry-Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 107,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 751,
+      "nonWhitespaceCharacterCount": 641,
+      "createdDate": 1680690218208,
+      "modifiedDate": 1681717212548
+    },
+    "index.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 129,
+      "pageCount": 0.43,
+      "characterCount": 831,
+      "nonWhitespaceCharacterCount": 694,
+      "createdDate": 1680678724886,
+      "modifiedDate": 1681525732158
+    },
     "Chemistry-Topic-Test-One-Checklist.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -175,16 +185,6 @@
       "nonWhitespaceCharacterCount": 1072,
       "createdDate": 1680765753080,
       "modifiedDate": 1680774880714
-    },
-    "Chemistry-Notes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 106,
-      "pageCount": 0.35333333333333333,
-      "characterCount": 722,
-      "nonWhitespaceCharacterCount": 612,
-      "createdDate": 1680690218208,
-      "modifiedDate": 1681716004548
     }
   }
 }
