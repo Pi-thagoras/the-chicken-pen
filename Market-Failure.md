@@ -2,7 +2,7 @@
 title: "Market Failure"
 ---
 
-## **Common Property Resources and Public Goods**
+## Common Property Resources and Public Goods
 
 #### **Classifications:**
 -   Rival:
@@ -56,3 +56,21 @@ title: "Market Failure"
 -   Goods that will be overprovided if left in the market
 
 Merit and Demerit goods are both Private goods as they are both rivalry and exclusive
+
+
+
+## Externalities
+
+**Key concepts to know:**
+-   Demand: Private benefits that consumers receive
+-   Supply: Private costs of production
+-   MPC (Marginal Private Cost): Costs to producers of producing one more unit of a good
+-   MSB (Marginal Social Cost) : Costs to society of producing one more unit of a good
+-   MPB (Marginal Private Benefit): Benefits to consumers from consuming on more unit of a good
+-   MSB (Marginal Social Benefit) : Benefits to society from consuming one more unit of a good
+-   When MPC = MSC and MPB = MSB socially optimal equilibrium is achieved
+
+Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits.
+-   Side effects of economic activity or unintended consequences of economic activity
+
+Externalities cause market failure if the price mechanism does not take into account the social costs and benefits of production and consumption.
