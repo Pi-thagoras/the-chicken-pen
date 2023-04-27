@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics-Notes.md",
+                "file": "Market-Failure.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics-Notes.md",
+                "file": "Market-Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics-Notes.md",
+                "file": "Market-Failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics-Notes.md"
+                "file": "Market-Failure.md"
               }
             }
           },
@@ -171,7 +171,9 @@
   },
   "active": "896243495a5a8107",
   "lastOpenFiles": [
+    "The-Town.md",
     "index.md",
+    "Economics-Notes.md",
     "Quotes.md",
     "test.md",
     "README.md",
@@ -181,11 +183,9 @@
     "Nanotechnology.md",
     "Chemistry-Notes.md",
     "Japanese-Notes.md",
-    "Economics-Notes.md",
     "Chemistry-Topic-Test-One-Checklist.md",
     "Japanese-History.md",
     "Japanese-Text-Types.md",
-    "The-Town.md",
     "[.md",
     "Price-Elasticity.md",
     "assets/BoronTriChloride-Polarity.png",

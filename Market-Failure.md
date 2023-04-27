@@ -70,7 +70,25 @@ Merit and Demerit goods are both Private goods as they are both rivalry and excl
 -   MSB (Marginal Social Benefit) : Benefits to society from consuming one more unit of a good
 -   When MPC = MSC and MPB = MSB socially optimal equilibrium is achieved
 
-Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits.
+Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits to a third party.
 -   Side effects of economic activity or unintended consequences of economic activity
 
 Externalities cause market failure if the price mechanism does not take into account the social costs and benefits of production and consumption.
+
+
+#### Negative Externalities
+
+Occurs when production and/or consumption creates an external cost.
+
+Causes overconsumption/production
+-   Market quantity is greater than optimal quantity
+-   Market price is less than optimal price
+Results in deadweight loss
+
+**Negative Production Externality:**
+-   Where the marginal social cost of production is higher than the marginal private cost
+-   Examples: Air, Land, Noise, Pollution which results from factory emissions
+
+**Negative Consumption Externality:**
+-   When the marginal social benefit of consumption is lower than the marginal private benefit
+-   Examples: Smoking, Alcoholism
