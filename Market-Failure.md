@@ -92,3 +92,21 @@ Results in deadweight loss
 **Negative Consumption Externality:**
 -   When the marginal social benefit of consumption is lower than the marginal private benefit
 -   Examples: Smoking, Alcoholism
+
+
+#### Positive Externalities
+
+External Benefits if consumption or production for third parties
+
+Causes underconsumption/production
+-   Market quantity is less than optimal quantity
+-   Market price is greater than optimal price
+Results in deadweight loss
+
+**Positive Consumption Externality:**
+-   Where the marginal social benefit of consumption is higher than the marginal private benefit
+-   Examples: Flu Vaccines, Education
+
+**Positive Production Externality:**
+-   Where the marginal social cost of production is lower than the marginal private cost
+-   Examples: Lower transport costs for local firms following construction of new roads
