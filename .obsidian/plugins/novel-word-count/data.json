@@ -24,7 +24,7 @@
       "characterCount": 3414,
       "nonWhitespaceCharacterCount": 2892,
       "createdDate": 1681267070427,
-      "modifiedDate": 1681453877409
+      "modifiedDate": 1682560704906
     },
     "testfolder/test.md": {
       "isDirectory": false,
@@ -89,12 +89,12 @@
     "Market-Failure.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 555,
-      "pageCount": 1.85,
-      "characterCount": 3459,
-      "nonWhitespaceCharacterCount": 2804,
+      "wordCount": 732,
+      "pageCount": 2.44,
+      "characterCount": 4754,
+      "nonWhitespaceCharacterCount": 3886,
       "createdDate": 1680684746706,
-      "modifiedDate": 1682332794374
+      "modifiedDate": 1682563494517
     },
     "Market-Efficiency.md": {
       "isDirectory": false,

@@ -76,7 +76,7 @@ Externalities occur when the production or consumption of a good/service cause e
 Externalities cause market failure if the price mechanism does not take into account the social costs and benefits of production and consumption.
 
 
-#### Negative Externalities
+### Negative Externalities
 
 Occurs when production and/or consumption creates an external cost.
 
@@ -94,7 +94,7 @@ Results in deadweight loss
 -   Examples: Smoking, Alcoholism
 
 
-#### Positive Externalities
+### Positive Externalities
 
 External Benefits if consumption or production for third parties
 
