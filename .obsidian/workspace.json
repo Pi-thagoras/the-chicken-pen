@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b718df0338890cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/test.md",
+                "file": "Market-Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/test.md",
+                "file": "Market-Failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/test.md"
+                "file": "Market-Failure.md"
               }
             }
           },
@@ -181,9 +169,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b718df0338890cf6",
+  "active": "896243495a5a8107",
   "lastOpenFiles": [
-    "private/Untitled.md",
+    "private/Test.md",
     "private/test.md",
     "Market-Failure.md",
     "The-Town.md",
