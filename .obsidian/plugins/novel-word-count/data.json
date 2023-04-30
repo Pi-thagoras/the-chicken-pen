@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "README.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 298,
+      "nonWhitespaceCharacterCount": 242,
+      "createdDate": 1680678724875,
+      "modifiedDate": 1680690131697
+    },
     "The-Town.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -36,26 +46,6 @@
       "createdDate": 1680678724889,
       "modifiedDate": 1680678724889
     },
-    "test.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 16,
-      "nonWhitespaceCharacterCount": 12,
-      "createdDate": 1680678724888,
-      "modifiedDate": 1680685541971
-    },
-    "README.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 298,
-      "nonWhitespaceCharacterCount": 242,
-      "createdDate": 1680678724875,
-      "modifiedDate": 1680690131697
-    },
     "Quotes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -65,6 +55,26 @@
       "nonWhitespaceCharacterCount": 1171,
       "createdDate": 1680778371981,
       "modifiedDate": 1681702249340
+    },
+    "private/test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 12,
+      "createdDate": 1680678724888,
+      "modifiedDate": 1680685541971
+    },
+    "private/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682823630608,
+      "modifiedDate": 1682823630608
     },
     "Price-Elasticity.md": {
       "isDirectory": false,
@@ -91,10 +101,10 @@
       "noteCount": 1,
       "wordCount": 732,
       "pageCount": 2.44,
-      "characterCount": 4754,
-      "nonWhitespaceCharacterCount": 3886,
+      "characterCount": 4752,
+      "nonWhitespaceCharacterCount": 3884,
       "createdDate": 1680684746706,
-      "modifiedDate": 1682563494517
+      "modifiedDate": 1682647623911
     },
     "Market-Efficiency.md": {
       "isDirectory": false,

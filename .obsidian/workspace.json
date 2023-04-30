@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b718df0338890cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market-Failure.md",
+                "file": "private/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market-Failure.md",
+                "file": "private/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market-Failure.md"
+                "file": "private/Untitled.md"
               }
             }
           },
@@ -169,15 +181,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "896243495a5a8107",
+  "active": "c2d30992dedd462c",
   "lastOpenFiles": [
+    "Market-Failure.md",
+    "private/Untitled.md",
     "The-Town.md",
     "index.md",
     "Economics-Notes.md",
     "Quotes.md",
-    "test.md",
+    "private/test.md",
     "README.md",
-    "Market-Failure.md",
     "Market-Efficiency.md",
     "Intermolecular-Forces.md",
     "Nanotechnology.md",

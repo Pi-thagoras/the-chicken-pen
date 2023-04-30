@@ -26,6 +26,7 @@ p {
 
 a {
   color: #c97c00;
+  transition: all .2s linear;
 }
 
 a:hover {
