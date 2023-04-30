@@ -56,16 +56,6 @@
       "createdDate": 1680778371981,
       "modifiedDate": 1681702249340
     },
-    "private/test.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 16,
-      "nonWhitespaceCharacterCount": 12,
-      "createdDate": 1680678724888,
-      "modifiedDate": 1680685541971
-    },
     "private/Untitled.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -73,8 +63,18 @@
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1682823630608,
-      "modifiedDate": 1682823630608
+      "createdDate": 1682824226601,
+      "modifiedDate": 1682824226601
+    },
+    "private/test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 12,
+      "createdDate": 1680678724888,
+      "modifiedDate": 1682824226604
     },
     "Price-Elasticity.md": {
       "isDirectory": false,
