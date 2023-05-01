@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market-Failure.md",
+                "file": "private/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market-Failure.md",
+                "file": "private/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market-Failure.md",
+                "file": "private/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market-Failure.md"
+                "file": "private/test.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "896243495a5a8107",
   "lastOpenFiles": [
+    "Market-Failure.md",
     "private/Test.md",
     "private/test.md",
-    "Market-Failure.md",
     "The-Town.md",
     "index.md",
     "Economics-Notes.md",

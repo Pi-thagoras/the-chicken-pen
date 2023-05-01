@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #143F6B;
@@ -17,11 +17,11 @@ body {
 
 h1 {
   font-size: 50px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
 p {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
 a {
