@@ -110,3 +110,41 @@ Results in deadweight loss
 **Positive Production Externality:**
 -   Where the marginal social cost of production is lower than the marginal private cost
 -   Examples: Lower transport costs for local firms following construction of new roads
+
+
+
+### Policies to Correct Externalities
+
+The Types of Policy Options:
+1. Regulation/Legislation (By the government)
+2. Market Based approaches (taxes and subsidies)
+
+**Negative Production Externalities** (Government Regulation)
+-   Regulations can forbid the dumping of pollutants to the environments
+	-   Limit the amount of pollutants (set maximum amount)
+	-   Limit Quantity of output to producers
+	-   Require Technologies (methods of production) to reduce emissions
+-   Diagram
+	-   Limit the quantity produced back to Qo by shifting the MPC to MSC
+	-   This will force the price to be higher at Po and quantity lower at Qo
+
+**Negative Production Externalities** (Taxes)
+-   Impose a tax on per unit of production or pollutant emission
+-   Internalise the external cost (recognition)
+-   Diagram
+	-   Impose a tax the size of the external cost
+	-   MPC+Tax = MSC
+	-   Quantity will fall to Qo and price will increase to Po
+
+**Negative Consumption Externalities** (Government Regulation & Advertisments)
+-   Prevent consumer activities e.g. Legal restrictions in smoking (public spaces)
+-   Diagram
+	-   Reduces demand towards MSB
+	-   Quantity lowered to Qo and price lowered to Po
+
+**Negative Consumption Externalities** (Taxes)
+-   Impose a tax the size of the external cost
+-   The impact of the tax is passed onto consumers as a higher price they now have to burden.
+-   Diagram
+	-   MPC+Tax = MSC
+	-   Quantity will fall to Qo and price will increase to Pc

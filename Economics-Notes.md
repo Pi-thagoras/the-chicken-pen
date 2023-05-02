@@ -12,4 +12,4 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 Here are my Year 11 notes that I have made so far:
 - [Price Elasticity](Price-Elasticity.md)
 - [Market Efficiency](Market-Efficiency.md)
-- [Market Failure](Market-Failure.md)
+- [Market Failure](Market-Failure.md) (Updated)
