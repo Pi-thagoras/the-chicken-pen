@@ -113,7 +113,30 @@ Results in deadweight loss
 
 
 
-### Policies to Correct Externalities
+## Policies to Correct Externalities
+
+### Overview
+
+1.  Negative Production
+	- Limits on production, pollutants and change methods of production
+	- Tax -> Shift MPC towards MSC
+
+2. Negative Consumption
+	- Legislation / Advertising -> Shift MPB towards MSB (Decrease Demand)
+	- Indirect Tax -> Shift supply curve + tax (reaches optimum quantity but increased price compared to optimum)
+
+3.  Positive Production
+	- Direct Government Provision -> MPC towards MSC (increases in supply)
+	- Subsidy -> Size of marginal external benefit internalizing it (MPC to MSC)
+
+4. Positive Consumption
+	- Legislation -> Increase consumption
+	- Advertising -> Increase consumption
+	- Government Provision -> Shift S + provision shifts to Qo
+	- Subsidy -> Doesn't impact demand, s + subsidy towards Qo and lowered price
+
+
+### In-Depth Explanations
 
 The Types of Policy Options:
 1. Regulation/Legislation (By the government)
@@ -136,6 +159,7 @@ The Types of Policy Options:
 	-   MPC+Tax = MSC
 	-   Quantity will fall to Qo and price will increase to Po
 
+
 **Negative Consumption Externalities** (Government Regulation & Advertisments)
 -   Prevent consumer activities e.g. Legal restrictions in smoking (public spaces)
 -   Diagram
@@ -148,3 +172,32 @@ The Types of Policy Options:
 -   Diagram
 	-   MPC+Tax = MSC
 	-   Quantity will fall to Qo and price will increase to Pc
+
+
+**Positive Production Externalities** (Government Regulation)
+-   Direct government provision: coming out of government funds
+-   Diagram
+	-   MPC shifts towards MSC
+	-   This will force the price to be lower at Po and quantity increases at Qo
+	- 
+**Positive Consumption Externalities** (Legislation/Advertising)
+-   Legislation: Used to increase consumption
+	-   E.g by putting compulsory ages to education
+-   Advertising: Used to increase consumption
+	-   E.g Public advertisement for education
+-   Diagram
+	-   Increases supply from MPB to MSB
+	-   Quantity increases to Qo and price increases to Po
+
+
+**Positive Consumption Externalities** (Government Provision)
+-   Direct provision to increase consumption e.g. Education and healthcare
+-   Diagram
+	-   Increases supply from MPB to MSB
+	-   Quantity falls to Qo and price falls to Po
+
+**Positive Consumption Externalities** (Subsidies)
+-   Government can provide subsides to producers to lower the cost and hence lower the price of consumption.
+-   Subsidy used to internalize the external benefit
+-   Diagram
+	-   Quantity will be higher at Qo and price lower at Pc

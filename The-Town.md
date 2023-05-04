@@ -14,6 +14,8 @@ The Town consists of:
 - [NotTacoz](https://nottacoz.github.io/jacaranda/), he lives in (i wish - treehouses are cool)/next to his Jacaranda Tree (not Jacurutu) - for your convinence it's a tree that blossoms attractive violet/pinkish flowers. He brought it from elsewhere to the desert because once again, they don't naturally occur in the desert. 
 - [Jonathan](https://supaqwerty.github.io/notes-dump/), who lives in a quartz house that looks awfully similar to DefinitelyEddie's house. Apparently he is 6"10', which justifies the huge entrance he has. He also occasionally tours those who visit the Town.
 - [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/), she loves music and journals her everyday experiences living *among us*\* in the Town. She's the youngest resident, but that doesn't stop her from producing lots of informative content and smooth CSS decor.
+- [Joel](https://rubver16.github.io/joles-notes/), 
+- [Athu](https://super-cookies.github.io/duk/)
 - And [me](https://pi-thagoras.github.io/the-chicken-pen/) :)
 
 \*I had to add it somewhere don't blame me
