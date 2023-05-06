@@ -17,7 +17,7 @@ The Town consists of:
 - [Joel](https://rubver16.github.io/joles-notes/), the 6th quartz house in the Town. He plans to add mainly maths and a bit of science in his house. (He is still updating his website)
 - [Athu](https://super-cookies.github.io/duk/), the 7th quartz house. He has alot of maths... except he doesn't. (You'll see) (He is still updating his website)
 - [Choyu](https://grimreaper2654.github.io/Notes/), he has a totally non-AI generated Shan-Mei lore that didn't pop up with 61.3% AI generated in an AI detection tool. He is an amazing coder who can code about anything from a spaceship battle pew pew game, to a dating simulator which simulates what you wish you could have, to a random element fill in the blanks chemistry reviser. Also a turkey lover.
-- And [me](https://pi-thagoras.github.io/the-chicken-pen/) (Who doesn't use Quartz because everyone is using Quartz - I recommend using Jekyll for those learning foundlings out there - DON'T JOIN THE QUARTZ SIDE) :) [^2]
+- And [me](https://pi-thagoras.github.io/the-chicken-pen/) (Who doesn't use Quartz because *nearly* everyone is using Quartz - I recommend using Jekyll for those learning foundlings out there - DON'T JOIN THE QUARTZ SIDE) :) [^2]
 
 
 
