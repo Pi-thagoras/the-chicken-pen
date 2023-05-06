@@ -33,6 +33,8 @@ a:hover {
   color: #e3971c;
 }
 
+::selection { background: #e3971c; color: #000000}
+
 /*.page-content {
   max-width: 64rem;
   padding: 2rem 6rem;
