@@ -33,7 +33,7 @@ a:hover {
   color: #e3971c;
 }
 
-::selection { background: #e1a94e; color: #000000}
+::selection { background: #cc5409; color: #ffffff}
 
 /*.page-content {
   max-width: 64rem;
