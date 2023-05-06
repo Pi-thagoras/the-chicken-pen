@@ -13,18 +13,18 @@ The Town consists of:
 - [Grim4Reaper](https://grim4reaper.github.io/Year11Notes/), or MQ-9 Reaper or just to make it easy, Reaper, lives in a house that is also built from quartz which he is slowly but surely moving into from his previous house, which has detailed economics writings.
 - [NotTacoz](https://nottacoz.github.io/jacaranda/), he lives in (i wish - treehouses are cool)/next to his Jacaranda Tree (not Jacurutu) - for your convinence it's a tree that blossoms attractive violet/pinkish flowers. He brought it from elsewhere to the desert because once again, they don't naturally occur in the desert. 
 - [Jonathan](https://supaqwerty.github.io/notes-dump/), who lives in a quartz house that looks awfully similar to DefinitelyEddie's house. Apparently he is 6"10', which justifies the huge entrance he has. He also occasionally tours those who visit the Town.
-- [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/), she loves music and journals her everyday experiences living *among us* [^1] in the Town. She's the youngest resident, but that doesn't stop her from producing lots of informative content and smooth CSS decor.
+- [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/), she loves music and journals her everyday experiences living *among us*$^1$ in the Town. She's the youngest resident, but that doesn't stop her from producing lots of informative content and smooth CSS decor.
 - [Joel](https://rubver16.github.io/joles-notes/), the 6th quartz house in the Town. He plans to add mainly maths and a bit of science in his house. (He is still updating his website)
 - [Athu](https://super-cookies.github.io/duk/), the 7th quartz house. He has alot of maths... except he doesn't. (You'll see) (He is still updating his website)
 - [Choyu](https://grimreaper2654.github.io/Notes/), he has a totally non-AI generated Shan-Mei lore that didn't pop up with 61.3% AI generated in an AI detection tool. He is an amazing coder who can code about anything from a spaceship battle pew pew game, to a dating simulator which simulates what you wish you could have, to a random element fill in the blanks chemistry reviser. Also a turkey lover.
-- And [me](https://pi-thagoras.github.io/the-chicken-pen/) (Who doesn't use Quartz because *nearly* everyone is using Quartz - I recommend using Jekyll for those learning foundlings out there - DON'T JOIN THE QUARTZ SIDE) :) [^2]
+- And [me](https://pi-thagoras.github.io/the-chicken-pen/) (Who doesn't use Quartz because *nearly* everyone is using Quartz - I recommend using Jekyll for those learning foundlings out there - DON'T JOIN THE QUARTZ SIDE$^2$ ) :)
 
 
 
-[^1] I had to add it somewhere don't blame me
+$^1$ I had to add it somewhere don't blame me
 
 
-[^2] **Jekyll:** Yes, Jekyll user's strength flows with the force. But beware of the quartz side. Anger, fear, aggression; the quartz side of the force are they. Easily they flow, quick to join you in a fight. If once you start down the quartz path, forever will it dominate your destiny, consume you it will, as it did Edward and his apprentices.
+$^2$ **Jekyll:** Yes, Jekyll user's strength flows with the force. But beware of the quartz side. Anger, fear, aggression; the quartz side of the force are they. Easily they flow, quick to join you in a fight. If once you start down the quartz path, forever will it dominate your destiny, consume you it will, as it did Edward and his apprentices.
 
 **A Learning Foundling:** Is Edward... Is the quartz side stronger?
 
