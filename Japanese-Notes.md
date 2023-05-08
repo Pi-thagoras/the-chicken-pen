@@ -4,7 +4,7 @@ title: "Japanese Notes"
 
 Hello these my Japanese Notes! Kind of.
 
-Pun Time!
+It's Pun Time!
 >What do you call a rooster that lays an egg? へんですね。
 
 >マイケル　ジャクソン：日日
