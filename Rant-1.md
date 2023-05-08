@@ -16,7 +16,7 @@ But why *should* you choose the mandarins over the chocolate? Why is it the bett
 
 ### Reason #1: Mandarins are Healthier
 
-Mandarins are full of Vitamin C because mandarins are citrus fruits, while chocolate has sugar, fat and carbs galore. Vitamin C which is also known as ascorbic acid (C$_{6}$H$_{8}$O$_{6}$) is an antioxidant, in simple terms, it protects you against a variety of different things such as colds. That means that it could save you from going to the doctors and having to pay the super expensive fees they charge.
+Mandarins are full of Vitamin C because mandarins are citrus fruits, while chocolate has sugar, fat and carbs galore. Vitamin C which is also known as ascorbic acid (C$_{6}$ H$_{8}$ O$_{6}$) is an antioxidant, in simple terms, it protects you against a variety of different things such as colds. That means that it could save you from going to the doctors and having to pay the super expensive fees they charge.
 
 Mandarins also have 11 grams of sugar (this would vary depending on the size/variety) while the chocolate eggs contain 52.1 grams (this is more than half!!!) of sugar per 100 grams of each of these items. This could be a very good source of energy if running a marathon but eating 100 grams of the chocolate compared to mandarins is an increased sugar consumption of around 473%. Wow.
 
