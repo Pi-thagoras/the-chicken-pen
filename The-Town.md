@@ -17,14 +17,14 @@ The Town consists of:
 - [Joel](https://rubver16.github.io/joles-notes/), the 6th quartz house in the Town. He plans to add mainly maths and a bit of science in his house. (He is still updating his website)
 - [Athu](https://super-cookies.github.io/duk/), the 7th quartz house. He has alot of maths... except he doesn't. (You'll see) (He is still updating his website)
 - [Choyu](https://grimreaper2654.github.io/Notes/), he has a totally non-AI generated Shan-Mei lore that didn't pop up with 61.3% AI generated in an AI detection tool. He is an amazing coder who can code about anything from a spaceship battle pew pew game, to a dating simulator which simulates what you wish you could have, to a random element fill in the blanks chemistry reviser. Also a turkey lover.
-- And [me](https://pi-thagoras.github.io/the-chicken-pen/) (Who doesn't use Quartz because *nearly* everyone is using Quartz - I recommend using Jekyll for those learning foundlings out there - DON'T JOIN THE QUARTZ SIDE [^2]) :)
+- And [me](https://pi-thagoras.github.io/the-chicken-pen/) (Who doesn't use Quartz because *nearly* everyone is using Quartz - I recommend using Jekyll for those learning younglings out there - DON'T JOIN THE QUARTZ SIDE [^2]) :)
 
 
 
 [^1]: I had to add it somewhere don't blame me
 
 
-[^2]: Jekyll: Yes, Jekyll user's strength flows with the force. But beware of the quartz side. Anger, fear, aggression; the quartz side of the force are they. Easily they flow, quick to join you in a fight. If once you start down the quartz path, forever will it dominate your destiny, consume you it will, as it did Edward and his apprentices. -- A Learning Foundling: Is Edward... Is the quartz side stronger? -- Jekyll: No, no, no. Quicker, easier, more seductive. -- A Learning Foundling: But how am I to know the good side from the bad? -- Jekyll: You will know... when you are calm, at peace, passive. Jekyll users use the Force for knowledge and defense, never for attack.
+[^2]: Jekyll: Yes, Jekyll user's strength flows with the force. But beware of the quartz side. Anger, fear, aggression; the quartz side of the force are they. Easily they flow, quick to join you in a fight. If once you start down the quartz path, forever will it dominate your destiny, consume you it will, as it did Edward and his apprentices. -- A Learning Youngling: Is Edward... Is the quartz side stronger? -- Jekyll: No, no, no. Quicker, easier, more seductive. -- A Learning Youngling: But how am I to know the good side from the bad? -- Jekyll: You will know... when you are calm, at peace, passive. Jekyll users use the Force for knowledge and defense, never for attack.
 
 
 
