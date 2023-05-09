@@ -24,12 +24,12 @@ p {
   font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
-a.page-content {
+a {
   color: #c97c00;
   transition: all .2s linear;
 }
 
-a.page-content:hover {
+a:hover {
   color: #e3971c;
 }
 
@@ -139,13 +139,13 @@ img {
   color: #ffffff;
 }
 
-a.page-footer{
+/* a.page-footer{
   color: #ffffff;
 }
 
 a.page-footer:hover {
   color: #e1e1e1;
-}
+} */
 
 /* Animation */
 
