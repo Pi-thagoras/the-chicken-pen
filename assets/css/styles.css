@@ -139,6 +139,10 @@ img {
   color: #ffffff;
 }
 
+.page-footer a:link{
+  color: #ffffff;
+}
+
 /* Animation */
 
 .parallax > use {
