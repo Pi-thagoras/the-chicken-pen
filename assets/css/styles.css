@@ -24,7 +24,7 @@ p {
   font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
-a {
+a:link {
   color: #c97c00;
   transition: all .2s linear;
 }
@@ -139,7 +139,7 @@ img {
   color: #ffffff;
 }
 
-.page-footer a:link{
+a.page-footer:link{
   color: #ffffff;
 }
 
