@@ -30,7 +30,16 @@ p {
 }
 
 .page-content a:hover {
-  color: #e3971c;
+  color: #f1b656;
+}
+
+.page-footer a {
+  color: #ffffff;
+  transition: all .2s linear;
+}
+
+.page-footer a:hover {
+  color: #b8b8b8;
 }
 
 ::selection { background: #d37032; color: #ffffff}
