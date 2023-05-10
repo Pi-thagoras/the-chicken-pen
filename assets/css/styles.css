@@ -24,12 +24,12 @@ p {
   font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
-a {
+.page-content a {
   color: #c97c00;
   transition: all .2s linear;
 }
 
-a:hover {
+.page-content a:hover {
   color: #e3971c;
 }
 
