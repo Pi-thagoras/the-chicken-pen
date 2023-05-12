@@ -98,5 +98,5 @@ title: "Market Power"
 
 ### Legislation
 - Legislation: Put in place to limit anti-competitive behaviour to achieve a greater degree of allocative efficiency
-- ACCC: Aims to protect, strengthen and supplement the way competition works in Australian markets and industries
+- ACCC (Australian Competition and Consumer Commission): Aims to protect, strengthen and supplement the way competition works in Australian markets and industries
 	- They enforce the competition and consumer act 2010 and other legislation promoting competition and fair trading
