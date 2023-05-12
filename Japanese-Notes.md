@@ -14,4 +14,4 @@ Japanese is... a language. 言語
 Here are my Year 12/random notes that I have made so far:
 - [Japanese Text Types](Japanese-Text-Types.md)
 - [Japan History - Era](Japanese-History.md)
-- 
+- [Japanese Speaking Tips](Japanese-Speaking-Tips.md) 

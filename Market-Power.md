@@ -2,8 +2,6 @@
 title: "Market Power"
 ---
 
-# Market Power
-
 ## Types of Markets
 
 ### Perfect Competition
