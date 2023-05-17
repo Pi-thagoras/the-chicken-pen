@@ -33,6 +33,8 @@ title: "Market Power"
 - Firms are price setters
 - E.g. Phone industry, computers
 
+
+
 ## Barriers to Entry
 - **Economies of Scale**: Permitting lower average costs to be achieved as the firm increases in size
 	- Average total costs of a large firm are substantially lower than the average costs faced by a smaller firm
@@ -44,7 +46,6 @@ title: "Market Power"
 - **Control of Essential Resources**: Monopolies can arise from ownership or control of an essential resource
 	- E.g. DeBeers, the South African diamond firm
 - **Aggressive Tactics**: When existing firms use tactics to discourage new firms from entering the market
-
 
 ### Legal Barriers
 - **Patents**: Rights given by the government to a firm that has developed a new product or invention to be its sole producer for a specified period of time
@@ -70,13 +71,13 @@ title: "Market Power"
 - Collective Boycott
 - Merger
 
-
 ### Causes of Market Power
 - A firm has market power if it is able to affect the market price by varying output
 - Firms is an imperfect market have market power as they are able to do so
 	- E.g. Monopoly, Oligopoly
 	- Applies not only monopoly, but also to oligopoly.
 - Caused by their characteristics and barrier to entry
+
 
 
 ## Policy Options to influence Market Power
