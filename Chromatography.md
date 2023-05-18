@@ -12,7 +12,7 @@ title: "Chromatography"
 	2. Then the mobile phase moves through the stationary phase
 	3. Components of the mixture experience attraction to the mobile phase and to the stationary phase via intermolecular forces
 		- This is a "competition of forces"
-			-\ Intermolecular forces of component & stationary VS component vs mobile
+			- Intermolecular forces of component & stationary VS component vs mobile
 
 We use these terms to describe what happens to the components during chromatography:
 - "**Adsorb**" into stationary phase
