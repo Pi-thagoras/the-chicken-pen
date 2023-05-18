@@ -2,7 +2,7 @@
 title: "Chromatography"
 ---
 
-#### The Key Ideas:
+### The Key Ideas:
 
 **Mobile Phase**: Used to describe what carries the components of the mixture to be separated at different rates over the stationary phase
 **Stationary Phase**: Used to describe the static medium which allows the mobile phase to move the mixture along its surface.
@@ -22,7 +22,7 @@ We use these terms to describe what happens to the components during chromatogra
 
 ## The Types of Chromatography
 
-#### Paper Chromatography
+### Paper Chromatography
 
 - The solvent moves up the paper through capillary action.
 	1. Adhesion: Solvent and Paper attraction
@@ -32,16 +32,16 @@ $R_f$ = **Retention Factor**
 
 $R_f$ = $d_{blue}/d$   where *d* is the total distance the solvent has travelled over a specific period of time and $d_{blue}$ is the distance where the blue ink (or whatever component you are wanting to measure the retention factor of) has travelled.
 
-#### Thin Layer Chromatography
+### Thin Layer Chromatography
 
 - This is similar to the normal paper chromatography but uses a thin layer of **silica gel** on glass instead
 
-#### Gas Chromatography
+### Gas Chromatography
 
 - The mobile phase is a gas (as the name suggests) - mostly helium but it can be other gases too
 - Stationary phase is a column packed with solid substrate
 
-#### HPLC - High Pressure Liquid Chromatography
+### HPLC - High Pressure Liquid Chromatography
 
 - Pressurized liquid is used as the mobile phase
 - Solid substrate is used as the stationary phase
