@@ -34,7 +34,7 @@ Price Elasticity is how responsive we are to certain changes in price of goods.
 -   Absolute value of elasticity of demand > 1
 -   Has relatively close substitutes, e.g. Fast food / fruits
 
-##### Price Inelastic
+#### Price Inelastic
 -   The quantity demanded of the product is relatively unresponsive to changes in price
 -   Percentage change in quantity demanded < percentage change in price
 -   Absolute value of elasticity of demand < 1
