@@ -179,7 +179,7 @@ The Types of Policy Options:
 -   Diagram
 	-   MPC shifts towards MSC
 	-   This will force the price to be lower at Po and quantity increases at Qo
-	- 
+
 **Positive Consumption Externalities** (Legislation/Advertising)
 -   Legislation: Used to increase consumption
 	-   E.g by putting compulsory ages to education
