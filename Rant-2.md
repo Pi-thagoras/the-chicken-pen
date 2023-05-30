@@ -16,12 +16,16 @@ It turns out the fastest walk speed is 4.6m/s (or 16.56km/h[^1]) which is more t
 
 **Exercise**
 - 9.6 days of exercise would make you really buff
+
 **Sleep**
 - 9.6 days of sleep would be a coma?
+
 **Read**
 - 9.6 days of reading would make your brain cells multiply
+
 **Go walking elsewhere** (You can never get enough)
 - 9.6 days of walking... just use it on the Sahara Desert if you want to walk more. Or you could use it at a better place where the view is awesome (of nature because walking in nature is the best).
+
 **Practice language speaking test that is creeping ever so close**
 - 9.6 days of practicing speaking would literally boost your mark by 10 times (but procrastination exists). Unfortunately, 10 times 0 is still 0
 
@@ -35,10 +39,12 @@ It's better than playing putt party 24/7.
 - 30 km/h[^2]
 - 3.2 days to cross the Sahara Desert
 - 55.6 days to do one lap around the Earth[^3]
+
 **Commercial Airplane** (Average)
 - ~900 km/h
 - 2.56 hours to cross the Sahara Desert
 - 1.86 days to do one lap around the Earth
+
 **Apollo 10**
 - ~40,000 km/h (Fastest Humans have Travelled)
 - 0.0575 hours (a whopping 3.45 minutes) to cross the Sahara Desert
@@ -47,6 +53,7 @@ It's better than playing putt party 24/7.
 ### Conclusion
 
 ~~Just use spacecraft such as Apollo 10 to travel everywhere~~
+
 Please walk fast. Just do it. :)
 
 
