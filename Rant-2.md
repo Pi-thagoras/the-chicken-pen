@@ -50,7 +50,7 @@ It's better than playing putt party 24/7.
 - 0.0575 hours (a whopping 3.45 minutes) to cross the Sahara Desert
 - 1 hour to do one lap around the Earth
 
-### Conclusion
+## Conclusion
 
 ~~Just use spacecraft such as Apollo 10 to travel everywhere~~
 
