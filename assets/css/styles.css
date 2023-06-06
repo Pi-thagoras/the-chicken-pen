@@ -139,6 +139,7 @@ img {
   padding: 5% 10%;
   margin: 0 auto;
   font-size: 1.1rem;
+  padding-bottom: 10%;
 }
 
 .page-footer {
@@ -147,6 +148,7 @@ img {
   width: 100%;
   background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
   color: #ffffff;
+  bottom: 0;
 }
 
 /* .page-footer {
