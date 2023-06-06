@@ -149,7 +149,7 @@ img {
   left: 0;
   bottom: 0;
   width: 100%;
-  background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
+  background-color: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
   color: #ffffff;
 }
 
