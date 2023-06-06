@@ -142,7 +142,7 @@ img {
 }
 
 .page-footer {
-  position: fixed;
+  position: sticky;
   padding: 2%;
   width: 100%;
   background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
