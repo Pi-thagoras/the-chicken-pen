@@ -142,11 +142,13 @@ img {
 }
 
 .page-footer {
-  position: relative;
+  position: fixed;
   padding: 2%;
   background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
   color: #ffffff;
 }
+
+
 
 /* a.page-footer{
   color: #ffffff;
