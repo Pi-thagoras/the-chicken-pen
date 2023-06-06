@@ -141,9 +141,14 @@ img {
   font-size: 1.1rem;
 }
 
-
-
 .page-footer {
+  position: relative;
+  padding: 2%;
+  background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
+  color: #ffffff;
+}
+
+/* .page-footer {
   position: fixed;
   padding: 2%;
   left: 0;
@@ -151,7 +156,7 @@ img {
   width: 100%;
   background-color: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
   color: #ffffff;
-}
+} */
 
 
 
