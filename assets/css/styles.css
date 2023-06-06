@@ -142,7 +142,7 @@ img {
 }
 
 .page-footer {
-  position: fixed;
+  position: absolute;
   padding: 2%;
   background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
   color: #ffffff;
