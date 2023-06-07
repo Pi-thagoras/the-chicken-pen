@@ -145,7 +145,7 @@ img {
 .page-footer {
   position: relative;
   padding: 2%;
-  width: 100%;
+  width: auto;
   background: linear-gradient(60deg, #ac1343 0%, #e0b049 100%);
   color: #ffffff;
   bottom: 0;
