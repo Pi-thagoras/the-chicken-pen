@@ -2,7 +2,7 @@
 title: "Circular Flow of Income"
 ---
 
-Macroeconomic model that describes the flows of resources, goods and services income and expenditure between parts of the economy.
+Macroeconomic model that describes the flow of resources, goods and services, income, and expenditure between parts of the economy.
 - Firms
 - Households
 - Government Sector
