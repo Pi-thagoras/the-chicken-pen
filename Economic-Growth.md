@@ -17,8 +17,9 @@ This relates to Australia's macroeconomic objective of sustainable economic grow
 
 ### PPF Model (Production Possibility Frontier)
 
-X Axis: Consumer Goods
-Y Axis: Capital Goods
+Axis:
+- X Axis: Consumer Goods
+- Y Axis: Capital Goods
 
 #### Actual Growth
 
@@ -33,17 +34,18 @@ The productivity potential of an economy may be increased by an increase in the 
 ### Measuring Economic Growth
 
 The economic growth rate is the rate of change in GDP
+
 GDP: The total market value of all final goods and services produced in a country during a certain time period
 
 Calculation:
 
 $$\frac{GDP_{yr2}\space - GDP_{yr1}}{GDP_{yr1}}*100$$
 
-
-Nominal GDP: The value of output expressed in the prices of the day
-Real GDP: Value of GDP after taking into account  the value of inflation
-- Real GDP growth rate (%)
-	- Nominal GDP growth rate - Inflation Rate
+Types of GDP:
+- Nominal GDP: The value of output expressed in the prices of the day
+- Real GDP: Value of GDP after taking into account  the value of inflation
+	- Real GDP growth rate (%)
+		- Nominal GDP growth rate - Inflation Rate
 Real GDP per Capita: Average real GDP per person in the population
 
 
