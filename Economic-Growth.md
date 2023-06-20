@@ -27,5 +27,19 @@ If economy is operating inside the PPF, and produces more as a result of using p
 
 #### Potential Growth
 
-The productivity potential of an economy may be increased by an increase in the quality and/or quality of resoucres and, when this occurs, this is known as potential growth.
+The productivity potential of an economy may be increased by an increase in the quality and/or quality of resources and, when this occurs, this is known as potential growth.
 - Potential Growth is illustrated by a movement of the PPF curve itself outwards
+
+### Measuring Economic Growth
+
+The economic growth rate is the rate of change in GDP
+GDP: The total market value of all final goods and services produced in a country during a certain time period
+
+Calculation:
+
+$$\frac{GDP_{yr2}\space - GDP_{yr1}}{GDP_{yr1}}*100$$
+Nominal GDP: The value of output expressed in the prices of the day
+Real GDP: Value of GDP after taking into account  the value of inflation
+- Real GDP growth rate (%)
+	- Nominal GDP growth rate - Inflation Rate
+Real GDP per Capita: Average real GDP per person in the population
