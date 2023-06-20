@@ -38,8 +38,23 @@ GDP: The total market value of all final goods and services produced in a countr
 Calculation:
 
 $$\frac{GDP_{yr2}\space - GDP_{yr1}}{GDP_{yr1}}*100$$
+
+
 Nominal GDP: The value of output expressed in the prices of the day
 Real GDP: Value of GDP after taking into account  the value of inflation
 - Real GDP growth rate (%)
 	- Nominal GDP growth rate - Inflation Rate
 Real GDP per Capita: Average real GDP per person in the population
+
+
+#### Limitations of GDP:
+
+- Residents can still be unhappy even when GDP increases
+- Doesn't describe income distribution
+- Non-market production is not accounted for
+	- Black Market
+	- Private
+	- Volunteering
+	- Cash Work
+- It ignores externalities
+- GDP can be not sustainable
