@@ -50,6 +50,7 @@ Real GDP per Capita: Average real GDP per person in the population
 #### Limitations of GDP:
 
 - Residents can still be unhappy even when GDP increases
+	- Doesn't describe non-material welfare
 - Doesn't describe income distribution
 - Non-market production is not accounted for
 	- Black Market
@@ -58,3 +59,7 @@ Real GDP per Capita: Average real GDP per person in the population
 	- Cash Work
 - It ignores externalities
 - GDP can be not sustainable
+- True Value of public goods and merit goods is largely unknown
+- Understates changes in utility (Ability of goods and services to satisfy wants)
+	- Doesn't capture significant technological progress that increases utility without increasing price by much.
+- Doesn't account for rising productivity
