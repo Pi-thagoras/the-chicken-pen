@@ -106,3 +106,41 @@ Affecting Spending:
 - Investment
 - Government Expenditure
 - Net Exports
+
+## Benefits and Costs of Economic Growth
+
+### Benefits
+
+- Increased Consumption
+- Higher Income
+- Reduced Poverty
+- Improved Government Finances
+- Increase in material Standard of Living
+	- Increased Quantity of goods and services
+- Increased level of real income (After Inflation)
+- Increased Life Expectancies
+- Better Education
+- Lower Unemployment
+	- Growth is clearly likely to stimulate demand for labour
+- Improved Efficiency
+	- Better Quality of goods and services
+- Fiscal Dividend
+	- Rising income will lead to higher taxation revenue which can be used for public and merit goods such as infrastructure, health etc.
+	- Public and merit goods generate considerable external benefits. More hospitals and schools mean a healthier and better educated population, which generates other economic benefits in terms of the effectiveness of the labour force.
+
+
+### Costs
+
+- Inflation
+- Income Inequality
+	- May not raise the standard of living of everyone in the economy at the same rate
+	- Booming Industry vs Failing Industries -> Widens the gap
+- Pollution - Environmental Degradation
+	- As production and consumption increase, negative externalities such as pollution and congestion are likely to arise. Increased depletion of non-renewable resources.
+- Social Costs - Social Dislocation
+	- Health Issues, Crime Issues, Disease
+- Sustainable Economic Growth
+- Structural Unemployment
+	- From structural change -> When people want different types of goods and services or new inventions are invented.
+- Inflationary Pressure
+	- When resources are fully employed and the economy is working near its capacity
