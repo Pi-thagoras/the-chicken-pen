@@ -65,3 +65,44 @@ Real GDP per Capita: Average real GDP per person in the population
 - Understates changes in utility (Ability of goods and services to satisfy wants)
 	- Doesn't capture significant technological progress that increases utility without increasing price by much.
 - Doesn't account for rising productivity
+
+
+## Determinants of Economic Growth
+
+Growth can come from both:
+- **Potential Growth**
+	- Those that increase the capacity of the economy to produce more goods and services with available resources (Supply Side)
+- **Actual Growth**
+	- How much expenditure is taking place to consume those goods and services (Demand Side)
+
+#### Population Growth:
+
+- Increase the total size of the economy : Greater demand for G + S and productive factors
+- Increase in size of labour force: Migration and natural increase
+- Migration more than natural: Migration promotes transfer of wealth, knowledge, skills and positive fiscal impact.
+
+#### Labour Force Participation
+
+- Proportion of people over 15 years old who are in paid work or actively looking for work
+- Higher involvement at work: Increase capacity of production (overcome effect of aging workforce)
+- Sustain government tax revenue
+
+#### Rising Labour Productivity
+
+- Amount of output produced per hour worked
+**Capital Deepening**
+- Increasing the stock of capital relative to the stock of other productive resources
+- Production becomes more capital intensive: Increasing about productivity
+- Technology changes and improvements of function which hel to increase the amount of output.
+Capital Widening: Same thing but with more people as well 
+
+**Multi-factor Productivity:** All other factors that improve worker's ability to produce goods and services (not capita)
+- Changes in human capital, knowledge and skills that workers develop through education and experience, improved by education etc.
+
+## Determinants of Actual Growth
+
+Affecting Spending:
+- Consumption
+- Investment
+- Government Expenditure
+- Net Exports
