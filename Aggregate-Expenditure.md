@@ -4,7 +4,7 @@ title: "Aggregate Expenditure"
 
 **Measuring Economic Performance:**
 GDP:
-- Expenditure Approach: Addition of all final expenditures within a country guven a period of time
+- Expenditure Approach: Addition of all final expenditures within a country given a period of time
 - National Income Approach: Addition of all income earned from factors of production that produce foods and services given a period of time
 - Output Approach: Addition of all value of goods and services produced in a country given a period of time
 
