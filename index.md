@@ -9,7 +9,7 @@ I guess I'm a rancher, because I have many chickens living with me in the Chicke
 I leave notes for people. It's how I tell the future. ;)
 
 Current Notes :-)
-- [Economics Notes](Economics-Notes.md) - The Decision Making Chicken
+- [Economics Notes](economics/Economics-Notes.md) - The Decision Making Chicken
 - [Chemistry Notes](Chemistry-Notes.md) - The Chemical Scientist Chicken
 - [Japanese Notes](Japanese-Notes.md) - The Anime Chicken
 - [Random Rants](Random-Rants.md) - The Alarm Clock Rooster
