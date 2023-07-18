@@ -50,7 +50,7 @@ When S>I: Flow of Y must contract
 - Repeated steps until S=I at a much lower level of total Y
 
 
-# Aggregate Expenditure
+## Aggregate Expenditure
 
 **Measuring Economic Performance:**
 GDP:
