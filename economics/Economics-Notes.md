@@ -14,10 +14,10 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 Here are my Year 11 notes that I have made so far:
 
 **Unit 2**
-- [Unit 2 Data Interpretation Checklist](economics/Economics-Data-Interpretation-Unit-2-Checklist.md)
-- [Economic Growth](economics/Economic-Growth.md)
+- [Unit 2 Data Interpretation Checklist](Economics-Data-Interpretation-Unit-2-Checklist.md)
+- [Economic Growth](Economic-Growth.md)
 - [Aggregate Expenditure](Aggregate-Expenditure.md)
-- [Circular Flow of Income](economics/Circular-Flow-Income.md)
+- [Circular Flow of Income](Circular-Flow-Income.md)
   
 **Unit 1**
 - [Market Equilibrium](Market-Equilibrium.md)
@@ -25,4 +25,4 @@ Here are my Year 11 notes that I have made so far:
 - [Market Efficiency](Market-Efficiency.md)
 - [Market Failure](Market-Failure.md) (Updated)
 - [Market Power](Market-Power.md) (Which falls under Market Failure)
-- [Exam Unit 1 Checklist](economics/Economics-Exam-One-Checklist.md)
+- [Exam Unit 1 Checklist](Economics-Exam-One-Checklist.md)
