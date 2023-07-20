@@ -75,6 +75,8 @@ Growth can come from both:
 - **Actual Growth**
 	- How much expenditure is taking place to consume those goods and services (Demand Side)
 
+### Determinants of Potential Growth
+
 #### Population Growth:
 
 - Increase the total size of the economy : Greater demand for G + S and productive factors
@@ -99,9 +101,9 @@ Capital Widening: Same thing but with more people as well
 **Multi-factor Productivity:** All other factors that improve worker's ability to produce goods and services (not capita)
 - Changes in human capital, knowledge and skills that workers develop through education and experience, improved by education etc.
 
-## Determinants of Actual Growth
+### Determinants of Actual Growth
 
-Affecting Spending:
+Anything that affects spending:
 - Consumption
 - Investment
 - Government Expenditure
