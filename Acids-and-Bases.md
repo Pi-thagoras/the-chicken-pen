@@ -18,26 +18,13 @@ title: "Acids and Bases"
 
 ### The 7 Strong Acids
 
-Hydrochloric
-- HCl
----
-Nitric Acid
-- HNO3
----
-Sulfuric Acid
-- H2SO4
----
-Hydrobromic Acid
-- HBr
----
-Hydroiodic Acid
-- HI
----
-Chloric Acid
-- HClO3
----
-Perchloric Acid
-- HClO4
+**Hydrochloric Acid** - HCl
+**Nitric Acid** - HNO3
+**Sulfuric Acid** - H2SO4
+**Hydrobromic Acid** - HBr
+**Hydroiodic Acid** - HI
+**Chloric Acid** - HClO3
+**Perchloric Acid** - HClO4
 
 
 - **Chloric acid** - chloride salts manufacturing, match production, explosives production
@@ -50,22 +37,14 @@ Perchloric Acid
 
 ### The 8 Strong Bases
 
-Lithium Hydroxide
-- LiOH
-Sodium Hydroxide
-- NaOH
-Potassium Hydroxide
-- KOH
-Rubidium Hydroxide
-- RbOH
-Cesium Hydroxide
-- CsOH
-Calcium Hydroxide
-- Ca(OH)2
-Strontium Hydroxide
-- Sr(OH)2
-Barium Hydroxide
-- Ba(OH)2
+**Lithium Hydroxide** - LiOH
+**Sodium Hydroxide** - NaOH
+**Potassium Hydroxide** - KOH
+**Rubidium Hydroxide** - RbOH
+**Cesium Hydroxide** - CsOH
+**Calcium Hydroxide** - Ca(OH)2
+**Strontium Hydroxide** - Sr(OH)2
+**Barium Hydroxide** - Ba(OH)2
 
 
 - **Barium hydroxide** - glass manufacturing, grease additive, pesticide production
