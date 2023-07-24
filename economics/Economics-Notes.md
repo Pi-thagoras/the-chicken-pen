@@ -14,6 +14,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 Here are my Year 11 notes that I have made so far:
 
 **Unit 2**
+- [Inflation](Inflation.md)
 - [Unit 2 Data Interpretation Checklist](Economics-Data-Interpretation-Unit-2-Checklist.md)
 - [Economic Growth](Economic-Growth.md)
 - [Aggregate Expenditure](Aggregate-Expenditure.md)
