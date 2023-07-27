@@ -28,9 +28,9 @@ title: "Acids and Bases"
 
 **Hydroiodic Acid** - HI
 
-**Chloric Acid** - HClO3
+**Chloric Acid** - HClO3 (The chloric ion has a -1 charge)
 
-**Perchloric Acid** - HClO4
+**Perchloric Acid** - HClO4 (The perchloric ion has a -1 charge) [^1]
 
 
 - **Chloric acid** - chloride salts manufacturing, match production, explosives production
@@ -102,3 +102,6 @@ Metal Oxide + Non Metal Oxide
 
 Base + Non Metal Oxide
 - E.g. Sodium Hydroxide reacting with carbon dioxide forming sodium carbonate and water
+
+
+[^1]: I don't know, I need to specify because some other ions/molecules do some funky stuff when they disassociate. i.e. permanganate, chromate & dichromate -> to do with highest positive oxidation state...
