@@ -44,3 +44,47 @@ $$\frac{CPI_{yr2}\space - CPI_{yr1}}{CPI_{yr1}}*100$$
 **Cost Push Inflation**
 - <u>Caused by a fall in aggregate supply</u>, in turn resulting from increase in wages or prices of other inputs
 - Rise in production costs are passed on to consumers who have to pay higher prices for final goods and services
+
+
+### Costs of Inflation
+
+**Reduces Real Income** (Purchasing Power)
+- Buy less goods with same amount of money
+
+**Affects Interest Rates**
+- Real IR (nominal) must be positive for lenders to make profit and lend
+
+**International Competitiveness**
+- Country's export at disadvantage when domestic inflation is greater than overseas
+- Bad for Exports - Good for Exports
+
+**Currency Depreciation**
+- Less overseas demand for countries goods
+- Good for Exports - Bad for Imports
+
+**Capital for Labour Substitution**
+- Due to wage inflation and structural change
+- Substitute from labour to capital
+
+**Uncertainty for Decision Makers**
+- Investment decisions, reduce output and employment opportunities
+
+**Economic Efficiency**
+- People move away from productive to speculative activities (assets and investment): negative impact on economic output
+- Productive activities increase GDP, speculative doesn't
+
+**Hyperinflation**
+- Diversion of effort towards hoarding or non-productive activities
+
+**Increase in Income Inequality**
+- Bracket Creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
+
+### Benefits of Low, Stable Inflation
+
+**Helps to maintain Low Real Interest Rates**
+- Supports economic confidence
+- Encourage higher levels of consumption and investment
+
+**Creases Confidence about Growth of Economy**
+- Assets like houses will increase in value over time
+- Changes in prices are predictable, allowing consumers/producers to comfortably = make long term decisions
