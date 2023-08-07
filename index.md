@@ -10,8 +10,8 @@ I leave notes for people. It's how I tell the future. ;)
 
 Current Notes :-)
 - [Economics Notes](economics/Economics-Notes.md) - The Decision Making Chicken
-- [Chemistry Notes](Chemistry-Notes.md) - The Chemical Scientist Chicken
-- [Japanese Notes](Japanese-Notes.md) - The Anime Chicken
+- [Chemistry Notes](chemistry/Chemistry-Notes.md) - The Chemical Scientist Chicken
+- [Japanese Notes](japanese/Japanese-Notes.md) - The Anime Chicken
 - [Random Rants](Random-Rants.md) - The Alarm Clock Rooster
 
 
