@@ -9,4 +9,6 @@ BTC or the Business Trade Cycle is the Real GDP (Economic Activity) over time.
 
 ### Expansion
 
-An expansion occurs when... (Find our tomorrow)
+- An expansion occurs when there is positive growth in real GDP shown by those parts of the curve that slope upwards.
+- During periods of real GDP growth, employment of resources increases, and the general growth level of the economy (which is an average over all prices) usually begins to rise more rapidly (this is known as inflation).
+- Business Inventories drop, Consumer/Business Confidence increase, real wage increase, business investment increase
