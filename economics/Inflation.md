@@ -56,7 +56,7 @@ $$\frac{CPI_{yr2}\space - CPI_{yr1}}{CPI_{yr1}}*100$$
 
 **International Competitiveness**
 - Country's export at disadvantage when domestic inflation is greater than overseas
-- Bad for Exports - Good for Exports
+- Bad for Exports - Good for Imports
 
 **Currency Depreciation**
 - Less overseas demand for countries goods
