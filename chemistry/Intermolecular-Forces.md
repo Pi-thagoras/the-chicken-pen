@@ -16,7 +16,7 @@ There are 5 basic shapes that you should get used to:
 - Tetrahedral
 	- E.g. CH4 (Methane)
 
-<image src="/the-chicken-pen/assets/Molecule_Shapes.png" alt="Molecule Shapes" width="100"/>
+<image src="/the-chicken-pen/assets/Molecule_Shapes.png" alt="Molecule Shapes" width="500"/>
 
 \* Note: White circles represent a different atom to the black circles
 
