@@ -2,7 +2,7 @@
 title: "Intermolecular Forces"
 ---
 
-# Shapes of Molecules
+## Shapes of Molecules
 
 There are 5 basic shapes that you should get used to:
 - Linear
@@ -16,14 +16,15 @@ There are 5 basic shapes that you should get used to:
 - Tetrahedral
 	- E.g. CH4 (Methane)
 
-![Molecule_Shapes](/the-chicken-pen/assets/Molecule_Shapes.png)
+<image src="Molecule_Shapes.png" alt="Molecule Shapes" width="100"/>
+
 \* Note: White circles represent a different atom to the black circles
 
 This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 - Regions of charge distribute themselves around an atom by repulsion to maximise the distance from each other.
 
 
-# Non-Polar & Polar Bonds
+## Non-Polar & Polar Bonds
 
 #### Non-Polar Bond
 - Even distribution of charge
@@ -35,7 +36,7 @@ This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 - There is an uneven charge distribution
 - ∴ Polar Bond
 
-## Polarity of Molecules
+### Polarity of Molecules
 
 **To be polar:**
 1. There must be at least one bond that is polar
@@ -53,18 +54,18 @@ This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 |                   |          |                                                                    |                    |            |
 
 
-# Van der Waals Forces
+## Van der Waals Forces
 
 - These are Intermolecular Forces between molecules
 - The strength determines the M.P, B.P and other properties
 
-### 1. Dipole - Dipole Attraction
+#### 1. Dipole - Dipole Attraction
 
 - These affect polar molecules only
 - Due to slight differences in charges on each side of the molecule
 
 
-### 2. Dispersion Forces
+#### 2. Dispersion Forces
 
 - It is the only way non-polar molecules interact wich each other
 
