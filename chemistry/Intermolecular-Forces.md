@@ -16,7 +16,7 @@ There are 5 basic shapes that you should get used to:
 - Tetrahedral
 	- E.g. CH4 (Methane)
 
-<image src="/the-chicken-pen/assets/Molecule_Shapes.png" alt="Molecule Shapes" width=500px height=auto />
+<image src="/the-chicken-pen/assets/Molecule_Shapes.png" alt="Molecule Shapes" width=500px />
 
 \* Note: White circles represent a different atom to the black circles
 
@@ -44,13 +44,13 @@ This is due to the **Valence Shell Electron Pair Repulsion Theory** (VSEPR)
 
 | Shape             | Molecule | Diagram                                                            | Polar or Non-Polar | Why?       |
 | ----------------- | -------- | ------------------------------------------------------------------ | ------------------ | ---------- |
-| Tetrahedral       | CH4      | ![Methane-Polarity](assets/Methane-Polarity.png)                   | Non-Polar          | Symmetric  |
-| Linear            | CO2      | ![CarbonDioxide-Polarity](assets/CarbonDioxide-Polarity.png)       | Non-Polar          | Symmetric  |
-| Any Same Molecule | H2       | ![Hydrogen-Polarity](assets/Hydrogen-Polarity.png)                 | Non-Polar          | Symmetric  |
-| Linear            | HCl      | ![HydrogenChloride-Polarity](assets/HydrogenChloride-Polarity.png) | Polar              | Asymmetric |
-| Trigonal Planar   | BCl3     | ![BoronTriChloride-Polarity](assets/BoronTriChloride-Polarity.png) | Non-Polar          | Symmetric  |
-| V-Shaped          | H2O      | ![Water-Polarity](assets/Water-Polarity.png)                       | Polar              | Asymmetric |
-| Pyramidal         | NH3      | ![Ammonia-Polarity](assets/Ammonia-Polarity.png)                   | Polar              | Asymmetric |
+| Tetrahedral       | CH4      | <image src="/the-chicken-pen/assets/Methane_Polarity.png" alt="Methane Polarity" width=300px />                   | Non-Polar          | Symmetric  |
+| Linear            | CO2      | <image src="/the-chicken-pen/assets/CarbonDioxide_Polarity.png" alt="CarbonDioxide_Polarity" width=300px />      | Non-Polar          | Symmetric  |
+| Any Same Molecule | H2       | <image src="/the-chicken-pen/assets/Hydrogen_Polarity.png" alt="Hydrogen Polarity" width=300px />                | Non-Polar          | Symmetric  |
+| Linear            | HCl      | <image src="/the-chicken-pen/assets/HydrogenChloride_Polarity.png" alt="Hydrogen Chloride Polarity" width=300px /> | Polar              | Asymmetric |
+| Trigonal Planar   | BCl3     | <image src="/the-chicken-pen/assets/BoronTriChloride_Polarity.png" alt="Boron Tri-Chloride Polarity" width=300px /> | Non-Polar          | Symmetric  |
+| V-Shaped          | H2O      | <image src="/the-chicken-pen/assets/Water_Polarity.png" alt="Water Polarity" width=300px />                    | Polar              | Asymmetric |
+| Pyramidal         | NH3      | <image src="/the-chicken-pen/assets/Ammonia_Polarity.png" alt="Ammonia Polarity" width=300px />                 | Polar              | Asymmetric |
 |                   |          |                                                                    |                    |            |
 
 
