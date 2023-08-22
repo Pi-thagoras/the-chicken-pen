@@ -11,10 +11,10 @@ Chemistry is the scientific study of the properties and behaviours of matter. It
 
 Here are my Year 11 notes that I have made so far:
 
-Unit 2
+### Unit 2
 - [Acids and Bases](Acids-and-Bases.md)
 
-Unit 1:
+### Unit 1
 - [Chromatography](Chromatography.md)
 - [Nanotech](Nanotechnology.md)
 - [Intermolecular Forces](Intermolecular-Forces.md)
