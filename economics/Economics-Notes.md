@@ -15,11 +15,13 @@ Here are my Year 11 notes that I have made so far:
 
 ### Unit 2
 - [The Business Trade Cycle](Business-Trade-Cycle.md) (BTC)
+
 ---
 Key Economic Indicators:
 - [Unemployment](Unemployment.md)
 - [Inflation](Inflation.md)
 - [Economic Growth](Economic-Growth.md)
+
 ---
 - [Unit 2 Data Interpretation Checklist](Economics-Data-Interpretation-Unit-2-Checklist.md)
 - [Aggregate Expenditure](Aggregate-Expenditure.md)
