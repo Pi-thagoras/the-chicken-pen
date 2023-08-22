@@ -13,16 +13,19 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 
 Here are my Year 11 notes that I have made so far:
 
-**Unit 2**
+### Unit 2
 - [The Business Trade Cycle](Business-Trade-Cycle.md) (BTC)
+---
+Key Economic Indicators:
 - [Unemployment](Unemployment.md)
 - [Inflation](Inflation.md)
-- [Unit 2 Data Interpretation Checklist](Economics-Data-Interpretation-Unit-2-Checklist.md)
 - [Economic Growth](Economic-Growth.md)
+---
+- [Unit 2 Data Interpretation Checklist](Economics-Data-Interpretation-Unit-2-Checklist.md)
 - [Aggregate Expenditure](Aggregate-Expenditure.md)
 - [Circular Flow of Income](Circular-Flow-Income.md)
   
-**Unit 1**
+### Unit 1
 - [Market Equilibrium](Market-Equilibrium.md)
 - [Price Elasticity](Price-Elasticity.md)
 - [Market Efficiency](Market-Efficiency.md)
