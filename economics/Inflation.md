@@ -2,6 +2,8 @@
 title: "Inflation"
 ---
 
+Target Rate: 2-3%
+
 Definition: Persistent and appreciable rise in the general or average level of prices over time
 
 Measured by Consumer Price Index (CPI): Weighted index based on proportion of income spent on particular items

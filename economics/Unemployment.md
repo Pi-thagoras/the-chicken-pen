@@ -2,6 +2,8 @@
 title: "Unemployment"
 ---
 
+Target Rate: 4.5%
+
 Definition: Refers to the people who are willing and able to work but cannot find a job.
 - Can either be voluntary or involuntary
 
