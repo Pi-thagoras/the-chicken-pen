@@ -87,6 +87,6 @@ $$\frac{CPI_{yr2}\space - CPI_{yr1}}{CPI_{yr1}}*100$$
 - Supports economic confidence
 - Encourage higher levels of consumption and investment
 
-**Creases Confidence about Growth of Economy**
+**Creates Confidence about Growth of Economy**
 - Assets like houses will increase in value over time
 - Changes in prices are predictable, allowing consumers/producers to comfortably = make long term decisions
