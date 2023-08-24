@@ -4,6 +4,7 @@ title: "The Town"
 
 The Town is located in a no better place than... the desert. Woo! Literally one of the harshest biomes to be living in (Deserts include polar deserts yes, but this desert is like Arrakis - expansive and hot, minus the sandworms). You have to be careful of countless things. Heatstrokes, rattlesnakes, and entire sandstorms. I have no clue how the inhabitants of this Town survived this long, but their houses are still intact.
 
+---
 The Town consists of 21 people so far (plus minus a number of people ¯\\\_(ツ)\_/¯ ):
 - [M.Spicata](https://spicata.github.io/), who owns a multi-storey house with a garden filled with fresh plants. He has a variety of things lying here and there, including mini hand-drawn stickman entertainment to keep you entertained (what else would entertainment do) in case of flash sandstorms, but also journals outside - in his garden - where it can rain.
 - [DefinitelyEddie](https://edsobsidiannotes.netlify.app/), he lives in a quartz house and likes to keep his lights off even when he has guests (and when he finally switches the lights on, you go blind and can't see a thing). He's ~~an evil~~ a very resourceful chem-lover who synthesizes me- *cough cough* memorandums for other people to see in his basement.
