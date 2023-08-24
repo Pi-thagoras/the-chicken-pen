@@ -9,6 +9,8 @@ Macroeconomic model that describes the flow of resources, goods and services, in
 - Financial Sector
 - Overseas Sector
 
+<image src="/the-chicken-pen/assets/Circular-Flow-Model.png" alt="The Circular Flow Model" width=800px />
+
 **Product Market**: Exchange of products
 - Firms provide output
 - Households pay for the output

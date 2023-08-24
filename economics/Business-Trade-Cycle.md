@@ -7,7 +7,7 @@ BTC or the Business Trade Cycle is the Real GDP (Economic Activity) over time.
 - A business cycle plots real GDP on the vertical axis against time on the horizontal axis.
 - GDP is measured in real terms, so that the vertical axis measures changes in the volume of output produced after the influence of price-level changes have been eliminated.
 
-<image src="/the-chicken-pen/assets/Business-Trade-Cycle.png" alt="The Business Trade Cycle" width=800px />
+<image src="/the-chicken-pen/assets/Business-Trade-Cycle.png" alt="The Business Trade Cycle" width=900px />
 ### Expansion
 
 - An expansion occurs when there is positive growth in real GDP shown by those parts of the curve that slope upwards.
