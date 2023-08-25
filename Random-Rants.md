@@ -4,7 +4,7 @@ title: "Random Rants"
 
 Waaaaaaaaaaaaa- (Welcome) waaawaaaawaaaa- (I will rant about random topics!) waaaaawaaaaaaaaaaaaaaa (\*something about how life is too hard for a chicken\*)
 
-<image src="/the-chicken-pen/assets/Crying_Chicken.png" alt="Loud Chicken" width=300px />
+<image src="/the-chicken-pen/assets/Crying_Chicken.png" alt="Loud Chicken" width=400px />
 
 ---
 It's Pun Time!
