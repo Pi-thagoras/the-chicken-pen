@@ -3,7 +3,7 @@ title: "Chemistry Notes"
 ---
 
 Welcome to my Chemistry Section! I can mix up any concoction you like... *for a price of course*.
-<image src="/the-chicken-pen/assets/Chemistry_Chicken.png" alt="Scientist Chicken" width=400px />
+<image src="/the-chicken-pen/assets/Chemistry_Chicken.png" alt="Scientist Chicken" width=300px />
 
 ---
 It's Pun Time!

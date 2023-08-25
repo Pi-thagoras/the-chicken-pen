@@ -4,7 +4,7 @@ title: "Japanese Notes"
 
 こんにちは！日本から来た鶏です。I travelled all this way to join The... Cow?... Pen because cows are yum-Imeancool. Oh... no cows here? Welp I guess I'll just teach you some Japanese.
 
-<image src="/the-chicken-pen/assets/Japanese_Chicken.png" alt="Japanese Chicken" width=400px />
+<image src="/the-chicken-pen/assets/Japanese_Chicken.png" alt="Japanese Chicken" width=300px />
 
 ---
 It's Pun Time!
