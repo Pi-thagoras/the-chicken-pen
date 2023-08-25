@@ -2,8 +2,11 @@
 title: "Random Rants"
 ---
 
-Welcome to ranting about random topics! *claps*
+Waaaaaaaaaaaaa- (Welcome) waaawaaaawaaaa- (I will rant about random topics!) waaaaawaaaaaaaaaaaaaaa (\*something about how life is too hard for a chicken\*)
 
+<image src="/the-chicken-pen/assets/Crying-Chicken.png" alt="Loud Chicken" align="middle" width=400px />
+
+---
 It's Pun Time!
 >It is a known fact that light travels faster than sound. That's why everyone seems bright until they speak. :()
 

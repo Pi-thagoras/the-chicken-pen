@@ -2,8 +2,11 @@
 title: "Japanese Notes"
 ---
 
-Hello these my Japanese Notes! Kind of.
+こんにちは！日本から来た鶏です。I travelled all this way to join The... Cow?... Pen because cows are yum-Imeancool. Oh... no cows here? Welp I guess I'll just teach you some Japanese.
 
+<image src="/the-chicken-pen/assets/Japanese-Chicken.png" alt="Japanese Chicken" align="middle" width=400px />
+
+---
 It's Pun Time!
 >What do you call a rooster that lays an egg? へんですね。
 

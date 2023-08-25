@@ -2,8 +2,10 @@
 title: "Chemistry Notes"
 ---
 
-Welcome to my Chemistry Notes!
+Welcome to my Chemistry Section! I can mix up any concoction you like... *for a price of course*.
+<image src="/the-chicken-pen/assets/Chemistry-Chicken.png" alt="Scientist Chicken" align="middle" width=400px />
 
+---
 It's Pun Time!
 >What was Avogadro's favourite sport? Golf, because he always got a mole-in-one.
 
