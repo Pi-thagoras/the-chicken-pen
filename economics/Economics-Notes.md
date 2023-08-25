@@ -4,7 +4,7 @@ title: "Economics Notes"
 
 Hello it's me the Economics Chicken. I make all the decisions for my chicken friends. I see you have some *interest* in economics :). Enjoy your stay here!
 
-<image src="/the-chicken-pen/assets/Economics_Chicken.png" alt="Business Chicken" align="middle" width=400px />
+<image src="/the-chicken-pen/assets/Economics_Chicken.png" alt="Business Chicken" width=400px />
 
 ---
 It's Pun Time!
