@@ -8,7 +8,7 @@ I was wondering how long you can save by walking fast. Lately because of leaving
 
 ## Walking
 
-Why don't we first find out the average walking speed of a normal person. Apparently, for an average healthy adult (wheelchair users would be rolling speed), this would be around 5km/h. The Sahara Desert is about 2300km from one side to the other, so you were to have such a great idea of walking across the Sahara at 5km/h, it would take you 460 hours to do that... 19.2 days of walking. What if you increased that 5km/h to a faster speed?
+Why don't we first find out the average walking speed of a normal person. Apparently, for an average healthy adult (wheelchair users would be rolling speed), this would be around 5km/h. The Sahara Desert is about 2300km from one side to the other, so if you were to have such a great idea of walking across the Sahara at 5km/h, it would take you 460 hours to do that... 19.2 days of walking. What if you increased that 5km/h to a faster speed?
 
 It turns out the fastest walk speed is 4.6m/s (or 16.56km/h[^1]) which is more than 3 times the average walk speed. I don't think any of us are olympic athletes (walkletes??), so let's say you double the speed from 5km/h to 10km/h. That would half the time it would take for you to walk across the Sahara, to 9.6 days (inverse relationship!), saving you the other 9.6 days to do other stuff.
 
