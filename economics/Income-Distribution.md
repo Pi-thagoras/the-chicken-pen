@@ -47,6 +47,15 @@ Income Inequality is a measure of the unevenness income distribution within a po
 The population is ranked according to their income, from the lowest to the highest income.
 - A model showing cumulative proportion of the population, ranked by income. against their cumulative share of income.
 
+<image src="/the-chicken-pen/assets/Lorenz-Curve.png" alt="The Lorenz Curve" width=750px />
+
+The blue line indicate perfect equality, where 25% of the population earns 25% of the income, while 50% of the population earns 50% of the income, and so on. As the curve tends outwards, away from the line of equity, the distribution of income gets more and more unequal. The green line has more unequal income distributions than the blue line, and the the same for the yellow line to the green.
+
+We can observe the "portion" of income each section receives by looking at the black points on the Lorenz Curves. As the Lorenz Curve moves outwards away from the blue line, we can see each point at every quartile decreasing, creating a larger gap between the "portion" of income that the bottom 75% receives and the top 25% receives.
+
+The red line represents absolute inequality, where only one singular person receives 100% of the income. Both perfect equality and absolute inequality will not happen in a real economy, so Lorenz Curves tend to lie between these two extremities.
+
+---
 ### Gini Coefficient
 
 Measures the degree of income inequality in a country
@@ -54,6 +63,7 @@ Measures the degree of income inequality in a country
 - 0 = Income Equality, 1 = Absolute Inequality
 - Calculation: Area between diagonal and Lorenz Curve / entire area under the diagonal
 
+Looking at the Lorenz Curve above, we can say that that the blue line has a Gini coefficient of 0 while the red line has a Gini Coefficient of 1. The closer the Gini coefficient is to 1, the more unequal the income distribution is.
 ### Explanation of Inequality
 
 - Personal Traits
