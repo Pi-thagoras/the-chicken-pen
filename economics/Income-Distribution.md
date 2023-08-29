@@ -39,7 +39,7 @@ So to summarize, income is the *flow* of funds while wealth is the *stock* of as
 
 ## Measurement of Income Distribution
 
-Income Inequality is a measure of the unevenness in come distribution within a population.
+Income Inequality is a measure of the unevenness income distribution within a population.
 - This can be illustrated using the Lorenz Curve and represented by the Gini coefficient.
 
 ### The Lorenz Curve
