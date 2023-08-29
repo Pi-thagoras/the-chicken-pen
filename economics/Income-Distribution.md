@@ -37,16 +37,17 @@ So to summarize, income is the *flow* of funds while wealth is the *stock* of as
 
 **Relative Poverty**: A situation where people do not achieve what our society defines as a minimum standard of living.
 
-### Measurement of Income Distribution
+## Measurement of Income Distribution
 
 Income Inequality is a measure of the unevenness in come distribution within a population.
 - This can be illustrated using the Lorenz Curve and represented by the Gini coefficient.
 
-#### The Lorenz Curve
+### The Lorenz Curve
 
 The population is ranked according to their income, from the lowest to the highest income.
 - A model showing cumulative proportion of the population, ranked by income. against their cumulative share of income.
-#### Gini Coefficient
+
+### Gini Coefficient
 
 Measures the degree of income inequality in a country
 - Value between 0 and 1
