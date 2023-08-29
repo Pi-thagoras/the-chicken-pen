@@ -2,13 +2,15 @@
 title: "Income Distribution"
 ---
 
-**Stock**: Quantity measured at a fixed period of time, e.g. wealth, GDP, inventories
+## Income & Wealth
 
-**Flow**: A quantity which is measured with reference to a period of time e.g. income, depreciation, expenditure
+It is crucial to have an understanding of the difference between both concepts of *income*, and *wealth*.
 
 **Income**: Receipt of spending power by persons. Such income may be productive or Non-productive.
 - Productive Income: A reward to the factors of production.
 - Non-productive Income: Received from the government by persons as cash social service benefits such as pensions.
+
+There are different types of income!
 
 **Types of Income**
 - Private Income: Income earnt as an employee/self-employed person
@@ -21,10 +23,16 @@ title: "Income Distribution"
 - Refers to the stock of assets held, such as land, houses, shares, government securities, consumer durables such as cars, and money MINUS the liabilities including mortgage, bank loans and amounts owing on credit cards.
 - It may be acquired by inheritance, income or luck.
 
-**Income**: Flow of funds
+---
+We can combine these concepts to these descriptors, which describe the measurement of quantities.
 
-**Wealth**: Stock of assets
+**Stock**: Quantity measured at a fixed period of time, e.g. wealth, GDP, inventories
 
+**Flow**: A quantity which is measured with reference to a period of time e.g. income, depreciation, expenditure
+
+So to summarize, income is the *flow* of funds while wealth is the *stock* of assets.
+
+---
 **Absolute Poverty**: A situation where people live below a subsistence level of income
 
 **Relative Poverty**: A situation where people do not achieve what our society defines as a minimum standard of living.
@@ -32,8 +40,7 @@ title: "Income Distribution"
 ### Measurement of Income Distribution
 
 Income Inequality is a measure of the unevenness in come distribution within a population.
-
-Can be illustrated using the Lorenz Curve and represented by the Gini coefficient.
+- This can be illustrated using the Lorenz Curve and represented by the Gini coefficient.
 
 #### The Lorenz Curve
 
