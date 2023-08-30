@@ -2,7 +2,8 @@
 title: "Chemistry Notes"
 ---
 
-Welcome to my Chemistry Section! I can mix up any concoction you like... *for a price of course*.
+Welcome to my Chemistry Section! I can mix up any concoction you like... *for a price of course*. Anyways have fun, and try not to drink some fluoroantimonic acid!
+
 <image src="/the-chicken-pen/assets/Chemistry_Chicken.png" alt="Scientist Chicken" width=300px />
 
 ---
@@ -14,6 +15,7 @@ Chemistry is the scientific study of the properties and behaviours of matter. It
 Here are my Year 11 notes that I have made so far:
 
 ### Unit 2
+- [Ideal Gases](Ideal-Gases.md)
 - [Acids and Bases](Acids-and-Bases.md)
 
 ### Unit 1
