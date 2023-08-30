@@ -47,6 +47,7 @@ Temperature is directly proportional to Volume. T ∝ V
 We can combine all these proportionalities so that we can have one equation:
 
 $$P = \frac{nRt}{V}$$
+
 Where:
 - P is pressure
 - n is the number of moles
