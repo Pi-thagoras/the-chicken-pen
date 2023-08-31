@@ -2,7 +2,7 @@
 title: "Random Rants"
 ---
 
-Waaaaaaaaaaaaa- (Welcome) waaawaaaawaaaa- (I will rant about random topics!) waaaaawaaaaaaaaaaaaaaa (\*something about how life is too hard for a chicken\*)
+Waa- (Welcome) wawaawaa- (I will rant about random topics!) waawaaa (\*something about how life is too hard for a chicken\*)
 
 <image src="/the-chicken-pen/assets/Crying_Chicken.png" alt="Loud Chicken" width=400px />
 
@@ -15,3 +15,4 @@ This is where my random rants are placed.
 Here are my rants I have made so far:
 - [Mandarins vs Chocolate](Rant-1.md)
 - [Walking](Rant-2.md)
+- [Fried Eggs](Rant-3.md)
