@@ -13,7 +13,7 @@ For the purpose of our convenience, we will assume that we want to serve a nice 
 
 What you would expect is for it to cook and be edible for our customer to enjoy, yet we wait and wait but it's still inedible-looking. It's more of a wet scrambled eggs kind of blob. Surprisingly, 56.7 degrees is not hot enough for an egg to become firm. An egg needs to be cooked at at least 70 degrees to become firm, which fried eggs are. Soooo our customer is left on a very hungry stomach to endure the hottest day in history.
 
-<image src="/the-chicken-pen/assets/Sad-Customer.png" alt="A Very Sad Customer" width=300px />
+<image src="/the-chicken-pen/assets/Sad-Customer.png" alt="A Very Sad Customer" width=200px />
 
 ## Car Hood?
 
