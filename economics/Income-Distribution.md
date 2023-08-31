@@ -64,6 +64,12 @@ Measures the degree of income inequality in a country
 - Calculation: Area between diagonal and Lorenz Curve / entire area under the diagonal
 
 Looking at the Lorenz Curve above, we can say that that the blue line has a Gini coefficient of 0 while the red line has a Gini Coefficient of 1. The closer the Gini coefficient is to 1, the more unequal the income distribution is.
+
+**Real World Examples:**
+- South Africa has the highest Gini Coefficient -> 0.63
+- Slovakia has the lowest Gini Coefficient -> 0.232
+- The Gini Coefficient global average is -> 0.38
+- Most
 ### Explanation of Inequality
 
 - Personal Traits
