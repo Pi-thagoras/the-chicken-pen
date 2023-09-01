@@ -7,9 +7,13 @@ For reaction to occur, we need a collision to occur, as well as sufficient energ
 ## Factors that affect Rate of Reaction
 
 1. **Nature of Reactants**
+
 $$CH_{4}\space+ 2O_{2}\space->\space CO_{2}\space+2H_{2}O$$
+
  - This reaction is relatively slow compared to the next reaction because it requires the breaking of the bonds + the reformation of the bonds.
+
 $$Ag^{+}\space+ Cl^{-}->\space AgCl$$
+
 - This reaction is relatively fast, because the ions are already there, but also the +ve and -ve charges are attracted to each other.
 
 2. **Concentration of Reactants**
