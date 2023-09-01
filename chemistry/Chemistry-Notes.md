@@ -15,6 +15,7 @@ Chemistry is the scientific study of the properties and behaviours of matter. It
 Here are my Year 11 notes that I have made so far:
 
 ### Unit 2
+- [Collision Theory](Collision-Theory.md)
 - [Ideal Gases](Ideal-Gases.md)
 - [Acids and Bases](Acids-and-Bases.md)
 
