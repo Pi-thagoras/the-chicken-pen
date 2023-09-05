@@ -41,3 +41,20 @@ For reaction to occur, we need a collision to occur, as well as sufficient energ
 5. **Presence of Catalyst**
 	- Catalysts allow for a more energetically favourable pathway
 	- This is done through lowering the activation energy required for a reaction to occur
+
+### Types of Catalysts
+
+1. Homogenous Catalysts
+	- These are in the same physical state as the reactants and products of the reaction.
+	- E.g. Reaction between ethanol and ethanoic acid (very slow even when heat is applied)
+		- Adding sulfuric acid greatly increases the rate of reaction.
+2. Heterogenous Catalysts
+	- These are in different physical state from the reactants and products of the reaction.
+	- E.g. The decomposition of hydrogen peroxide (very slow)
+		- Adding Manganese Oxide greatly increases the rate of reaction
+
+Chemists prefer to use **heterogenous** catalysts for industrial processes because they are:
+- More easily separated from the products of a reaction
+- Much easier to reuse
+- Able to be used at high temperature
+
