@@ -1,7 +1,7 @@
 ---
 title: The Government's Role in the Economy
 ---
-## Government Policy Objectives
+# Government Policy Objectives
 
 Sustainable Economic Growth
 - Stable economic growth that can be sustainable over the long term (maintained for future generation)
@@ -29,7 +29,7 @@ Efficient Allocation of Resources (Taken out of Course)
 - Government achieves this through measures like:
 	- Direct provision of services like nation defence...
 
-## Taxation
+# Taxation
 
 Key Concepts:
 - Impact: Where the tax is levied or collected
@@ -60,13 +60,13 @@ Key Concepts:
 - Constant proportion of income
 	- E.g. Australia company tax: 30% for big companies and 27.5% for small
 
-### Types of Taxes
+## Types of Taxes
 
 - Income
 - Goods and Services
 - Property and Wealth
 
-#### Income
+### Income
 
 **Personal Income Tax** [^1]
 - Levied on all wage and salary income
@@ -83,7 +83,7 @@ Fringe Benefits Tax
 - E.g. Company cars, school fees for children
 
 
-#### Goods and Services
+### Goods and Services
 
 **GST**
 - Broad based tax levied at 10% of the price of most goods and services
@@ -101,14 +101,14 @@ Customs Duty
 - Indirect tax levied on imported goods (i.e. a tariffs)
 - Means of protecting Australian producers from o/s competition
 
-#### Property and Wealth
+### Property and Wealth
 
 Capital Gains Tax
 - Progressive tax which is levied on capital gains (profit) from the sale of assets held for a period longer than 12 months
 - Adjusted for inflation
 - Applies to shares, investment properties and some personal items if they were purchases with the intention of resale (e.g. jewellery)
 
-#### Resource Tax (Not important)
+### Resource Tax (Not important)
 
 Resource Rent Tax
 
