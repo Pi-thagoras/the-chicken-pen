@@ -1,7 +1,7 @@
 ---
 title: The Government's Role in the Economy
 ---
-# Government Policy Objectives
+## Government Policy Objectives
 
 Sustainable Economic Growth
 - Stable economic growth that can be sustainable over the long term (maintained for future generation)
@@ -29,7 +29,7 @@ Efficient Allocation of Resources (Taken out of Course)
 - Government achieves this through measures like:
 	- Direct provision of services like nation defence...
 
-# Taxation
+## Taxation
 
 Key Concepts:
 - Impact: Where the tax is levied or collected
