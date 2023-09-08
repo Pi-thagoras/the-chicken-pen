@@ -2,8 +2,9 @@
 title: "Quotes"
 ---
 
-Welp, here are quotes that I personally think are cool. Books and movies are quoted with the author's name in bold and the book/movie name after it, while animes are quoted with the person who actually said it in bold and the name of the anime after it.
+Welp, here are quotes that I personally think are cool (or funny, you'll know if it's funny). Books and movies are quoted with the author's name in bold and the book/movie name after it, while animes are quoted with the person who actually said it in bold and the name of the anime after it.
 
+>"I wanted to tell you that lately I've been cross-dressing. Also, I'm sleeping with your mom. I thought you should know." - **Cassandra Clare**, Shadowhunters (City of Bones)
 
 >アイドルは偶像 (ぐうぞう) だよ。噓という魔法 (まほう) で輝く生き物、噓はとびきりの愛なんだよ。- **Hoshino Ai**, 推しの子
 
