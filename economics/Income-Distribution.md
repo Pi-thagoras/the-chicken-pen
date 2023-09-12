@@ -69,7 +69,7 @@ Looking at the Lorenz Curve above, we can say that that the blue line has a Gini
 - South Africa has the highest Gini Coefficient -> 0.63
 - Slovakia has the lowest Gini Coefficient -> 0.232
 - The Gini Coefficient global average is -> 0.38
-- Most
+
 ### Explanation of Inequality
 
 - Personal Traits
