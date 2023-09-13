@@ -29,7 +29,7 @@ For reaction to occur, we need a collision to occur, as well as sufficient energ
 		- Solids: Block -> Granules -> Powder
 			- Kindling catches fire much easier than large logs.
 		- Liquid: Pour -> Drop -> Spray
-	- Greater change of collision
+	- Greater chance of collision
 	- Greater rate of reaction
 
 4. **Temperature**
