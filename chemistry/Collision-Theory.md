@@ -48,10 +48,15 @@ For reaction to occur, we need a collision to occur, as well as sufficient energ
 	- These are in the same physical state as the reactants and products of the reaction.
 	- E.g. Reaction between ethanol and ethanoic acid (very slow even when heat is applied)
 		- Adding sulfuric acid greatly increases the rate of reaction.
+		- Since sulfuric acid is a solution, and the reactants *and* products (ethyl ethanoate) are also solutions, it is very difficult to separate these into it's constituents.
+		- Difficult to separate and use sulfuric acid again as a catalyst for another reaction
+	
 2. Heterogenous Catalysts
 	- These are in different physical state from the reactants and products of the reaction.
 	- E.g. The decomposition of hydrogen peroxide (very slow)
 		- Adding Manganese Oxide greatly increases the rate of reaction
+		- As manganese oxide is a solid, while hydrogen peroxide is a liquid, we can easily filter out the manganese oxide to reuse.
+		- This can be easily done through filtration of the products (or product because hydrogen gas and water)
 
 Chemists prefer to use **heterogenous** catalysts for industrial processes because they are:
 - More easily separated from the products of a reaction
