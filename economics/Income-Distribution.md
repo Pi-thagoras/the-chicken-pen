@@ -47,7 +47,7 @@ Income Inequality is a measure of the unevenness income distribution within a po
 The population is ranked according to their income, from the lowest to the highest income.
 - A model showing cumulative proportion of the population, ranked by income. against their cumulative share of income.
 
-<image src="/the-chicken-pen/assets/Lorenz-Curve.png" alt="The Lorenz Curve"  width=350/>
+<image src="/the-chicken-pen/assets/Lorenz-Curve.png" alt="The Lorenz Curve"  width=350px />
 
 The blue line indicate perfect equality, where 25% of the population earns 25% of the income, while 50% of the population earns 50% of the income, and so on. As the curve tends outwards, away from the line of equity, the distribution of income gets more and more unequal. The green line has more unequal income distributions than the blue line, and the the same for the yellow line to the green.
 
