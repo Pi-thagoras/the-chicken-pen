@@ -94,10 +94,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: auto;
-  width: 100%;
+  
 }
 
+.responsive {
+  height: auto;
+}
 
 
 
