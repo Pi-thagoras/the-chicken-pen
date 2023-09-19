@@ -83,7 +83,7 @@ Occurs when production and/or consumption creates an external cost.
 Causes overconsumption/production
 -   Market quantity is greater than optimal quantity
 -   Market price is less than optimal price
-Results in deadweight loss
+-   Results in deadweight loss
 
 **Negative Production Externality:**
 -   Where the marginal social cost of production is higher than the marginal private cost
@@ -101,7 +101,7 @@ External Benefits if consumption or production for third parties
 Causes underconsumption/production
 -   Market quantity is less than optimal quantity
 -   Market price is greater than optimal price
-Results in deadweight loss
+-   Results in deadweight loss
 
 **Positive Consumption Externality:**
 -   Where the marginal social benefit of consumption is higher than the marginal private benefit
