@@ -41,7 +41,7 @@ title: "Acids and Bases"
 - **Perchloric acid** - separating sodium from potassium, rocket fuel production, explosives production
 - **Sulfuric acid** - drain cleaner ingredient, wastewater treatment, steel manufacturing
 
-### The 8 Strong Bases
+### The Strong Bases
 
 **Lithium Hydroxide** - LiOH
 
@@ -58,6 +58,8 @@ title: "Acids and Bases"
 **Strontium Hydroxide** - Sr(OH)2
 
 **Barium Hydroxide** - Ba(OH)2
+
+***And any other Group 1 and 2 hydroxides.***
 
 
 - **Barium hydroxide** - glass manufacturing, grease additive, pesticide production
