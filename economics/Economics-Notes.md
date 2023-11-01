@@ -16,6 +16,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 
 Here are my Year 11 notes that I have made so far:
 
+- [Economics Unit 1 and 2 Summary](Economics-Exam-Two-Checklist.md)  ←←←←← **This is for the exam** (Read the note at the top)
 ### Unit 2
 - [The Government's Role in Economy](Government-in-Economy.md)
 - [Income & Wealth Distribution](Income-Distribution.md)
