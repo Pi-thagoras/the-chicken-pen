@@ -180,6 +180,12 @@ The Types of Policy Options:
 	-   MPC shifts towards MSC
 	-   This will force the price to be lower at Po and quantity increases at Qo
 
+**Positive Production Externalities** (Subsidies)
+-   Government can provide subsides the size of the spillover benefit
+-   Subsidy used to internalize the spillover benefit
+-   Diagram
+	-   Quantity increases to Qo and price falls to Po
+
 **Positive Consumption Externalities** (Legislation/Advertising)
 -   Legislation: Used to increase consumption
 	-   E.g by putting compulsory ages to education
@@ -188,7 +194,6 @@ The Types of Policy Options:
 -   Diagram
 	-   Increases supply from MPB to MSB
 	-   Quantity increases to Qo and price increases to Po
-
 
 **Positive Consumption Externalities** (Government Provision)
 -   Direct provision to increase consumption e.g. Education and healthcare
