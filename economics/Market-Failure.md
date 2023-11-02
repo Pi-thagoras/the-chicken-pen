@@ -186,6 +186,7 @@ The Types of Policy Options:
 -   Diagram
 	-   Quantity increases to Qo and price falls to Po
 
+
 **Positive Consumption Externalities** (Legislation/Advertising)
 -   Legislation: Used to increase consumption
 	-   E.g by putting compulsory ages to education
