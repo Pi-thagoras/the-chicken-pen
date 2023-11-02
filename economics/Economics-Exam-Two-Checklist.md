@@ -38,6 +38,33 @@ This is the checklist/main points to memorise for Economics Year 11 Final Exam. 
 
 ---
 
+### Common Property Resources & Public Goods
+
+**Private Goods**
+-   Rival and Excludable
+-   E.g. Clothing, food, stationary
+
+**Club Goods**
+-   Non-rival but Excludable
+-   E.g. Gyms, Concerts, Movies
+
+**Common Property Resources**
+-   Rival and Non-Excludable
+-   E.g. Fish in the ocean
+-   <u>Leads to tragedy of the commons</u>
+	-   Refers to the over-consumption of common property recourses, e.g. Over fishing
+	-   Occurs as the resource is readily available and there are no restrictions on consumption
+	-   However, once consumed the resource is not available to any other party.
+
+**Public Goods**
+-   Non-rival and Non-Excludable
+-   E.g. National Parks
+-   <u>Leads to free rider effect</u>
+	-   Free riders enjoy the benefits of the consumption of a resource without paying for the cost of provision
+	-   This can lead to over-consumption and rapid damage of a public resource
+
+---
+
 ### Definitions :0 (For Economic Indicators)
 
 **Economic Growth**: An increase in the capacity of an economy to produce goods and services over time.
