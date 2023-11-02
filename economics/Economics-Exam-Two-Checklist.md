@@ -165,3 +165,38 @@ Limitations:
 **Equitable Income Distribution**
 - Promotion of the welfare of all Australians
 - Achieved through measures to improve vertical equity like the progressive tax system
+
+---
+
+### Income & Wealth
+
+**Income**: Receipt of spending power by persons, and is the flow of funds.
+- Productive Income: A reward to the factors of production.
+- Non-productive Income: Received from the government by persons as cash social service benefits such as pensions.
+
+**Wealth**: Stock of assets held minus the liabilities.
+
+**Types of Income**
+1. Private Income: Income earnt as an employee/self-employed person
+2. Gross Income: Private income plus government transfer payments
+3. Disposable Income: Gross income minus tax
+4. Final Income: Disposable income and any indirect government benefit.
+
+#### Factors of Income Distribution
+
+**Personal Traits**
+- Personalities and Talents
+
+**Occupational Conditions**
+- Training, Education and Responsibilities
+
+**Opportunities**
+
+**Other Factors**
+- Sickness, Disabilities, Age and Luck
+
+---
+
+### Taxes
+
+Just go to the tax page :) Too much to write
