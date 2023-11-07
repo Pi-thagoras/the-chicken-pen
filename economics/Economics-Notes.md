@@ -14,10 +14,16 @@ It's Pun Time!
 
 Economics is the study of making decisions under the conditions of scarcity, with unlimited wants and limited needs, we are forced to make a choice and give up something - opportunity cost is the cost of the next best alternative that is forgone in order to obtain more of something else. Economics deals with the basic economic problem.
 
-Here are my Year 11 notes that I have made so far:
+<u>Here are my Year 12 notes that I have made so far:</u>
 
-- [Economics Unit 1 and 2 Summary](Economics-Exam-Two-Checklist.md)  ←←←←← **This is for the exam** (Read the note at the top)
+### Unit 3
+- [Australia's International Trade](Australias-International-Trade.md)
+
+
+<u>Here are my Year 11 notes that I have made:</u>
+
 ### Unit 2
+- [Economics Unit 1 and 2 Summary](Economics-Exam-Two-Checklist.md)  ←←←←← **This is for the exam** (Read the note at the top)
 - [The Government's Role in Economy](Government-in-Economy.md)
 - [Income & Wealth Distribution](Income-Distribution.md)
 - [The Business Trade Cycle](Business-Trade-Cycle.md) (BTC)
