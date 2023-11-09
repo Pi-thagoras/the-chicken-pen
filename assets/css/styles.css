@@ -229,9 +229,9 @@ ul li a:hover {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border: 3px solid rgb(196, 196, 196);
+  border: 3px solid rgb(223, 189, 38)
   left: 0;
-  transform: translate(-50%, -50%);
+  transform: translate(-45%, -45%);
   pointer-events: none;
   transition: width 1000ms, height 1000ms;
 }
