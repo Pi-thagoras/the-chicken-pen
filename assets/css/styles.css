@@ -235,7 +235,7 @@ p a:hover {
   border-radius: 50%;
   border: 2px solid rgba(255, 185, 33, 0.75);
   left: 0;
-  transform: translate(-50%, -50%);
+  transform: translate(-45%, -45%);
   pointer-events: none;
   transition: width 1000ms, height 1000ms;
 }
