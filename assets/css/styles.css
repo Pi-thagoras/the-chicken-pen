@@ -216,12 +216,12 @@ a.page-footer:hover {
 /*Cursor CSS*/
 
 .wrapper {
-  cursor: url('img/custom-cursor.png'), auto;
+  cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
 }
 
 
 nav ul li a:hover {
-  cursor: url('img/custom-cursor.png'), auto;
+  cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
 }
 
 .cursor {
