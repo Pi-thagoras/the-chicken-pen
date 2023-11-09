@@ -214,39 +214,18 @@ a.page-footer:hover {
 
 
 /*Cursor CSS*/
-/*
+
 .wrapper {
-  cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
+  cursor: url('/the-chicken-pen/assets/custom-cursor1.png'), auto;
 }
 
 
 ul li a:hover {
-  cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
+  cursor: url('/the-chicken-pen/assets/custom-cursor1.png'), auto;
 }
 
 p a:hover {
-  cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
-}
-*/
-.wrapper {
-  width: 9px;
-  height: 9px;
-  background-image: linear-gradient(#fff, #fff);
-  border-radius: 50%;
-}
-
-ul li a:hover {
-  width: 9px;
-  height: 9px;
-  background-image: linear-gradient(#fff, #fff);
-  border-radius: 50%;
-}
-
-p a:hover {
-  width: 9px;
-  height: 9px;
-  background-image: linear-gradient(#fff, #fff);
-  border-radius: 50%;
+  cursor: url('/the-chicken-pen/assets/custom-cursor1.png'), auto;
 }
 
 .cursor {
