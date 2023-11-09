@@ -220,7 +220,7 @@ a.page-footer:hover {
 }
 
 
-nav ul li a:hover {
+ul li a:hover {
   cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
 }
 
