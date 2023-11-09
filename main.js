@@ -4,7 +4,7 @@ const navlinks = document.querySelectorAll("ul li");
 
 document.addEventListener("mousemove", (e) => {
     let leftPosition = e.pageX + 4;
-    let topPosition = e.pageY + 4;
+    let topPosition = e.pageY - 286;
 
     cursor.style.left = leftPosition + "px";
     cursor.style.top = topPosition + "px";
