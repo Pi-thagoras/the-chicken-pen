@@ -3,11 +3,11 @@ const links = document.querySelectorAll("ul li a");
 const navlinks = document.querySelectorAll("ul li");
 
 document.addEventListener("mousemove", (e) => {
-    let leftPosition = e.screenX + 4;
-    let topPosition = e.screenY + 4;
-
-    cursor.style.left = leftPosition + "px";
-    cursor.style.top = topPosition + "px";
+    let x = e.windowX + 4;
+    let y = e.windowY + 4;
+    console.log(x,y);
+    cursor.style.left = x + "px";
+    cursor.style.top = y + "px";
 })
 
 links.forEach(link => {
