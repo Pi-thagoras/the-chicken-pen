@@ -224,12 +224,16 @@ ul li a:hover {
   cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
 }
 
+p a:hover {
+  cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
+}
+
 .cursor {
   position: absolute;
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border: 4px solid rgb(223, 189, 38);
+  border: 2px solid rgb(223, 189, 38);
   left: 0;
   transform: translate(-45%, -45%);
   pointer-events: none;
