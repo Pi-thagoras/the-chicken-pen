@@ -214,7 +214,7 @@ a.page-footer:hover {
 
 
 /*Cursor CSS*/
-
+/*
 .wrapper {
   cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
 }
@@ -227,15 +227,36 @@ ul li a:hover {
 p a:hover {
   cursor: url('/the-chicken-pen/assets/custom-cursor.png'), auto;
 }
+*/
+.wrapper {
+  width: 9px;
+  height: 9px;
+  background-image: linear-gradient(#fff, #fff);
+  border-radius: 50%;
+}
+
+ul li a:hover {
+  width: 9px;
+  height: 9px;
+  background-image: linear-gradient(#fff, #fff);
+  border-radius: 50%;
+}
+
+p a:hover {
+  width: 9px;
+  height: 9px;
+  background-image: linear-gradient(#fff, #fff);
+  border-radius: 50%;
+}
 
 .cursor {
   position: absolute;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
-  border: 2px solid rgb(223, 189, 38);
+  border: 2px solid rgba(255, 185, 33, 0.75);
   left: 0;
-  transform: translate(-45%, -45%);
+  transform: translate(-50%, -50%);
   pointer-events: none;
   transition: width 1000ms, height 1000ms;
 }
