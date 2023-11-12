@@ -1,6 +1,6 @@
 ---
 title: Redox
-layout: notes
+layout: default
 ---
 ## Long, Extensive, and In-Depth Notes on Redox'ing
 
