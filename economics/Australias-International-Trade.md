@@ -101,3 +101,50 @@ Australia's largest **import** is personal travel - Australian tourists travelli
 - Natural gas and education services are surprising for Australia's 3rd and 4th for exports 
 - Top four export account for 50% of our exports
 
+Economies that have been growing economically rapidly:
+- China
+- Korea
+- India
+
+As incomes and standard of living rise the demand for services such as travel (tourism), health and education will increase significantly.
+- This is because services are highly income elastic
+
+### Patterns: Direction
+
+Majority is from Asia - Exports
+
+The replacement of Europe by China and the United States as Australia's most important source of IMPORTS is the key difference.
+
+The 3 most important 2 way trade partners of Australia are China, Japan and USA
+
+Australia has a comparative advantage in the supply of food crops and livestock.
+
+### Comparative Advantage
+
+- Countries gain from trade when they produce goods and services for which they have a comparative advantage
+- Lowest opportunity cost
+
+### Competitive Advantage
+
+- Producers develop an advantage over their competitors in international markets
+- Concerned with advantage created not given
+- For example: Health, Education, Infrastructure.
+
+Historically Australia's trade pattern has reflected comparative advantage
+- But as a result of globalization and the freer movement of resources, financial capital, technology, competitive advantage has become much more important.
+
+Contribution to Competitive Advantage
+1. Comparative Advantage
+2. Free Trade
+3. Foreign Investment
+4. Workforce
+5. Non-Price Competitiveness
+6. Strong Institutions
+
+Detractions to Competitive Advantage:
+1. Currency (AUD)
+2. Regulated Economy
+3. High Direct Taxes
+4. Labour Supply:
+5. High Wages and Low Productivity
+6. Lack of Economies of Scales
