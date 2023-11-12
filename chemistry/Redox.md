@@ -31,6 +31,7 @@ Here are an example to get you started:
 This is a single displacement reaction, where the hydrogen ion that is bonded to the anion is displaced by the zinc metal forming hydrogen gas. This is a redox reaction because there is a transfer of electrons from the zinc to the hydrogen, which we can see by the change in charge.
 
 >> $$Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$$
+>> 
 >> $$2e^{-}\space+\space2H^{+}_{(aq)}\space->H_{2(g)}$$
 
 Splitting the first example into two half equation, we get these two equations. Half equations are equations that show each reactant, oxidizing or reducing, and the movement of electrons. We can see that the electrons are present on the right side for the first equation, and the left side for the second equation. Electrons that are present as products means that electrons are lost, meaning this half equation represents the oxidation of the zinc. Electrons that are present as reactants means that electrons are gained, meaning this half equation represents the reduction of the hydrogen.
@@ -47,15 +48,20 @@ Therefore, we can call zinc in this reaction the reducing agent (or the reductan
 
 ALRIGHT! I'll give you some practice ones...
 
-What are the half equations for this reaction:
+What are the half equations for this reaction?
 > $$Zn_{(s)}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}\space+\space Zn^{2+}_{(aq)}$$
 
-<button onclick="showText('spoiler1', '
-$$Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$$
-$$e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$$')" id="spoiler1">Reveal Answer!</button>
+Answer: [^Click Here]
 
+[^Click Here]: 1. ($Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$) 2. ($e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$)
 
 ---
 
-$$Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$$
-$$e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$$
+Half reactions? What is getting oxidized, and reduced in this reaction? Which reactant is the oxidizing agent and which is the reducing agent?
+> $$F_{2(g)}\space+\space2Br^{-}_{(aq)}\space->Br_{2(l)}\space+\space 2F^{-}_{(aq)}$$
+
+Answer: [^Click Here2]
+
+[^Click Here2]: 1. ( $F_{2(g)}->2F^{-}_{(aq)}\space+\space2e^{-}$ ) 2. ( $2e^{-}\space+\space 2Br^{-}_{(aq)}\space->Br_{2(l)}$ ), Fluorine Oxidized (Reducing Agent), Bromine Reduced (Oxidizing Agent)
+
+

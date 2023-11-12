@@ -37,7 +37,3 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-
-function showText(element, txt) {
-    document.getElementById(element).innerHTML = txt;
-};
