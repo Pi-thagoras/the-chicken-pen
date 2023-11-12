@@ -12,6 +12,12 @@ It's Pun Time!
 
 Chemistry is the scientific study of the properties and behaviours of matter. It is a physical science that falls under the category of natural sciences and deals with the elements that make up matter, including compounds made of atoms, molecules, and ions, as well as their composition, structure, properties, behaviours, and the changes that occur when they interact with other substances.
 
+Here are my Year 12 notes that I have made so far:
+
+### Unit 3
+- [Redox](Redox.md)
+
+
 
 Here are my Year 11 notes that I have made:
 
