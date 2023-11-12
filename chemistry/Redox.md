@@ -48,20 +48,30 @@ Therefore, we can call zinc in this reaction the reducing agent (or the reductan
 
 ALRIGHT! I'll give you some practice ones...
 
-What are the half equations for this reaction?
+Q1. What are the half equations for this reaction?
 > $$Zn_{(s)}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}\space+\space Zn^{2+}_{(aq)}$$
 
-Answer: [^ClickHere]
+Answer: See bottom of page
 
 ---
 
-Half reactions? What is getting oxidized, and reduced in this reaction? Which reactant is the oxidizing agent and which is the reducing agent?
+Q2. Half reactions? What is getting oxidized, and reduced in this reaction? Which reactant is the oxidizing agent and which is the reducing agent?
 > $$F_{2(g)}\space+\space2Br^{-}_{(aq)}\space->Br_{2(l)}\space+\space 2F^{-}_{(aq)}$$
 
-Answer: [^ClickHere2]
+Answer: See bottom of page
 
 
 
-[^ClickHere]: 1. ($Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$) 2. ($e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$)
 
-[^ClickHere2]: 1. ( $F_{2(g)}->2F^{-}_{(aq)}\space+\space2e^{-}$ ) 2. ( $2e^{-}\space+\space 2Br^{-}_{(aq)}\space->Br_{2(l)}$ ), Fluorine Oxidized (Reducing Agent), Bromine Reduced (Oxidizing Agent)
+
+
+
+
+
+
+
+
+
+1. ($Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$) 2. ($e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$)
+
+2. ( $F_{2(g)}->2F^{-}_{(aq)}\space+\space2e^{-}$ ) 2. ( $2e^{-}\space+\space 2Br^{-}_{(aq)}\space->Br_{2(l)}$ ), Fluorine Oxidized (Reducing Agent), Bromine Reduced (Oxidizing Agent)
