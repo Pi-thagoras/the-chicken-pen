@@ -73,13 +73,13 @@ Answer: See bottom of page
 ## Answers
 
 Question One.
->1. $Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$
+>$Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$
 
->2. $e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$
+>$e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$
 
 Question Two.
->1. $F_{2(g)}->2F^{-}_{(aq)}\space+\space2e^{-}$
+>$F_{2(g)}->2F^{-}_{(aq)}\space+\space2e^{-}$
 - Fluorine Oxidized (Reducing Agent)
 
->1. $2e^{-}\space+\space 2Br^{-}_{(aq)}\space->Br_{2(l)}$
+>$2e^{-}\space+\space 2Br^{-}_{(aq)}\space->Br_{2(l)}$
 - Bromine Reduced (Oxidizing Agent)
