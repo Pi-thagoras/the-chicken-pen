@@ -73,11 +73,13 @@ Answer: See bottom of page
 ## Answers
 
 Question One.
+
 >$Zn_{(s)}->Zn^{2+}_{(aq)}\space+\space2e^{-}$
 
 >$e^{-}\space+\space Ag^{+}_{(aq)}\space->Ag_{(s)}$
 
 Question Two.
+
 >$F_{2(g)}->2F^{-}_{(aq)}\space+\space2e^{-}$
 - Fluorine Oxidized (Reducing Agent)
 
