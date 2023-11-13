@@ -12,7 +12,7 @@ To understand which reactions are redox reactions, let's first understand why re
 
 OK let's get straight into it!!
 
-#### Oxidation and Reduction
+### Oxidation and Reduction: The Basics
 
 Oxidation is defined as the loss of electrons, while reduction is defined as the gain of electrons
 
@@ -60,16 +60,14 @@ Q2. Half reactions? What is getting oxidized, and reduced in this reaction? Whic
 
 Answer: See bottom of page
 
+---
+### Oxidation Numbers
 
+To make assigning oxidation and reduction names to molecules easier to recognise, we can give each of the constituents a positive/negative number representing the oxidation state. For example:
 
+<image src="/the-chicken-pen/assets/Combustion-of-Methane.png" alt="Combustion of Methane" width=300px />
 
-
-
-
-
-
-
-
+The blue numbers are the oxidation numbers. Can you see any patterns regarding these  numbers?
 ## Answers
 
 Question One.
