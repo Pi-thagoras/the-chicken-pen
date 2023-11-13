@@ -65,9 +65,35 @@ Answer: See bottom of page
 
 To make assigning oxidation and reduction names to molecules easier to recognise, we can give each of the constituents a positive/negative number representing the oxidation state. For example:
 
-<image src="/the-chicken-pen/assets/Combustion-of-Methane.png" alt="Combustion of Methane" width=300px />
+<image src="/the-chicken-pen/assets/Combustion-of-Methane.png" alt="Combustion of Methane" width=350px />
 
 The blue numbers are the oxidation numbers. Can you see any patterns regarding these  numbers?
+
+### Oxidation Numbers: The Rules
+
+1. All Elements have an oxidation number of 0
+	- E.g. Hydrogen Gas has an oxidation number of 0
+2. All compounds' oxidation numbers add to a total of 0
+	- E.g. Sulfuric Acid's hydrogens, sulphur, and oxygen's oxidation number will add up to 0
+3. For monoatomic ions, the charge is the oxidation number
+	- E.g. Sodium Ions have a charge of 1+, and thus have an oxidation number of +1 when in solution or when part of a compound.
+4. Combined Oxygen have an oxidation number of -2
+	- E.g. Water
+	- **Exception!**
+		- When part of a peroxide, it has an oxidation number of -1
+5. Combined Hydrogen have an oxidation number of +1
+	- E.g. Hydrochloric Acid
+	- **Exception!**
+		- When part of a hydride, it has an oxidation number of -1
+6. Polyatomic Ions have an oxidation number of its charge
+	- E.g. Nitrate Ion has a 1- charge
+		- N has +5 oxidation number
+		- O3 has -2 oxidation number per oxygen so a total of -6
+		- Total of -1
+
+Using these oxidation numbers, we can make it easier to construct half equations. 
+
+
 ## Answers
 
 Question One.

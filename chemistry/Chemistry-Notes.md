@@ -15,7 +15,7 @@ Chemistry is the scientific study of the properties and behaviours of matter. It
 Here are my Year 12 notes that I have made so far:
 
 ### Unit 3
-- [Redox](Redox.md)
+- [Redox](Redox.md) (In Progress)
 
 
 
