@@ -91,8 +91,24 @@ The blue numbers are the oxidation numbers. Can you see any patterns regarding t
 		- O3 has -2 oxidation number per oxygen so a total of -6
 		- Total of -1
 
-Using these oxidation numbers, we can make it easier to construct half equations. 
+Using these oxidation numbers, we can make it easier to construct half equations.
 
+### Constructing Half Equations
+
+In acidic conditions, we can use this step by step procedure to guarantee success.
+
+1. Balance species other than Oxygen & Hydrogen
+2. Balance Oxygen's with Water molecules
+3. Balance Hydrogen's with Hydrogen ions
+4. Balance charges with electrons
+
+For example:
+>$MnO_{4}^{-}\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space->Mn^{2+}\space$
+>$MnO_{4}^{-}\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space->Mn^{2+}\space+\space 4H_{2}O$
+>$MnO_{4}^{-}\space+\space8H^{+}\space\space\space\space\space\space\space\space\space\space\space\space\space->Mn^{2+}\space+\space 4H_{2}O$
+>$MnO_{4}^{-}\space+\space8H^{+}\space+\space5e^{-}->Mn^{2+}\space+\space 4H_{2}O$
+
+Since there are 4 oxygens on the reactant side, we can balance this out by adding 4 water molecules onto the product side. Next, to balance the hydrogens we just added, we can add hydrogen ions onto the reactant side, in this case 8. Finally, we need to balance the charges. On the product side, there is a total of 2+ charge due to the manganese ion. This means we need a 2+ charge on the reactant side. There is a 8+ charge from the hydrogen ions, and a 1- charge from the permanganate ion, resulting in a 7+ charge. To get it to the target of 2+, we add 5 electrons which are negatively charged to successfully balance out the charges.
 
 ## Answers
 
