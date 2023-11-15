@@ -34,6 +34,7 @@ Trade is extremely important to the Australian economy.
 		- Imports: Reduces cost of production due to lower or removal of tariffs. Increases employment. Over half of imports are essential inputs to produce goods locally.
 - **Competition**
 	- From overseas markets compels Australian firms to innovate and adopt more efficient methods. Improved efficiency boosts economic growth.
+
 ## Specialisation
 
 **Specialisation** occurs when an individual, firm or country concentrates production on one or a few goods and services.
