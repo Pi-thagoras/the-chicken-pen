@@ -18,6 +18,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 
 ### Unit 3
 - [Australia's International Trade](Australias-International-Trade.md)
+- [Free Trade and Protection](Free-Trade-and-Protection.md)
 
 
 <u>Here are my Year 11 notes that I have made:</u>
