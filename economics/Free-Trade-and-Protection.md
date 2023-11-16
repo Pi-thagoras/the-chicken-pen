@@ -61,3 +61,24 @@ Benefits:
 - If production costs differ then countries will benefit by:
 	- Specializing in the goods and services in which they are most efficient
 		- Exporting surplus production and importing those goods and services in which they are less efficient at producing domestically
+
+## Absolute and Comparative Advantage
+
+|              | Good 1 | Good 2                           | 
+| ----------------- | -------- | ----------------------------------|
+| China     | 100 (1/2)      |   50 (2)               |
+|Australia |400 (1/4) | 100 (4)|
+
+4 key assumptions:
+- Two Countries
+- Two Goods
+- Perfectly Mobile (Transport is not an issue)
+- The two countries have same resources
+
+Absolute Advantage: You can make more of a good with the same amount of resources
+
+We trade based on the concept of opportunity cost, where we trade the good with the lower opportunity cost.
+
+When we export, we operate on world price not domestic price. The supply curve is all the suppliers in the world that produce the same good.
+
+You cannot produce beyond the PPF, but you can consumer beyond your PPF by trading!

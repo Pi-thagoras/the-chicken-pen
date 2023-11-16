@@ -113,6 +113,16 @@ For example:
 
 Since there are 4 oxygens on the reactant side, we can balance this out by adding 4 water molecules onto the product side. Next, to balance the hydrogens we just added, we can add hydrogen ions onto the reactant side, in this case 8. Finally, we need to balance the charges. On the product side, there is a total of 2+ charge due to the manganese ion. This means we need a 2+ charge on the reactant side. There is a 8+ charge from the hydrogen ions, and a 1- charge from the permanganate ion, resulting in a 7+ charge. To get it to the target of 2+, we add 5 electrons which are negatively charged to successfully balance out the charges.
 
+### Combining Half Equations
+
+Once we have two half equations, we can combine them into one big equation. This equation can be non-ionic, meaning if there is no change in state symbols, we would not emit them as spectator ions.
+
+To combine half equations, first we would balance the electrons and then combine. The coefficients should be balanced when combined.
+
+For Example:
+
+>
+
 ## Answers
 
 Question One.
