@@ -65,7 +65,7 @@ Benefits:
 ## Absolute and Comparative Advantage
 
 
-Example Table:
+Example Table: 
 
 |              | Good 1 | Good 2                           | 
 | ----------------- | -------- | ----------------------------------|
