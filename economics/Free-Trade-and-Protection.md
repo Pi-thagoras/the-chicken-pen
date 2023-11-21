@@ -64,6 +64,9 @@ Benefits:
 
 ## Absolute and Comparative Advantage
 
+
+Example Table:
+
 |              | Good 1 | Good 2                           | 
 | ----------------- | -------- | ----------------------------------|
 | China     | 100 (1/2)      |   50 (2)               |
@@ -82,3 +85,61 @@ We trade based on the concept of opportunity cost, where we trade the good with 
 When we export, we operate on world price not domestic price. The supply curve is all the suppliers in the world that produce the same good.
 
 You cannot produce beyond the PPF, but you can consumer beyond your PPF by trading!
+
+
+**Comparative Advantage is the argument for trade, so that we can specialise in a good which we have a lower opportunity cost in.**
+- Trading allows us to consume more
+
+
+## Stepped Out Example
+
+<image src="/the-chicken-pen/assets/Ab_and_Com_Advantage.png" alt="Absolute and Comparative Advantage Table" width=600px />
+
+We can see in this table, that there are two different countries; Australia and China. Furthermore, there are two goods which are bread and cheese. We are assuming there are no more countries to trade with, and no more goods that these countries can produce and trade.
+
+Remember: This table shows an **"either or" situation**, where each country can either choose to use all their resources in one good, sacrificing the production of the other good.
+- So in this case, Australia can choose to produce either 1000 loaves of bread or 100 kilograms of cheese. China can choose to produce either 800 loaves of bread or 200 kilograms of cheese.
+
+**Australia** has the **absolute advantage** in **bread** in this economy, while **China** has the **absolute advantage** in **cheese** in the economy. This is because they can produce more of that good that they have an absolute advantage in with the same amount of resources. (Remember we assume that each country have the same amount of resources at their disposal but we know this is not true in the real economy)
+
+There is also an opportunity cost when producing either goods. We can give a value to each good for each country the could produce it.
+
+Opportunity Cost for **Australia**:
+- To produce 1 loaf of bread, they give up producing 1/10th of a kilogram of cheese. (Cheese quantity divided by bread quantity)
+- To produce 1 kilogram of cheese, they give up producing 10 loaves of bread. (Bread quantity over cheese quantity)
+
+Opportunity Cost for **China**:
+- To produce 1 loaf of bread, they give up producing 1/4 of a kilogram of cheese. (Cheese quantity divided by bread quantity)
+- To produce 1 kilogram of cheese, they give up producing 4 loaves of bread. (Bread quantity over cheese quantity)
+
+I have added it to the table below, where the opportunity cost of producing one of the good is in brackets in it's corresponding box:
+
+<image src="/the-chicken-pen/assets/Ab_and_Com_Advantage1.png" alt="Absolute and Comparative Advantage Table" width=600px />
+
+So who has the comparative advantage? Well in this case, Australia and China have the same comparative advantage as their absolute advantages, but these can be different in some instances. Australia and China have a lower opportunity cost in producing bread and cheese respectively.
+
+Trade. Does Australia want to trade with China and vice versa? It depends on the price of trade. This can be agreed upon with an agreement (wow!), but for our purposes let's give them both the same benefits.
+
+**Bread Side of Things:**
+- Australia has the comparative advantage in bread so they choose to trade bread in exchange for cheese.
+- Without trading, they would have to give up 1/10th of a kilogram of cheese to produce 1 loaf of bread.
+- This means that Australia will accept anything above 1/10th of a kilogram of cheese in exchange for 1 load of bread.
+	- E.g. 1/9th, 1/5th, 1, 10 million
+- On the other hand, China would have to give up 1/4 of a kilogram of cheese to produce 1 loaf of bread without trading.
+- This means that China will accept giving anything below 1/4 of a kilogram of cheese in exchange for 1 loaf of bread.
+	- E.g. 1/5th, 1/9th, 1/1 million
+- If we meet in the middle, where both parties have equal benefits, we can reach 1/7th of a kilogram of cheese in exchange 1 loaf of bread.
+
+**Cheese Side of Things:**
+- China has the comparative advantage in cheese so they choose to trade cheese in exchange for bread.
+- Without trading, they would have to give up 4 loaves of bread in exchange for 1 kilogram of cheese.
+- This means that China will accept anything above 4 loaves of bread in exchange for 1 kilogram of cheese.
+	- E.g. 5, 10, 420, 14 billion
+- On the other hand, Australia would have to give up 10 loaves of bread in exchange for 1 kilogram of cheese without trading.
+- This means that Australia will accept giving anything below 10 loaves of bread in exchange for 1 kilogram of cheese.
+	- E.g. 9, 7, 1/3
+- If we meet in the middle, where both parties have equal benefits, we can reach 7 loaves of bread in exchange for 1 kilogram of cheese.
+
+As you can see, the ratio of bread to cheese is the same, and hence we can use this as a theoretical price that these countries will trade at:
+- 7 loaves of bread in exchange for 1 kilogram of cheese
+- Which is equal to 1 loaf of bread in exchange for 1/7th of a kilogram of cheese
