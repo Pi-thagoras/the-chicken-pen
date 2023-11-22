@@ -143,3 +143,25 @@ Trade. Does Australia want to trade with China and vice versa? It depends on the
 As you can see, the ratio of bread to cheese is the same, and hence we can use this as a theoretical price that these countries will trade at:
 - 7 loaves of bread in exchange for 1 kilogram of cheese
 - Which is equal to 1 loaf of bread in exchange for 1/7th of a kilogram of cheese
+
+### Consumption PPF
+
+So Australia and China agree to trade at this price. Let's say Australia wants to trade 700 loaves of bread with China. Since China is specialising in cheese, they are not producing any bread, and want bread. So, China will receive the 700 loaves of bread in exchange for 100kg of cheese because the price of 1kg of cheese is 7 loaves of bread. These are the final amounts that each country has after trading.
+
+**China:**
+- Bread - 700 loaves
+- Cheese - 100kg
+
+**Australia**:
+- Bread - 300 loaves
+- Cheese - 100kg
+
+We can plot these on the PPF, to compare the benefits of trading.
+
+<image src="/the-chicken-pen/assets/Consumption_PPF_Australia.png" alt="Australia's Consumption PPF" width=600px />
+
+<image src="/the-chicken-pen/assets/Consumption_PPF_China.png" alt="China's Consumption PPF" width=600px />
+
+The blue line represents the original PPF, while the red dotted line represents the new **consumption** PPF curve after trading. REMEMBER: this is the consumption PPF, and hence you cannot ever produce more than the PPF, you can only consume beyond the PPF.
+
+Now, if Australia trades all their bread for cheese with China, they will get 143kg of cheese which is more than the 100kg without trading. If China trades all their cheese for bread with Australia, they will get 1400 loaves of bread which is more than the 800 if they didn't trade.
