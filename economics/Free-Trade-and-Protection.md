@@ -165,3 +165,29 @@ We can plot these on the PPF, to compare the benefits of trading.
 The blue line represents the original PPF, while the red dotted line represents the new **consumption** PPF curve after trading. REMEMBER: this is the consumption PPF, and hence you cannot ever produce more than the PPF, you can only consume beyond the PPF.
 
 Now, if Australia trades all their bread for cheese with China, they will get 143kg of cheese which is more than the 100kg without trading. If China trades all their cheese for bread with Australia, they will get 1400 loaves of bread which is more than the 800 if they didn't trade.
+
+
+## Gains from Trade using D&S Model
+
+1. The demand and supply model may be used to determine the relative price of a good which is the same as opportunity cost.
+2. By comparing the domestic price of a good with the world price we can determine whether a country has a comparative advantage.
+3. If the domestic price is lower than the world price, then the country must be relatively more efficient at producing this good
+4. Hence, it has a lower opportunity cost - comparative advantage - and it will benefit by exporting this good to the rest of the world.
+
+#### Exports
+
+After Trade, producers gain by selling more and receiving a higher price.
+
+Consumers in Australia however will lose because they consume less and pay a higher price.
+
+Economic Welfare will increase as a result of exports.
+
+#### Imports
+
+After trade, consumers gain by receiving more and buying at a lower price.
+
+Producers in Australia however will lose because they produce less and sell at a lower price
+
+Economic welfare will increase as a result of imports
+
+
