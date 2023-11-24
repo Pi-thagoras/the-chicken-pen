@@ -191,3 +191,33 @@ Producers in Australia however will lose because they produce less and sell at a
 Economic welfare will increase as a result of imports
 
 
+## Protection (Tariffs Subsidies Quotas)
+
+Free Trade refers to the absence of government intervention. Government intervention leads to an inefficiency, and this includes protection.
+
+Trade protection involves government intervention in international trade. Imposition of trade restrictions.
+- Focus on domestic benefits and restricts imports
+
+### Three Types of Protection
+
+Tariffs:
+- A tax on imported products
+- Increase the domestic price of a foreign product
+Subsidies:
+- Provide domestic producers with a cost advantage
+Quotas:
+- Impose quantitative restrictions on imports
+
+Protection seeks to increase domestic production in the industries and decrease the consumption of imported goods and services.
+
+Those that benefit from the protection include owners and workers in the protected industries.
+
+Protection does however impose a cost or burden on the economy.
+- The industries that are given protection will expand production and consumer more resources that other industries could have used.
+
+#### Costs of Protection
+
+- Production in non-protected industries will fall
+- These industries may also have to pay higher prices for imported inputs which will reduce their competitiveness
+- Protection, while decreasing import will also decrease exports
+- **All forms of protection result in a welfare loss** in the economy
