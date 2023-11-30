@@ -221,3 +221,104 @@ Protection does however impose a cost or burden on the economy.
 - These industries may also have to pay higher prices for imported inputs which will reduce their competitiveness
 - Protection, while decreasing import will also decrease exports
 - **All forms of protection result in a welfare loss** in the economy
+
+
+**Tariffs:**
+- Consumers get less of the product and also have to pay a higher price.
+- Consumers' loss is more than offsets the gains to producers and the government.
+- Whole welfare of total surplus of society as a whole is reduced whenever a tariff is imposed
+- Deadweight loss may seem small, but it can affect other industries who buy the product that is getting tariffed, so it may also result in lower exports.
+- Results in a net decrease in employment. (Benefits the protected industry as more are employed but it's a net decrease)
+- As tariff rate was increased, would government revenue increase?
+	- No, since if it were increased to the equilibrium price, imports would fall to 0 and government revenue would be 0
+
+**Subsidies:**
+- Subsidies are grants or payments made by the government to domestic producers
+- They are **paid for out from general taxation revenue and directly lower a producer's cost of production**
+- Increase the world price closer to the domestic price so that they can compete at a higher price
+- There are no direct costs to consumers but there are indirect opportunity costs
+	- Cost of the subsidy has been paid out of taxation revenue
+- Resource allocation is affected due to inefficient producers being rewarded at the expense of efficient producers.
+- There is a DWL even if consumer surplus does not change an producer surplus increases.
+- Cost of subsidy is greater than gain in producer surplus
+
+## Arguments for Protection
+
+Why should we implements tariffs, subsidies, or quotas?
+
+Explain the argument then explain why its invalid.
+
+**Anti-Dumping Argument**
+- Producer/nation produces and then dumps a product in another nation's market - at a price that is lower than the cost of production
+	- To drive the domestic producer out of business
+	- Product is defective or getting rid of surplus
+	- Illegal in the country
+- Putting subsidies into exports is illegal and also an unfair practice
+- *Problem*: 
+	- Generally does not happen - Normally the cost of production is just lower
+
+**Infant Industry Argument**
+- When an industry is first been developing (has not have had the time to establish itself) - higher cost structure
+- Protect it because it can't compete in the global scale - The idea is put protection in place for a short time
+- They may have a comparative advantage, but not yet be visible, so it gives them time to mature
+- *Problem*:
+	- Industries become dependent on the protection and cannot get to the point of competing in the global scale
+	- May be difficult for the government to know which particular industries have the potential to become competitive on the global scale
+
+**Strategic Trade Policy** (Similar to Infant Industry but don't focus on this one)
+- Protection of high technology industries to help them achieve economies of scale and create a comparative advantage.
+- Protection in this case involves not just barriers to trade but also a variety of interventionist supply-side measures including tax advantages, low interest rates and government financing.
+- *Problem*:
+	- May be difficult for the government to know which particular industries have the potential to become competitive on the global scale
+	- Hard to select appropriate protective policies.
+
+**Diversification Argument**
+- If you focus on specializing one good, and something happens then your economy may get destroyed
+- Often applies to developing countries that are very highly specialized in producing and exporting one or a few primary commodities
+- *Problem*:
+	- Developed countries specialise in multiple industries
+	- Governments may not know about which products or industries need protection
+
+**Nation Security (Defence) Argument**
+- Certain Industries are essential for national defence e.g. as aircraft, weapons, chemicals, certain minerals)
+- *Problem*:
+	- Some industries may have an indirect use in defence e.g. steel, and try to get protected
+
+**Increased Employment Argument** (Protection of Domestic Jobs)
+- Restrictions on imports are needed to protect domestic employment
+- Import restrictions cause consumers to shift consumption away from imports and towards goods produced domestically.
+- *Problem*:
+	- Unemployment increases in the countries that...???
+
+**Cheap Foreign Labour Argument**
+- ???
+
+**Favourable Balance of Trade Argument**
+- Trade balance is exports minus imports (X-M)
+	- If Exports is greater: trade surplus
+	- If Imports is greater: trade deficit
+- Protection to decrease imports, create barriers of entry, so that we can get a trade surplus
+- *Problem*:
+	- Decreased imports would come at the expense of falling exports; there is a risk fo retaliation.
+
+## Benefits for Trade Liberalization
+
+1. **Economic Growth:** Increases real incomes and living standards
+	- Also openness to trade and investment is a major catalyst for economic growth
+	- Discuss imports and exports for trade affecting GDP
+	- Exports: Increased number of markets and larger markets
+	- Imports: Lower cost of production
+
+2. **Efficiency:** Increases efficiency through greater competition
+
+3. **Productivity:** Increases productivity though efficient resource allocation
+
+4. **Consumer Gain:** Consumer gain through lower prices and increased market access
+	- Potentially higher quality as well
+
+5. **Domestic Producers:** Domestic producers gain through lower input prices
+	- Can sell at a lower price
+
+6. **Economies of Scale:** Enables a greater specialization which allows economies of scales
+	- More you produce, the more discounts you accumulate
+	- Economies that produce much more will sell their products at a lower price because their cost of production are less
