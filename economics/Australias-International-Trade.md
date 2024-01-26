@@ -1,7 +1,7 @@
 ---
 title: Australia's International Trade
 ---
-Do not study globalization or international interdependence since these were taken out of the course
+\*\*\****Do not study globalization or international interdependence since these were taken out of the course***\*\*\*
 ## Trade
 
 Four trends that have affected the relationship between trade and development since the start of the millennium.
@@ -31,7 +31,7 @@ Trade Patterns refers to the composition and direction of goods and services a c
 **Direction:** Refers to the export destination and the origin of imports in terms of countries or groups of countries
 
 
-The **direction** of Australia's is reflected in its close proximity of the Asia Pacific region, while the **composition** of its trade reflects the nation's natural resource wealth.
+The **direction** of Australia's trade is reflected in its close proximity of the Asia Pacific region, while the **composition** of its trade reflects the nation's natural resource wealth.
 - Australia is very abundant in its natural resources
 
 Trade Intensity measures an economy's integration with the world economy. A higher trade intensity means an economy is more susceptible to external shocks in the world economy.
@@ -133,7 +133,7 @@ Australia has a comparative advantage in the supply of food crops and livestock.
 Historically Australia's trade pattern has reflected comparative advantage
 - But as a result of globalization and the freer movement of resources, financial capital, technology, competitive advantage has become much more important.
 
-Contribution to Competitive Advantage
+**Contribution to Competitive Advantage**
 1. Comparative Advantage
 2. Free Trade
 3. Foreign Investment
@@ -141,10 +141,37 @@ Contribution to Competitive Advantage
 5. Non-Price Competitiveness
 6. Strong Institutions
 
-Detractions to Competitive Advantage:
+- Comparative Advantage
+	- Australia is endowed with an abundance of rural, mineral and energy resources.
+- Free Trade
+	- Australian Government promotes free trade through regional trade agreements and forums (e.g. TPP (Trans-Pacific Partnership) and APEC (Asia-Pacific Economic Cooperation)) and through Bilateral Trade Agreements (e.g. China, Japan etc.)
+- Foreign Investment
+	- Australia is able to attract both portfolio and direct foreign investment. This funds investment in productive capacity and allows for the transfer of technology and knowledge into Australia.
+- Workforce
+	- Australia has leading experts in many fields for e.g. science, medicine, engineering and architecture. Generally, Australian workers are fully literate and skilful.
+- Non-price Competitiveness
+	- This includes factors such as product design, innovation, reliability, after-sales support and quality of service that affect the overall competitiveness of a product.
+- Strong Institutions
+	- Commerce is supported by a number of institutions such as banking and financial systems, legal system and systems of government. It is important that each system is stable and honest.
+
+
+**Detractions to Competitive Advantage:**
 1. Currency (AUD)
 2. Regulated Economy
 3. High Direct Taxes
-4. Labour Supply:
+4. Labour Supply
 5. High Wages and Low Productivity
 6. Lack of Economies of Scales
+
+- Currency (AUD)
+	- Commodity prices are less stable than manufacturing prices, hence greater movement. Instability can create uncertainty and reduce business confidence.
+- Regulated Economy
+	- Higher regulations mean more costs for businesses/producers within Australia. Regulations include Occupational Health and Safety, environmental, native title, employment, parental leave etc.
+- High Direct Taxes
+	- Company tax and income tax. Some international firms may be benefited against domestic firms by circumventing these direct taxes.
+- Labour Supply
+	- Unlike South –East Asian countries, Australia does not have access to a large low cost labour supply suited to volume production of manufacturing products.
+- High Wages and Low Productivity
+	- High wages can be justified if there is high productivity as well. However in Australia productivity growth has remained relatively low as support for economic reform policies has faltered.
+- Lack of Economies of Scales
+	- Australia has a relatively small domestic market compared to other countries. Our producers operate at a disadvantage compared to those in countries where economies of scale are achieved through large-scale manufacturers.

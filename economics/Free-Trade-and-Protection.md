@@ -98,7 +98,7 @@ You cannot produce beyond the PPF, but you can consumer beyond your PPF by tradi
 We can see in this table, that there are two different countries; Australia and China. Furthermore, there are two goods which are bread and cheese. We are assuming there are no more countries to trade with, and no more goods that these countries can produce and trade.
 
 Remember: This table shows an **"either or" situation**, where each country can either choose to use all their resources in one good, sacrificing the production of the other good.
-- So in this case, Australia can choose to produce either 1000 loaves of bread or 100 kilograms of cheese. China can choose to produce either 800 loaves of bread or 200 kilograms of cheese.
+- So in this case, Australia can choose to produce **either** 1000 loaves of bread **or** 100 kilograms of cheese. China can choose to produce **either** 800 loaves of bread **or** 200 kilograms of cheese.
 
 **Australia** has the **absolute advantage** in **bread** in this economy, while **China** has the **absolute advantage** in **cheese** in the economy. This is because they can produce more of that good that they have an absolute advantage in with the same amount of resources. (Remember we assume that each country have the same amount of resources at their disposal but we know this is not true in the real economy)
 
@@ -140,9 +140,11 @@ Trade. Does Australia want to trade with China and vice versa? It depends on the
 	- E.g. 9, 7, 1/3
 - If we meet in the middle, where both parties have equal benefits, we can reach 7 loaves of bread in exchange for 1 kilogram of cheese.
 
-As you can see, the ratio of bread to cheese is the same, and hence we can use this as a theoretical price that these countries will trade at:
+As you can see, the ratio of bread to cheese is the same, and hence we can use this as a **theoretical** price that these countries will trade at:
 - 7 loaves of bread in exchange for 1 kilogram of cheese
 - Which is equal to 1 loaf of bread in exchange for 1/7th of a kilogram of cheese
+
+Note: This is a theoretical price - a possible price of many prices. They do not have to agree on this price. They could agree on a more lopsided price which is in favour of one of the countries, but still benefit both parties.
 
 ### Consumption PPF
 
@@ -162,7 +164,7 @@ We can plot these on the PPF, to compare the benefits of trading.
 
 <image src="/the-chicken-pen/assets/Consumption_PPF_China.png" alt="China's Consumption PPF" width=600px />
 
-The blue line represents the original PPF, while the red dotted line represents the new **consumption** PPF curve after trading. REMEMBER: this is the consumption PPF, and hence you cannot ever produce more than the PPF, you can only consume beyond the PPF.
+The blue line represents the original PPF, while the red dotted line represents the new **consumption** PPF curve after trading. REMEMBER: this is the consumption PPF, and hence you can **NEVER** ever produce more than the PPF, you can **only consume** beyond the PPF.
 
 Now, if Australia trades all their bread for cheese with China, they will get 143kg of cheese which is more than the 100kg without trading. If China trades all their cheese for bread with Australia, they will get 1400 loaves of bread which is more than the 800 if they didn't trade.
 
@@ -288,10 +290,13 @@ Explain the argument then explain why its invalid.
 - Restrictions on imports are needed to protect domestic employment
 - Import restrictions cause consumers to shift consumption away from imports and towards goods produced domestically.
 - *Problem*:
-	- Unemployment increases in the countries that...???
+	- Protection of these industries may be at the expense of employment in efficient export and import competing industries. 
+		- It could lead to increased costs of production of industries who use imported goods in their productive processes.  Consumers will be faced with higher prices (income effect) and will have less to spend on the output of other industries (sectors).  Nations affected by the tariffs may retaliate with tariffs of their own, therefore reducing employment in export industries.  Reducing imports through tariffs may lead to an appreciation of the exchange rate, further reducing the competitiveness of export industries.
 
 **Cheap Foreign Labour Argument**
-- ???
+- Domestic industries need to be protected from countries where wages are much lower
+- *Problem*:
+	- The level of wages is a function of productivity.  Australian workers can be payed higher wages as their productivity is higher.  Countries that have an abundance of labour relative to other resources will have a comparative advantage in labour intensive goods (think textiles), whereas countries that have high capital to labour ratios will be more competitive in industries that are capital intensive.
 
 **Favourable Balance of Trade Argument**
 - Trade balance is exports minus imports (X-M)
