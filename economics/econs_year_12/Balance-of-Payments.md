@@ -10,7 +10,7 @@ Definition: The balance of payments is a systematic record of all economic trans
 
 **Transfers**: Movement of funds/equipment - a one way thing
 
-### Overview of BOP
+## Overview of BOP
 
 Balance of Payments:
 - The Current Account
@@ -26,7 +26,7 @@ Balance of Payments:
 		- Other Investment
 	- Capital Account
 
-### The Current Account
+## The Current Account
 
 **Trade Balance** (Balance of Trade BoT)
 - The **value** of goods and services that Australian residents export **less those** than they import.
@@ -39,9 +39,9 @@ Secondary Income Balance
 - Current *Transfers*: Transactions between Australian residents and the rest of the world where one party provides something to be consumed by another party without receiving anything in return (e.g. emergency food aid)
 	- These tend to be **one off payments**
 
-### Capital Financial Account (KFA)
+## Capital Financial Account (KFA)
 
-#### Financial Account
+### Financial Account
 
 - **Direct Investment**
 	- Occurs when more than 10% of an enterprise is purchased by a foreign investor. Most of this type involves the purchase of land and the setting up of subsidiaries. For example:
@@ -63,7 +63,7 @@ Secondary Income Balance
 	- Transactions that do not fit into one of the other categories. One example is **'trade credit'**, where an importer purchases goods from overseas and does not pay for the goods until they are received.
 	- Another example is **'currency and deposits'**, where money is deposited in or withdrawn from banks across borders or banknotes and coins are transferred between countries.
 
-#### Capital Account
+### Capital Account
 
 - Capital Transfers
 	- Transactions where one party has transferred ownership of something for another party without receiving anything specific in return. For example:
@@ -73,14 +73,14 @@ Secondary Income Balance
 - Acquisitions/Disposals of non-produced, non-financial assets
 	- Transactions that involve intangible assets (e.g. brand names, copyrights and trademarks) and rights to use land or water (e.g. for fishing or mining)
 
-### Net Errors and Omissions (Just need to know about its existence)
+## Net Errors and Omissions (Just need to know about its existence)
 
 Also under capital and financial account heading in the balance of payments figures there is an item entitled Net Errors and Omissions.
 
 This is just an adjustment that is made to the figures because of errors in the data.
 
 
-### Relationship between CA and KFA
+## Relationship between CA and KFA
 
 Current account is always offset by the capital financial account. There is a balance of payments and hence the sum is zero.
 
