@@ -60,8 +60,8 @@ Secondary Income Balance
 		- No intrinsic value
 		- A contract or agreement
 - Other Investment
-	- Transactions that do not fit into one of the other categories. One example is 'trade credit', where an importer purchases goods from overseas and does not pay for the goods until they are received.
-	- Another example is 'currency and deposits', where money is deposited in or withdrawn from banks across borders or banknotes and coins are transferred between countries.
+	- Transactions that do not fit into one of the other categories. One example is **'trade credit'**, where an importer purchases goods from overseas and does not pay for the goods until they are received.
+	- Another example is **'currency and deposits'**, where money is deposited in or withdrawn from banks across borders or banknotes and coins are transferred between countries.
 
 #### Capital Account
 
@@ -78,3 +78,42 @@ Secondary Income Balance
 Also under capital and financial account heading in the balance of payments figures there is an item entitled Net Errors and Omissions.
 
 This is just an adjustment that is made to the figures because of errors in the data.
+
+
+### Relationship between CA and KFA
+
+Current account is always offset by the capital financial account. There is a balance of payments and hence the sum is zero.
+
+When the balance of one account is in **surplus** (i.e. has a positive value, representing a credit), the balance of the other account must be in **deficit** (i.e. has a negative value, representing a debit).
+
+Scenario 1:
+- If imports are **greater** than exports, it has a deficit in its trade balance - since this is the most important component of the current account, it is also *likely* to have a current account deficit. We are assuming it overwhelms the other balances in the current account.
+	- Remember (X-M)
+- So, if there is a current account deficit, (the capital account being very small), there must be a financial account surplus - foreign exchange must be provided to pay for the excess of imports over exports.
+
+Scenario 2:
+- The surplus on the financial account may arise from investments in physical or financial capital by foreigners, including loans from foreigners.
+- It follows, then, that a deficit in the current account is matched by a surplus in the financial account (along with the unimportant capital account).
+- WHY?
+	- As more (foreign) direct investment flows in (via the financial account) there will be more **repatriated profits** (income payments) flowing out of the current account, negatively affecting the net income balance and **worsening the current account deficit**.
+	- Surplus of financial account would result in a deficit in the primary income balance.
+
+Scenario 3:
+- If the economy’s exports of goods and services are greater than its imports, it has a surplus in its current account – this means it is buying from foreigners less than what it sells to them.
+- When there is a surplus on the current account, the country is **accumulating foreign exchange** (as it earns more foreign exchange from exports than it pays out to buy imports), which it can use to **buy assets abroad** (direct or portfolio investments, including loans to other countries).
+- It follows, then, that a surplus in the current account is matched by a deficit in the financial account.
+
+### Double Entry Recording System
+
+For each transaction in the balance of payments, there is a matching credit and debit entry
+- Therefore, the overall record of payments must always balance.
+
+For each transaction, there is a matching credit and debit entry
+- Credit (positive entry) – exports of goods and services, income receivable, increase in foreign **liabilities**, export of currency
+- Debit (negative entry) – imports of goods and services, income payable, increase in foreign **assets**, import of currency
+
+Scenario 1:
+- An Australian resident purchases a TV from Japan.
+	- This is an import and hence is a debit in the trade balance account
+	- The money/currency get exported, which is recorded as a credit in the financial account.
+		- The second entry is most often in the **currency account**
