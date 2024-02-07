@@ -103,7 +103,7 @@ Scenario 3:
 - When there is a surplus on the current account, the country is **accumulating foreign exchange** (as it earns more foreign exchange from exports than it pays out to buy imports), which it can use to **buy assets abroad** (direct or portfolio investments, including loans to other countries).
 - It follows, then, that a surplus in the current account is matched by a deficit in the financial account.
 
-### Double Entry Recording System
+## Double Entry Recording System
 
 For each transaction in the balance of payments, there is a matching credit and debit entry
 - Therefore, the overall record of payments must always balance.
@@ -117,3 +117,58 @@ Scenario 1:
 	- This is an import and hence is a debit in the trade balance account
 	- The money/currency get exported, which is recorded as a credit in the financial account.
 		- The second entry is most often in the **currency account**
+Scenario 2:
+- Japanese resident buying an Australian government bond for AUD5,000
+	- Bond gets exported to Japan -> Financial Portfolio Account
+	- AUD5,000 gets imported from Japan
+
+Scenario 3:
+- Australian firm sells $10 of iron ore to China
+	- AUD10 worth of iron ore exported from Trade Balance Account
+	- AUD10 imported into currency account
+
+Scenario 4:
+- US firm purchases $5M worth of Australian shares
+	- AUD5M worth of shares exported
+	- AUD5M currency imported into currency account
+
+
+## Factors affecting Current Account
+
+Link by describing the factor. What does it affect? And hence what?
+- Assume that trade balance is a significant part of current account
+
+Two broad types of factors:
+
+Cyclical Factors - Temporary factors that mainly affect the trade balance:
+- Domestic business cycle (Influences M)
+	- Affects Trade Balance (X-M) -> which affects Current Account
+- World business cycle (Influences X)
+	- Affects Trade Balance (X-M) -> which affects Current Account
+- Exchange rate (Influences both X and M)
+	- Appreciates (Can buy more of a foreign currency) or depreciates (Can buy less of a foreign currency)
+	- Appreciation
+		- We can buy more (M increases) and foreign countries can buy less (X decreases)
+	- Depreciation
+		- We can buy less (M decreases) and foreign countries can buy more (X increases)
+- Commodity prices/terms of trade
+	- Commodities are demand/supply price inelastic...
+		- Australia's exports are made up of a lot of commodities
+	- Therefore when prices of commodities increase, revenue from exports increases a lot since the value of exports increase, trade balance increases, hence the current account will be in a surplus
+- Relative inflation
+	- Lower inflation rate countries will look more appealing to the world
+	- If our inflation rate is lower than a foreign country, our imports will decrease while our exports increases
+
+Structural Factors – Fundamental factors that mainly affect the income balance:
+- Investment-savings gap
+	- We do not have enough people to save money that can be used as an investment into the extraction of natural resources, so this is the gap.
+	- To fill in this gap, we would get loans from overseas
+- Foreign investment
+- Foreign liabilities
+
+
+Cyclical factors are temporary and subject to frequent change.
+- Cyclical factors help explain the fluctuation in the **trade balance**
+
+A Structural factor on the other hand is more permanent and only changes gradually
+- Structural factors are associated with the **primary income balance**
