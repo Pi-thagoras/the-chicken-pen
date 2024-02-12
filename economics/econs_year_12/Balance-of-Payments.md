@@ -140,7 +140,7 @@ Link by describing the factor. What does it affect? And hence what?
 
 Two broad types of factors:
 
-Cyclical Factors - Temporary factors that mainly affect the trade balance:
+**Cyclical Factors** - Temporary factors that mainly affect the trade balance:
 - Domestic business cycle (Influences M)
 	- Affects Trade Balance (X-M) -> which affects Current Account
 - World business cycle (Influences X)
@@ -159,7 +159,7 @@ Cyclical Factors - Temporary factors that mainly affect the trade balance:
 	- Lower inflation rate countries will look more appealing to the world
 	- If our inflation rate is lower than a foreign country, our imports will decrease while our exports increases
 
-Structural Factors – Fundamental factors that mainly affect the income balance:
+**Structural Factors** – Fundamental factors that mainly affect the income balance:
 - Investment-savings gap
 	- We do not have enough people to save money that can be used as an investment into the extraction of natural resources, so this is the gap.
 	- To fill in this gap, we would get loans from overseas

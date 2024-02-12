@@ -26,7 +26,7 @@ Four Key Linkages between Countries:
 
 Trade Patterns refers to the composition and direction of goods and services a country trades
 
-**Composition:** Goods refers to the different categories of goods and services a country can import and export.
+**Composition:** Refers to the different categories of goods and services a country can import and export.
 
 **Direction:** Refers to the export destination and the origin of imports in terms of countries or groups of countries
 

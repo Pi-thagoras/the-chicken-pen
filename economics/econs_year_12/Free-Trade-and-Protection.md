@@ -205,8 +205,10 @@ Trade protection involves government intervention in international trade. Imposi
 Tariffs:
 - A tax on imported products
 - Increase the domestic price of a foreign product
+
 Subsidies:
 - Provide domestic producers with a cost advantage
+
 Quotas:
 - Impose quantitative restrictions on imports
 
