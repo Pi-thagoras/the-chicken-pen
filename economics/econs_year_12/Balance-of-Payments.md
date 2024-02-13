@@ -164,7 +164,9 @@ Two broad types of factors:
 	- We do not have enough people to save money that can be used as an investment into the extraction of natural resources, so this is the gap.
 	- To fill in this gap, we would get loans from overseas
 - Foreign investment
+	- Greater inflow - repatriated profits, wages
 - Foreign liabilities
+	- 
 
 
 Cyclical factors are temporary and subject to frequent change.
@@ -172,3 +174,36 @@ Cyclical factors are temporary and subject to frequent change.
 
 A Structural factor on the other hand is more permanent and only changes gradually
 - Structural factors are associated with the **primary income balance**
+
+
+Trade Balance and Current Account have a positive relationship
+- Trade balance is relatively volatile and is vert much influenced by both Australia's Business Cycle and the World Business Cycle
+
+The current account was in a deficit for a long time up until 2018-ish because we increased out exports both from FTA and Asia-Pacific development
+
+### Savings Investments Gap
+
+Australia has S < I
+- Australia relies on foreign savings in order to fund its investment
+- This does not mean that Australians do not save
+
+Take saving from overseas since not enough saving in Australia. (Investment from overseas but not ALL of it is from overseas)
+- But during Covid, inflow in financial account reduced, more people saving so don't need to borrow. -> Less money flowed out.
+
+**Australia relies on foreign investment not because its national saving ratio is low - but because its investment ratio is high.**
+
+The need for a high level of investment means that there is an inflow of funds on the financial account (in KFA) and this increases our foreign liabilities.
+- Australia will have a deficit on the primary income component of the current account as we meet our obligations (foreign liabilities
+
+The deficit on the primary income account is the result of the savings-investment gap.
+- This usually means that the Current Account will be in a deficit.
+
+
+- If a country’s savings exceeds its investment (S > I), then it will have a current account surplus
+- If a country investment is greater than its savings (I > S), Then it will have a current account deficit
+- But trade balance has a say in this so it could not always be this case
+
+Covid made savings exceed investment - Before covid investment exceeded savings
+
+Neither CA/KFA deficit or surplus is better, it all depends on the structural and cyclical factors.
+
