@@ -168,16 +168,14 @@ Two broad types of factors:
 - Foreign liabilities
 	- 
 
-
 Cyclical factors are temporary and subject to frequent change.
 - Cyclical factors help explain the fluctuation in the **trade balance**
 
 A Structural factor on the other hand is more permanent and only changes gradually
 - Structural factors are associated with the **primary income balance**
 
-
 Trade Balance and Current Account have a positive relationship
-- Trade balance is relatively volatile and is vert much influenced by both Australia's Business Cycle and the World Business Cycle
+- Trade balance is relatively volatile and is very much influenced by both Australia's Business Cycle and the World Business Cycle
 
 The current account was in a deficit for a long time up until 2018-ish because we increased out exports both from FTA and Asia-Pacific development
 
@@ -187,23 +185,42 @@ Australia has S < I
 - Australia relies on foreign savings in order to fund its investment
 - This does not mean that Australians do not save
 
-Take saving from overseas since not enough saving in Australia. (Investment from overseas but not ALL of it is from overseas)
+We take saving from overseas since not enough saving in Australia. (Investment from overseas but not ALL of it is from overseas)
 - But during Covid, inflow in financial account reduced, more people saving so don't need to borrow. -> Less money flowed out.
 
 **Australia relies on foreign investment not because its national saving ratio is low - but because its investment ratio is high.**
 
 The need for a high level of investment means that there is an inflow of funds on the financial account (in KFA) and this increases our foreign liabilities.
-- Australia will have a deficit on the primary income component of the current account as we meet our obligations (foreign liabilities
+- Australia will have a deficit on the primary income component of the current account as we meet our obligations (foreign liabilities)
 
 The deficit on the primary income account is the result of the savings-investment gap.
 - This usually means that the Current Account will be in a deficit.
 
-
-- If a country’s savings exceeds its investment (S > I), then it will have a current account surplus
-- If a country investment is greater than its savings (I > S), Then it will have a current account deficit
+In summary:
+- If a country’s **savings exceeds its investment** (S > I), then it will have a current account **surplus**
+- If a country **investment is greater than its savings** (I > S), Then it will have a current account **deficit**
 - But trade balance has a say in this so it could not always be this case
 
 Covid made savings exceed investment - Before covid investment exceeded savings
 
 Neither CA/KFA deficit or surplus is better, it all depends on the structural and cyclical factors.
 
+
+For example, Australia’s **current account balance** will **decrease** if one or more of the following events occurs:
+- **A fall in terms of trade** - If export prices fall relative to import prices, export receipts will fall and import payments will increase. Normally, whenever the terms of trade fall, the balance on goods and services will also fall.
+	- Trade Balance
+- **A decline in international competitiveness** – If productivity levels decline or if real wages rise more than productivity than a country's exports will be less competitive in overseas markets. A rise in inflation will also reduce a nations competitiveness by increasing the prices of domestic goods relative to foreign goods
+	- International competitiveness - prices in international markets
+	- Lower productivity means less goods can be produced with the same amount of resources
+	- Increase in real wages means that the cost of production increases
+	- Trade Balance
+- **A higher rate of (domestic) economic growth** – This will lead to an increase in national income and an increase in both consumption and investment spending boosting the demand for imports and decreasing the trade balance
+	- Trade Balance
+- **An increase in foreign investment will increase the financial account balance** - Australia is a country rich in natural resources which attracts a substantial flow of investment. If the **rate of return** on investment is higher in Australia than the rest of the world then there will be large capital inflow into Australia. This will increase the primary income deficit due to the outflow of investment income (dividends and the interest payments)
+	- Savings investment gap
+	- **A decline in national savings** – If savings by either households, firms or the government fall, the current account balance will decrease. When national saving (all saving) is less than investment, the current account will record a deficit.
+		- Savings investment gap
+	- **An increase in domestic investment** – If investment increases by either the private or public sector, the current account balance will decrease. 
+		- Similar to the foreign investment
+
+Negative of current account deficit: If the current account is in deficit because of a decline in competitiveness, then you are falling behind in productivity, and innovation.
