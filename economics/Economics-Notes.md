@@ -20,6 +20,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 - [Australia's International Trade](econs_year_12/Australias-International-Trade.md)
 - [Free Trade and Protection](econs_year_12/Free-Trade-and-Protection.md)
 - [Balance of Payments](econs_year_12/Balance-of-Payments.md)
+- [Terms of Trade](econs_year_12/Terms-Of-Trade.md)
 
 
 <u>Here are my Year 11 notes that I have made:</u>
