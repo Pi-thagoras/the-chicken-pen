@@ -41,3 +41,61 @@ The bulk of Australia’s imports are manufactured and intermediate goods.
 
 Export price index has a much higher impact on terms of trade - a key driver.
 
+## Effects of a changes in terms of trade
+
+Changes in the terms of trade have important effects on:
+- The business cycle
+	- Economics Growth
+- Output and employment
+- The trade and current account balance in the balance of payments
+	- Improvements of trade balance have a **close link** in increases in terms of trades
+- The exchange rate
+	- Increase in demand for your currency, your currency appreciates
+	- If everyone wants the goods your country produces, your currency will be very strong. (A large part that affects exchange rate is the demand for goods)
+- National income
+	- Basically same as business cycle
+- Government tax revenue
+	- Increase in production means increase in profit and employment, so increase in company and income taxes, increase in tax revenue means increase in terms of trade
+- Standard of living
+	- As terms of trade improve, a higher level income increases, and material standard of living standards increase
+- Investment (likely in resources sector)
+	- Increases in prices, more production, increases in profit, other countries will want to invest in it so increase in investment.
+
+
+Trade balance takes into account not only prices of traded goods but their quantities as well.
+
+Generally the terms of trade and the balance of goods and services will show a **positive relationship**.
+- This is because a rise in export prices will increase the value of export revenue. (For commodities in Australia)
+
+It is important to remember that that the terms of trade is **one of many factors** that will affect the trade of balance.
+
+
+### Effects of a change in the terms of trade in a table
+|  | Favourable | Unfavourable |
+| ---- | ---- | ---- |
+| Cause | The XPI rises relative to the MPI e.g. an increase in iron ore prices | The MPI rises relative to the XPI e.g. an increase in oil prices |
+| Meaning | More imports can be purchases from a given volume of exports | Less imports can be purchased with a given volume of exports |
+| Effects | 1. Increase in trade balance | 1. Decrease in trade balance |
+|  | 2. Increase in national income | 2. Decrease in national income |
+|  | 3. Aggregate demand increases | 3. Aggregate demand decreases |
+|  | 4. Rise in living standards | 4. Fall in living standards |
+|  | 5. Investment & employment increases in the resources sector | 5. Investment & Employment decreases |
+|  | 6. AUD appreciates | 6. AUD Decreciates |
+|  | 7. CPI (Inflation) Rises | 7. CPI (Inflation) Falls |
+While a **higher Australian dollar** is **good for consumers** it is a **disadvantage for domestic producers and exporters** not in the mining escort because it reduces their competitiveness.
+- Foreign imports are cheaper than domestic produced goods
+- Benefits domestic producers who use imported goods
+- Exporters depend on prices of products in foreign markets
+
+There are fewer substitutes to commodities so that is why commodities are non-elastic.
+
+Dutch disease refers to the growth of one sector affecting the growth of other sectors.
+- One potential problem of a very high exchange rate is known as ‘Dutch disease’. - the mining boom in Australia caused by the rise in commodity prices resulted in a ‘two speed’ economy.
+- The mining sector grew at a fast pace but other domestic industries, adversely affected by the high exchange rate, grew at a much slower speed.
+	- If your product is price elastic, total revenue falls because it is more expensive in foreign markets to buy your exports
+
+
+
+Terms of trade - Mostly microeconomics so demand and supply affects import and export prices. The factors that affect terms of trade are out of our reach to influence (world price is a flat line), so emphasis is on the terms of trade effects.
+
+India's and China's economies were growing quicky in 2013-ish so they could affect the world price. Normally not one country can influence the world price.
