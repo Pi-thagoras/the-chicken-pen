@@ -72,17 +72,18 @@ It is important to remember that that the terms of trade is **one of many factor
 
 ### Effects of a change in the terms of trade in a table
 
-|  | Favourable | Unfavourable |
+| x | Favourable | Unfavourable |
 | ---- | ---- | ---- |
 | Cause | The XPI rises relative to the MPI e.g. an increase in iron ore prices | The MPI rises relative to the XPI e.g. an increase in oil prices |
 | Meaning | More imports can be purchases from a given volume of exports | Less imports can be purchased with a given volume of exports |
 | Effects | 1. Increase in trade balance | 1. Decrease in trade balance |
-|  | 2. Increase in national income | 2. Decrease in national income |
-|  | 3. Aggregate demand increases | 3. Aggregate demand decreases |
-|  | 4. Rise in living standards | 4. Fall in living standards |
-|  | 5. Investment & employment increases in the resources sector | 5. Investment & Employment decreases |
-|  | 6. AUD appreciates | 6. AUD Decreciates |
-|  | 7. CPI (Inflation) Rises | 7. CPI (Inflation) Falls |
+| x | 2. Increase in national income | 2. Decrease in national income |
+| x | 3. Aggregate demand increases | 3. Aggregate demand decreases |
+| x | 4. Rise in living standards | 4. Fall in living standards |
+| x | 5. Investment & employment increases in the resources sector | 5. Investment & Employment decreases |
+| x | 6. AUD appreciates | 6. AUD Decreciates |
+| x | 7. CPI (Inflation) Rises | 7. CPI (Inflation) Falls |
+
 While a **higher Australian dollar** is **good for consumers** it is a **disadvantage for domestic producers and exporters** not in the mining escort because it reduces their competitiveness.
 - Foreign imports are cheaper than domestic produced goods
 - Benefits domestic producers who use imported goods
