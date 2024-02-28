@@ -132,6 +132,12 @@ Scenario 4:
 	- AUD5M worth of shares exported
 	- AUD5M currency imported into currency account
 
+### Double Entry Table for Success
+
+|          | Financial (Loans, Dividends, etc.) | Real (Goods and Services) |
+| -------- | ---------------------------------- | ------------------------- |
+| Outflows | Debit Entry                        | Credit Entry              |
+| Inflows  | Credit Entry                       | Debit Entry               |
 
 ## Factors affecting Current Account
 
