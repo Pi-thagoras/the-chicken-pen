@@ -3,7 +3,7 @@ title: Terms of Trade
 layout: default
 ---
 The terms of trade is an **index** which measures the relative **movements in the prices** of exports and imports
-- The terms of trade index is measured as a  - ratio of export prices to import prices
+- The terms of trade index is measured as a ratio of export prices to import prices
 - Terms of Trade = (Export Price Index / Import Price Index) x 100
 	- These are change in prices of exports/imports
 
@@ -75,7 +75,7 @@ It is important to remember that that the terms of trade is **one of many factor
 |         | Favourable                                                            | Unfavourable                                                     |
 | ------- | --------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Cause   | The XPI rises relative to the MPI e.g. an increase in iron ore prices | The MPI rises relative to the XPI e.g. an increase in oil prices |
-| Meaning | More imports can be purchases from a given volume of exports          | Less imports can be purchased with a given volume of exports     |
+| Meaning | More imports can be purchased from a given volume of exports          | Less imports can be purchased with a given volume of exports     |
 | Effects | 1. Increase in trade balance                                          | 1. Decrease in trade balance                                     |
 |         | 2. Increase in national income                                        | 2. Decrease in national income                                   |
 |         | 3. Aggregate demand increases                                         | 3. Aggregate demand decreases                                    |
