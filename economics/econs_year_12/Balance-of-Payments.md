@@ -194,7 +194,7 @@ Australia has S < I
 We take saving from overseas since not enough saving in Australia. (Investment from overseas but not ALL of it is from overseas)
 - But during Covid, inflow in financial account reduced, more people saving so don't need to borrow. -> Less money flowed out.
 
-**Australia relies on foreign investment not because its national saving ratio is low - but because its investment ratio is high.**
+**Australia relies on foreign investment not because its national saving ratio is low - but because its investment to savings ratio is high.**
 
 The need for a high level of investment means that there is an inflow of funds on the financial account (in KFA) and this increases our foreign liabilities.
 - Australia will have a deficit on the primary income component of the current account as we meet our obligations (foreign liabilities)
