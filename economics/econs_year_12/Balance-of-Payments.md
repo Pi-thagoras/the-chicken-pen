@@ -117,6 +117,7 @@ Scenario 1:
 	- This is an import and hence is a debit in the trade balance account
 	- The money/currency get exported, which is recorded as a credit in the financial account.
 		- The second entry is most often in the **currency account**
+
 Scenario 2:
 - Japanese resident buying an Australian government bond for AUD5,000
 	- Bond gets exported to Japan -> Financial Portfolio Account
