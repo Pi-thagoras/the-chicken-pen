@@ -109,3 +109,56 @@ Foreign investment is influenced by a number of factors
 - Australian **interest rates are often relatively higher** than most other developed economies which also attracts portfolio investment chasing high returns on yields (refers to bonds). (EXPLAIN)
 - Australia has a **well developed and regulated financial market** which offers low risk returns (EXPLAIN) Risk is clearer, decision makers can have a better understanding. Transparent.
 - Australia is a **resource rich nation which depends on the inflow of financial capital to supplement its own domestic savings** to enable it to develop its vast mineral and energy resources (EXPLAIN)
+
+There is a high level of foreign ownership of Australian business firms, but this is incorrect.
+- Australian businesses with foreign ownership greater than 10 percent accounts for just **3 percent of all business firms**.
+- The industry in which the level of foreign ownership is high is the mining industry where **28 percent of mining businesses** have foreign ownership greater than 10 percent.
+
+The 3 main sources of foreign direct investment are the **United states, Japan and the United Kingdom**.
+- These three countries account for **over 40 percent** of all foreign direct investment in Australia.
+
+## Costs and Benefits of Foreign Investment
+
+**Investment** refers to spending on **capital goods** such as machinery and construction including new housing.
+
+### Direct Investment
+
+Foreign Investment also boosts domestic investment.
+- Investment expenditure is a component of GDP and plays an important role in the economy.
+- It increases the level of economic activity - employment and national income and prices.
+- Investment also expands the productive capacity of the economy by increasing the stock of physical capital – in other words it moves the economy’s production possibility frontier outwards.
+	- Productive Capacity -> Long Run Aggregate Supply Curve (LRAS)
+
+S-I Gap:
+- The amount of investment an economy can undertake is determined by the level of savings.
+- If domestic savings are low, then for investment to expand foreign savings must be used.
+- Australia normally relies on foreign investment because its investment needs exceeds its level of savings
+
+Foreign investment can help increase the economy's infrastructure, including transport and communications networks.
+- By increasing the **capital – labour ratio it can increase labour productivity, leading to higher real incomes.**
+
+The most important benefit of foreign investment for Australia has been the development of our industries and resources - Without the large amount of foreign investment that has flowed into Australia, the mining and manufacturing sectors would have been much smaller.
+
+Inflows of foreign investment have also helped to finance the growth of Australia’s stock of housing.
+
+Direct foreign investment has the advantage that it can bring with it new technology and managerial expertise.
+
+Overseas firms establishing new subsidiaries will directly add to employment and contribute to increased taxation revenue for the government
+- A large percentage of profits of these firms are also retained and invested back into the enterprise
+
+### Portfolio Investment
+
+The general state of the economy, the level of interest rates, government stability and the performance of the share market are all factors affecting short term capital movements.
+
+Portfolio investment is a function of short term profitability and is highly sensitive to relative interest rates.
+- The interest rate differential between Australia and the rest of the world plays an important role in the movement of portfolio investment in and out of the Australian economy. (Bonds - Debt)
+- When interest rates in Australia rise relative to the rest of the world, then capital inflow in the form of portfolio investment increases.
+
+#### Costs
+
+The cost of foreign investment are associated with the supposedly twin ‘evils’ of foreign ownership and foreign debt.
+- When most capital inflow was in the form of equity, the major concern was the ‘selling; of Australian assets.
+- Foreign equity investment into Australia has declined in recent decades being replaced by borrowing.
+
+It is a fact that interest payments on foreign debt have become the largest debit item in the income category of the current account
+- But as long as the foreign investment boosts Australia’s future productive capacity, then the servicing of the debt is not a problem.
