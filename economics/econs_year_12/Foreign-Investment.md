@@ -35,7 +35,7 @@ Debt and Equity (ignore for now):
 - If Australian residents (households, firms or government) **borrow** form overseas, then this increases Australian foreign **debt** liability
 - If Australian residents **sell** assets to overseas residents, then this increases Australia's foreign **equity** liability.
 	- Sell assets -> Outflow of money -> Liability
-- Australia’s net foreign debt in 2022 was $1,158 billion, while net foreign equity was -$324 billion – Why is the equity figure negative?
+- Australia’s net foreign debt in 2022 was 1,158 billion dollars, while net foreign equity was -$324 billion – Why is the equity figure negative?
 	- This means that Australia now owns more foreign equity than it owes, so in fact net foreign equity is no longer a liability – it is now an asset.
 - Borrowing funds is seen as being a more prudent and flexible approach compared with selling assets.
 - Foreign debt (borrowing) needs to be serviced with interest payments, while foreign equity (sales) involves the remittance of profits and dividends.
