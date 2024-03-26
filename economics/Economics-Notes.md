@@ -22,6 +22,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 - [Balance of Payments](econs_year_12/Balance-of-Payments.md)
 - [Terms of Trade](econs_year_12/Terms-Of-Trade.md)
 - [Exchange Rates](econs_year_12/Exchange-Rates.md)
+- [Foreign Investment](econs_year_12/Foreign-Investment.md)
 
 
 <u>Here are my Year 11 notes that I have made:</u>
