@@ -132,7 +132,7 @@ Foreign Investment also boosts domestic investment.
 S-I Gap:
 - The amount of investment an economy can undertake is determined by the level of savings.
 - If domestic savings are low, then for investment to expand foreign savings must be used.
-- Australia normally relies on foreign investment because its investment needs exceeds its level of savings
+- ***Australia normally relies on foreign investment because its investment needs exceeds its level of savings***
 
 Foreign investment can help increase the economy's infrastructure, including transport and communications networks.
 - By increasing the **capital – labour ratio it can increase labour productivity, leading to higher real incomes.**

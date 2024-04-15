@@ -16,6 +16,9 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 
 <u>Here are my Year 12 notes that I have made so far:</u>
 
+### Unit 4
+- [Business Cycle & Macroeconomic Indicators](econs_year_12/Business-Cycle-and-Macroeconomic-Indicators.md)
+
 ### Unit 3
 - [Australia's International Trade](econs_year_12/Australias-International-Trade.md)
 - [Free Trade and Protection](econs_year_12/Free-Trade-and-Protection.md)
