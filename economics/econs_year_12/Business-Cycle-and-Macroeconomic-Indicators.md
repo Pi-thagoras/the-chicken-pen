@@ -24,7 +24,7 @@ The blue line depicts a regular cycle of contraction and expansion.
 
 The **expansion** is a period during which real GDP is increasing.
 - It is associated with an increase in production (output of goods and services), which results in greater use of productive factors such as labour; more wages (in aggregate) and higher levels of spending.
-- The expansion phase of the cycle features some typical characteristics:
+- <u>The expansion phase of the cycle features some typical characteristics:</u>
 	- Rising business investment in the capital equipment needed to produce goods and services;
 	- Rising levels of household consumption spending, particularly on discretionary items;
 	- Confidence in household and business sectors;
@@ -43,7 +43,7 @@ The **contraction** is the period during which real GDP is falling.
 - Businesses record a fall in sales, and respond to this reduction in demand by producing fewer goods and services. As a result, the use of productive input falls.
 - Unemployment rises, households incomes fall and spending on goods and services declines
 - The business cycle model also uses the term ‘recession’ for the period of economic contraction, but, the term is often reserved for times when there has been two successive quarters (3-month periods) of negative growth.
-- Contractions are characterised by:
+- <u>Contractions are characterised by:</u>
 	- Rising levels of cyclical unemployment;
 	- Reduced company profits;
 	- Lower sales of consumer durables;

@@ -66,9 +66,10 @@ By leaving markets to adjust to changes in market conditions, shortages and/or s
 - A freely floating exchange is a perfect example of a competitive market where the price fluctuates in response to changes in the demand and supply of the currency.
 - If there is an excess supply of AUD, the depreciation will raise the prices of imported goods and services in the domestic currency and lower the prices of exported goods and services in foreign currencies - This will automatically help remove the excess supply.
 
-Exchange rate depreciate, makes our exports more competitive in foreign markets
+Exchange rate **depreciate**, makes our exports more competitive in foreign markets
 - Trade Balance decrease, exchange rate depreciate, increase price of imports but also increased competitiveness in foreign markets, demand for imports should fall thus reducing the current account deficit.
-Exchange rate appreciate, makes our imports more expensive to purchase in domestic markets
+
+Exchange rate **appreciate**, makes our imports more expensive to purchase in domestic markets
 - Trade Balance increases, exchange rate appreciates, decrease price of imports but also decreased competitiveness in foreign markets, demand for imports should rise thus increasing the current account deficit.
 
 Depreciation -> Improves Current Account
