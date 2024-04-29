@@ -5,7 +5,7 @@ layout: default
 Australia’s **Net international Investment Position** (NIIP) records the stock or level of **foreign investment into Australia** (FOA) and the level of **Australian investment abroad** (AIA).
 
 The net? International investment position (NIIP) of a country is a financial statement of the value and composition of its external financial assets and liabilities.
-- A IIP value indicates that it is a **creditor nation**, while a negative value indicates that it is a **debtor nation**.
+- A positive IIP value indicates that it is a **creditor nation**, while a negative value indicates that it is a **debtor nation**.
 
 The **stock of foreign investment into Australia** is referred to as **foreign liabilities**
 - A LIABILITY is something you OWE
@@ -62,7 +62,7 @@ A savings gap that is filled by foreign liabilities, because of our high investm
 
 Every year there is a flow of foreign investment into Australia which adds to this stock.
 
-If this inflow of foreign investment exceeds the outflow, then there is a financial account surplus.
+If this inflow of foreign investment exceeds the outflow, then there is a financial account surplus. - this is the majority of Australia's BoP status
 - If Australian investment abroad exceeds the inflow, then there is a financial account deficit – this happened in 2020 to 2022
 
 Foreign investment may take the form of borrowing or it may be in the form of equity – the selling of assets (shares of companies, resources) to overseas residents.
@@ -157,7 +157,7 @@ Portfolio investment is a function of short term profitability and is highly sen
 #### Costs
 
 The cost of foreign investment are associated with the supposedly twin ‘evils’ of foreign ownership and foreign debt.
-- When most capital inflow was in the form of equity, the major concern was the ‘selling; of Australian assets.
+- When most capital inflow was in the form of equity, the major concern was the ‘selling' of Australian assets.
 - Foreign equity investment into Australia has declined in recent decades being replaced by borrowing.
 
 It is a fact that interest payments on foreign debt have become the largest debit item in the income category of the current account
