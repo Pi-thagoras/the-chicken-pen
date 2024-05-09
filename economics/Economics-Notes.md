@@ -31,7 +31,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 <u>Here are my Year 11 notes that I have made:</u>
 
 ### Unit 2
-- [Economics Unit 1 and 2 Summary](econs_year_11/Economics-Exam-Two-Checklist.md)  ←←←←← **This is for the exam** (Read the note at the top)
+- [Economics Unit 1 and 2 Summary](econs_year_11/Economics-Exam-Two-Checklist.md) (Exam Stuff)
 - [The Government's Role in Economy](econs_year_11/Government-in-Economy.md)
 - [Income & Wealth Distribution](econs_year_11/Income-Distribution.md)
 - [The Business Trade Cycle](econs_year_11/Business-Trade-Cycle.md) (BTC)
@@ -51,6 +51,6 @@ Key Economic Indicators:
 - [Market Equilibrium](econs_year_11/Market-Equilibrium.md)
 - [Price Elasticity](econs_year_11/Price-Elasticity.md)
 - [Market Efficiency](econs_year_11/Market-Efficiency.md)
-- [Market Failure](econs_year_11/Market-Failure.md) (Updated)
+- [Market Failure](econs_year_11/Market-Failure.md)
 - [Market Power](econs_year_11/Market-Power.md) (Which falls under Market Failure)
 - [Exam Unit 1 Checklist](econs_year_11/Economics-Exam-One-Checklist.md)
