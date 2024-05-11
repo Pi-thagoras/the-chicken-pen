@@ -16,6 +16,7 @@ Here are my Year 12 notes that I have made so far:
 
 ### Unit 3
 - [Redox](Redox.md)
+- [Semester 1 Exam Revision](Sem-1-Exam.md) (probably add more later)
 
 
 
