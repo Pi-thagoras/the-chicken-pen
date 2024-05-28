@@ -17,7 +17,7 @@ The **stock of Australian investment abroad** is known as **foreign assets**
 - If a firm in the United states invests in the Australian share market or invests money into the Australian financial market, this represents an **increase in Australia‘s foreign liabilities** - an increase in net capital **inflow** or inbound foreign investment.
 - If, on the other hand, an Australian firm *buys* shares in an overseas company or *lends* money to a foreign bank then this would represent an **increase in Australia foreign assets** – an **outflow** of capital or foreign investment abroad
 
-Foreign investment – an inflow of money from overseas
+Foreign investment – an inflow of money from overseas & an outflow of money outward overseas **(refers to the flows of money between countries both in and out)**
 - Foreign liabilities – created when Australian residents borrow from overseas or sell assets such as shares to foreign residents
 - Foreign assets - created when Australian residents lend money to foreign residents or purchase foreign assets - It is called Australian investment abroad and is an outflow of money
 

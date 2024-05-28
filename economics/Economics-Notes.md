@@ -18,6 +18,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 
 ### Unit 4
 - [Business Cycle & Macroeconomic Indicators](econs_year_12/Business-Cycle-and-Macroeconomic-Indicators.md)
+- [Aggregate Expenditure](econs_year_12/Aggregate-Expenditure.md)
 
 ### Unit 3
 - [Australia's International Trade](econs_year_12/Australias-International-Trade.md)

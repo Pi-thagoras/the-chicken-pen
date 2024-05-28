@@ -264,7 +264,8 @@ Explain the argument then explain why its invalid.
 **Infant Industry Argument**
 - When an industry is first been developing (has not have had the time to establish itself) - higher cost structure
 - Protect it because it can't compete in the global scale - The idea is put protection in place for a short time
-- They may have a comparative advantage, but not yet be visible, so it gives them time to mature
+- They may have a **comparative advantage**, but not yet be visible, so it gives them time to mature
+- You won't protect every infant industry, only comparative advantageous infant industries.
 - *Problem*:
 	- Industries become dependent on the protection and cannot get to the point of competing in the global scale
 	- May be difficult for the government to know which particular industries have the potential to become competitive on the global scale
