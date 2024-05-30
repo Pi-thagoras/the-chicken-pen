@@ -95,7 +95,7 @@ Anything that affects the demand/supply of the AUD (or any other currency) with 
 	- Inflation reduces the competitiveness of industries in the traded goods sector. A high inflation rate relative to other countries is likely to decrease the exchange rate – the D(AUD) will decrease while the S(AUD) will increase.
 - International Capital Flows
 	- If investors believe Australia to be a relatively more attractive destination for their funds compared to other economies then D(AUD) will increase and the Australian dollar would appreciate
-- Domestic Economic Growth
+- Domestic Economic Growth (Less influence since volume of imports is less than that of exports... aus economy much smaller than the global economy)
 	- Strong economic growth in Australia will lead to an increase in demand for imports, which will increase the S(AUD) causing a currency depreciation; but at the same time, a stronger economy will attract foreign investment which will increase the D(AUD) increasing the exchange rate
 - World Economic Growth
 	- An increase in global GDP (esp. our trading partners such as China), increase the national income. increasing the demand of our exports, which part of it are commodities, which increases the D(AUD) and appreciates the currency

@@ -34,44 +34,11 @@ Goods are tangible (they can be seen and touched).
 	- In modern economies, spending on services makes up the largest of the three slices of the consumption cake, accounting for **50 percent of all household expenditure (C)**.
 	- Some services are regarded as essential, such as education, health services and transport, while others are discretionary, such as spending on entertainment and leisure.
 
-## Investment
-
-The second component of aggregate expenditure is private sector investment
-- Economists DEFINE INVESTMENT as spending on new capital goods and additions to inventories.
-- A capital good is any item of machinery that is used to assist labour in the production process
-- Investment Spending in the national accounts (gross private investment) is divided into three categories:
-	- **Business investment** – privately funded business spending on capital goods used in production – equipment, machinery and buildings;
-	- **Housing Investment** – private expenditure on new housing; and
-	- **Inventories** – unsold goods, sometimes described as ‘stock’
-
-Investment
-- Private Investment
-	- In 2021-2022, private investment accounted for **18 percent** of aggregate expenditure in the Australian economy.
-	- Investment spending is the **most volatile** component of aggregate expenditure.
-- **Inventories** rise when all current production is not sold
-	- An important point to note is that **inventories are excluded from investment spending in the aggregate expenditure equation**.
-	- The term **planned investment** (Ip) refers to the **planned spending by firms on business investment and residential investment by households**.
-	- Actual investment comprises planned investment plus inventories
-	- If there is no change to inventories, then actual and planned investment are equal.
-
-## Government Expenditure 
-
-Government expenditure is the third component of aggregate expenditure
-- In 2021 – 2022, total government spending in Australia amounted to $580 billion, which represented 27 percent of aggregate spending.
-- G1 Current spending is expenditure on the day to day businesses of government such as wages and salaries and purchases of goods and services
-- G2 Capital expenditure is spending on public infrastructure such as power and water supply, public buildings, schools, roads, railways and communications networks
-
-## Net Exports
-
-Net Exports
-- Overseas purchases of goods and services produced in Australia is an export in Australia’s National Accounts, and adds to aggregate expenditure.
-- Imports occur when Australian households, firms, and governments purchase goods and services from overseas.
-
-## Factors affecting Consumption Spending (C)
+### Factors affecting Consumption Spending (C)
 
 These normally affect discretionary spending.
 
-Factors affecting Consumption Spending
+**Factors affecting Consumption Spending**
 - Disposable Income (Yd) (Movement along the curve)
 - Interest rates
 - Current stock of wealth
@@ -111,7 +78,39 @@ Government Economic Policy (Affects Consumption as well as investment, governmen
 - **Fiscal Policy**
 	- The Commonwealth Government (treasury) is responsible for fiscal policy – using the governments spending and taxing powers to influence household spending decisions.
 
-## Factors affecting Investment (I)
+## Investment
+
+The second component of aggregate expenditure is private sector investment
+- Economists DEFINE INVESTMENT as spending on new capital goods and additions to inventories.
+- A capital good is any item of machinery that is used to assist labour in the production process
+- Investment Spending in the national accounts (gross private investment) is divided into three categories:
+	- **Business investment** – privately funded business spending on capital goods used in production – equipment, machinery and buildings;
+	- **Housing Investment** – private expenditure on new housing; and
+	- **Inventories** – unsold goods, sometimes described as ‘stock’
+
+Investment
+- Private Investment
+	- In 2021-2022, private investment accounted for **18 percent** of aggregate expenditure in the Australian economy.
+	- Investment spending is the **most volatile** component of aggregate expenditure.
+- **Inventories** rise when all current production is not sold
+	- An important point to note is that **inventories are excluded from investment spending in the aggregate expenditure equation**.
+	- The term **planned investment** (Ip) refers to the **planned spending by firms on business investment and residential investment by households**.
+	- Actual investment comprises planned investment plus inventories
+	- If there is no change to inventories, then actual and planned investment are equal.
+
+### Factors affecting Investment (I)
+
+**Factors affecting Investment:**
+- Rising levels of profitability
+- Profitability in the business sector
+	- If you are profiting lots -> you will invest more with that profit
+- Business expectations
+	- What business thinks about the current level of economic activity and future trends
+	- Business sentiment is influenced by perceptions of current economic events such as levels of sales and inquiries from buyers.
+- Government policies
+	- Fiscal and monetary policy affect investment decisions because they affect costs and expected sales revenue.
+	- Taxing the earnings of an industry can change the risk/reward relationship in that sector. 
+	- On the other hand tax incentives may attract investment funds to an industry
 
 Investment is expenditure by firms on new capital goods that will be used to produce final goods and services in the future
 - Aggregate private investment is the most volatile element of aggregate expenditure, ranging between 16 and 23 percent of AE over the last 50 years
@@ -125,17 +124,49 @@ Nominal Interest Rate - Inflation Rates = Real Interest Rates
 
 ALL FACTORS SHIFT INVESTMENT CURVE EXCEPT INTEREST RATES
 
-Factors affecting Investment:
-- Rising levels of profitability
-- Profitability in the business sector
-	- If you are profiting lots -> you will invest more with that profit
-- Business expectations
-	- What business thinks about the current level of economic activity and future trends
-	- Business sentiment is influenced by perceptions of current economic events such as levels of sales and inquiries from buyers.
-- Government policies
-	- Fiscal and monetary policy affect investment decisions because they affect costs and expected sales revenue.
-	- Taxing the earnings of an industry can change the risk/reward relationship in that sector. 
-	- On the other hand tax incentives may attract investment funds to an industry
+## Government Expenditure 
 
-## Factors Affecting Government Expenditure (G)
+Government expenditure is the third component of aggregate expenditure
+- In 2021 – 2022, total government spending in Australia amounted to $580 billion, which represented 27 percent of aggregate spending.
+- G1 Current spending is expenditure on the day to day businesses of government such as wages and salaries and purchases of goods and services
+- G2 Capital expenditure is spending on public infrastructure such as power and water supply, public buildings, schools, roads, railways and communications networks
 
+### Factors Affecting Government Expenditure (G)
+
+The majority of government spending is on current items (G1) - the goods and services consumed by government institutions and the wages and salaries paid to employees.
+- This size of spending is governed by the need to fund essential services such as health education and social security.
+- The government also undertakes investment in essential infrastructure (G2) – public utilities such as power and water supply, roads railways and communications networks.
+- Sometimes their timing might be influenced by the state of the economy.
+- It would be inappropriate for example to undertake a major new infrastructure project when the economy was operating at full capacity as this may worsen supply bottlenecks (all factors of production utilized, shortage is created) an build inflationary pressure.
+
+## Net Exports
+
+Net Exports
+- Overseas purchases of goods and services produced in Australia is an export in Australia’s National Accounts, and adds to aggregate expenditure.
+- Imports occur when Australian households, firms, and governments purchase goods and services from overseas.
+
+### Factors Affecting Net Exports (X-M)
+
+**Factors affecting Net Exports:**
+- Seasons (Minimal Effect)
+- Domestic Economic Activity
+- Foreign Economic Activity (Larger effect than domestic)
+- Exchange Rates
+- Movements in ToT
+
+Exports and imports are **reasonably volatile components** of aggregate expenditure particularly in Australia - because of the nature of its traded goods and services.
+
+**Overseas demand for Australian commodity exports fluctuates according to regional and world economic conditions**
+- Domestic supply can also contribute to volatility as agricultural and pastoral commodities are influenced by the vagaries of seasons an events such as drought.
+
+**Domestic levels of economic activity** influence Australian's propensity (willingness) to import.
+- In periods of strong economic activity consumers import goods that cannot be sourced from local manufacturers and businesses buy capital equipment that may not be produced in Australia.
+
+The **exchange rate** is an important determinant of expenditure on exports and imports
+- When the Australian dollar appreciates domestic residents can buy more units of other currencies, so imports are cheaper and more competitive against domestically produced items.
+- Appreciation also means Australian exports become less competitive in overseas markets because overseas residents can buy less units of AUD.
+- **Appreciation of the currency has a contractionary effect on aggregate expenditure because net exports fall.**
+
+**Movements in the terms of trade** play a significant role in determining spending on exports and imports
+- Australia’s exports are dominated by mineral and agricultural commodities such as iron ore, coal, wheat and barley
+- Increase exports, increase value of export income, increase in AE
