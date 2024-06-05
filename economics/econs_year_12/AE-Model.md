@@ -2,6 +2,13 @@
 title: The Consumption Function
 layout: default
 ---
+Macroeconomic Model only
+
+Assumption: Assume I G X are not influenced by domestic income
+
+!!! Any AE disequilibrium model requiring questions: mention inventories. !!!
+
+!!! Shifts of AE model: Mention Multiplier !!!
 ## The AE Model: The Consumption Function
 
 The Keynesian expenditure model is based on the relationship between the level of disposable income received by households and the level of consumption and saving. 
@@ -41,3 +48,33 @@ If the equation is C = 60 + 0.6Y
 - Hence the Marginal Propensity to Save (MPS) is, the fraction of any change in income that is saved, and in this case is 0.4
 - MPC + MPS = 1
 - **The size of the MPC depends on the attitude of consumers to spending and saving.**
+
+## The AE Model: The Financial Sector
+
+At an income level of $400 billion for example planned (total C+I) spending equals $360 billion.
+- Firms will have unsold output (inventories) of $40 billion - inducing them to **cut their output** in the next time period resulting in a fall in income earned.
+- Cutting output would shift along the C+I curve -> until it reaches equilibrium (income = expenditure)
+
+On the other hand, if the level of income was $200 billion (below equilibrium level) total planned spending would be equal $240 billion
+- This means that firms will have sold all their current output and will have to sell $40 billion worth of output from inventories
+- **Inventories will thus fall** and firms will react by increasing production in the next time period.
+- Rising production will increase the level of income earned.
+
+Equilibrium? Doesn't tell you anything about the whole economy. Don't link to the macroeconomic indicators.
+
+## Full AE Model - Disequilibrium - Y≠Ex
+
+M and C is upward sloping. I G X are flat, and are assumed to be unaffected by income.
+- Gradient of M curve is the marginal propensity to import (MPI)
+
+**Income = Expenditure = Output (May seem the same but need to distinguish the difference)**
+
+AE models meet the definition of equilibrium - no tendency for change in the levels of income or output at that point in time.
+
+"In this diagram, equilibrium occurs when total spending equals total output"
+
+At a lower level of income than the equilibrium such as Y1 planned spending is greater than output and there is a decrease in inventories
+- Firms will increase aggregate output so income and employment will rise
+
+At a higher income level like Y2, planned spending is now less than output so that there is an increase in inventories.
+- Again this will automatically lead to a decrease in production and the level of output and income will fall back to the equilibrium level Ye (point E)
