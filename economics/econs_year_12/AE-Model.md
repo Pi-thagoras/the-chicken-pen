@@ -69,6 +69,8 @@ M and C is upward sloping. I G X are flat, and are assumed to be unaffected by i
 
 **Income = Expenditure = Output (May seem the same but need to distinguish the difference)**
 
+<image src="/the-chicken-pen/assets/AE_Disequilibrium.png" alt="Disequilibrium Graph" width=900px />
+
 AE models meet the definition of equilibrium - no tendency for change in the levels of income or output at that point in time.
 
 "In this diagram, equilibrium occurs when total spending equals total output"
