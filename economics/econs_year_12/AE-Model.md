@@ -51,11 +51,11 @@ If the equation is C = 60 + 0.6Y
 
 ## The AE Model: The Financial Sector
 
-At an income level of $400 billion for example planned (total C+I) spending equals $360 billion.
+At an income level of 400 billion dollars for example planned (total C+I) spending equals 360 billion dollars.
 - Firms will have unsold output (inventories) of $40 billion - inducing them to **cut their output** in the next time period resulting in a fall in income earned.
 - Cutting output would shift along the C+I curve -> until it reaches equilibrium (income = expenditure)
 
-On the other hand, if the level of income was $200 billion (below equilibrium level) total planned spending would be equal $240 billion
+On the other hand, if the level of income was 200 billion dollars (below equilibrium level) total planned spending would be equal 240 billion dollars.
 - This means that firms will have sold all their current output and will have to sell $40 billion worth of output from inventories
 - **Inventories will thus fall** and firms will react by increasing production in the next time period.
 - Rising production will increase the level of income earned.
