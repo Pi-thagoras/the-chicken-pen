@@ -24,7 +24,7 @@ E.G. Initially, we assume our economy has just 3 sectors - households, firms and
 - The final impact of the new spending is likely to be much greater than the initial value of the project
 
 The multiplier refers to the proportion by which income will rise following an initial change in spending
-- If an increase in investment of $10 billion caused the level of income to rise by $25 billion, the value of the multiplier would be 2.5 that is - the final impact on income is 2.5 times the new investment.
+- If an increase in investment of 10 billion dollars caused the level of income to rise by 25 billion dollars, the value of the multiplier would be 2.5 that is - the final impact on income is 2.5 times the new investment.
 - The following example shows the multiplier at work and how the marginal propensity to consume determines its final impact
 
 Definition: **The MULTIPLIER is the amount by which real income or GDP changes after an initial change in expenditure.**
@@ -34,9 +34,11 @@ Need MPC and MPS to calculate your multiplier
 Multiplier Formula: 
 
 $$k = ΔY/ΔI$$
+
 and also the value of the multiplier is determined by the marginal propensity to consume and can be derived from the formula:
 
 $$k = \frac{1}{1-MPC} = \frac{1}{MPS}$$
+
 What if MPC increases: This would increase the ‘re-spending’ effect from a given change in investment and so the value of the multiplier must rise.
 - Small changes in the MPC can have a dramatic effect on the size of the multiplier, as shown in the sidebar
 - As the MPC increases (MPS decreases), the multiplier increases.
