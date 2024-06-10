@@ -21,6 +21,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 - [Aggregate Expenditure](econs_year_12/Aggregate-Expenditure.md)
 	- [The Consumption Function + Disequilibrium](econs_year_12/AE-Model.md) AE Graph 1
 	- [Multiplier Effect](econs_year_12/Multiplier.md) AE Graph 2
+- Aggregate Demand & Aggregate Supply
 
 ### Unit 3
 - [Australia's International Trade](econs_year_12/Australias-International-Trade.md)
@@ -55,5 +56,5 @@ Key Economic Indicators:
 - [Price Elasticity](econs_year_11/Price-Elasticity.md)
 - [Market Efficiency](econs_year_11/Market-Efficiency.md)
 - [Market Failure](econs_year_11/Market-Failure.md)
-- [Market Power](econs_year_11/Market-Power.md) (Which falls under Market Failure)
+	- [Market Power](econs_year_11/Market-Power.md)
 - [Exam Unit 1 Checklist](econs_year_11/Economics-Exam-One-Checklist.md)
