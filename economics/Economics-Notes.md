@@ -21,7 +21,8 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 - [Aggregate Expenditure](econs_year_12/Aggregate-Expenditure.md)
 	- [The Consumption Function + Disequilibrium](econs_year_12/AE-Model.md) AE Graph 1
 	- [Multiplier Effect](econs_year_12/Multiplier.md) AE Graph 2
-- Aggregate Demand & Aggregate Supply
+- [Aggregate Demand & Aggregate Supply](econs_year_12/ADAS.md)
+
 
 ### Unit 3
 - [Australia's International Trade](econs_year_12/Australias-International-Trade.md)
