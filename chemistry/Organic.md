@@ -55,15 +55,15 @@ layout: default
 - Intermolecular Forces: Dispersion Forces, Dipole Dipole, Hydrogen Bonding
 - Note: Side of the chain with the double bonded oxygen is the main chain (-oate) while the side without the double bonded oxygen is the alkyl group (-yl)
 
-| B.P       | Organic Compounds |     |
-| --------- | ----------------- | --- |
-| Strongest | Amides            |     |
-|           | Carboxylic Acids  |     |
-|           | Alcohols          |     |
-|           | Ketones           |     |
-|           | Aldehydes         |     |
-|           | Amines            |     |
-|           | Esters            |     |
-|           | Ethers*           |     |
-| Weakest   | Alkanes           |     |
+| B.P       | Organic Compounds |     |     |
+| --------- | ----------------- | --- | --- |
+| Strongest | Amides            |     |     |
+|           | Carboxylic Acids  |     |     |
+|           | Alcohols          |     |     |
+|           | Ketones           |     |     |
+|           | Aldehydes         |     |     |
+|           | Amines            |     |     |
+|           | Esters            |     |     |
+|           | Ethers*           |     |     |
+| Weakest   | Alkanes           |     |     |
 \* Don't need to know about them but they are normal alkanes but with a cheeky oxygen in the middle to disrupt the carbon chain.

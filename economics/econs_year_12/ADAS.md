@@ -49,12 +49,74 @@ Events that affect consumption: (Link macroeconomic indicators)
 
 ### LRAS and SRAS Curves
 
-Long Run Aggregate Supply
-- Vertical due to it being the maximum capacity for the economy to produce. (Maximum productive capacity... same as PPF!)
-- Anything that affect the quantity and quality of the factors of production
-
-Short Run Aggregate Supply
-- Like your normal supply curve
-- Upward slope
-
 Changes in Land Labour Capital Enterprise -> Affects AS
+
+#### Long Run Aggregate Supply
+
+- Vertical due to it being the maximum capacity for the economy to produce. (Maximum productive capacity... Potential Growth... same as PPF!)
+- **Anything that affect the quantity and quality of the factors of production**
+	- The **size of the population** (size of workforce)
+	- **Participation in the workforce**
+	- The **productivity of labour** influenced by the stock of capital equipment and the state of technology
+- Potential GDP (LRAS) is independent of the price level.
+- Assumed that LRAS slowly increases overtime
+- The potential level of output and income is unlikely to correspond to a zero rate of unemployment
+- Continuing presence of both frictional and structural employment, "natural rate"- around 4 percent... cyclical unemployment can be 0
+
+#### Short Run Aggregate Supply
+
+- Like your normal supply curve
+- Upward (positive) slope
+- SRAS describes the relationship between the total production of goods and services, and the general price level
+- **Movement**
+	- Increase in production increases prices
+- **Shifts**
+	- SRAS shifts are caused by events that can affect the availability of resources and/or costs of production in the short term
+	- Factors that affect SRAS:
+		- Anything that affects the **cost of production** through input prices
+			- Price of Oils (Energy... Transport...)
+			- Weather Events
+			- Price of Labour
+			- Price of Raw Materials
+			- Wars
+	- Changes in the quantities of factor of production, on the other hand, with shift BOTH short run and long run aggregate supply.
+		- For example, the covid-19 pandemic resulted in dramatic cuts in migration, meaning a leftward shift in both SRAS (shortages in labour, increase in cost of production due to higher wages) and LRAS (reduces pop growth)
+
+
+The economy is in short run equilibrium at the point where the AD curve intersects the SRAS curve - this is the economy's actual level of spending, production (output) and income.
+- The economy is in long run equilibrium when all three curves interest.
+- This outcome implies that actual growth equals potential growth
+
+Overtime, all the curves will shift to the right due to economic growth.
+- Population growths due to migration and natural grows
+- Capital stock grows as new projects and businesses are developed.
+- At the same time, aggregate demand tends to increase due to the increase in aggregate consumption and investment that economic growth brings.
+
+BUT we know that the LRAS moves the slowest out of the three curves
+
+Two types of short run outcomes - a **contractionary gap** and an **expansionary gap**
+- Equilibrium the left of the LRAS is contractionary gap and is operating below potential
+	- The current equilibrium level of real GDP is less than potential GDP
+- Equilibrium the right of the LRAS is expansionary gap and is operating above potential
+	- Cyclical Unemployment will be operating beyond the natural unemployment rate of 4%
+	- At the peak of the business cycle
+
+Does not stay in the contractionary gap:
+- SRAS moves to the right -> movement along the AD curve
+	- This is due to higher wages, more consumption, bringing it back to the long run equilibrium
+
+## The Business Cycle & ADAS
+
+The AD/AS model helps us to visualize expansions and contractions of the business cycle and the associated problems of unemployment and inflation.
+- Firstly, we use the AD/AS model to show how an economy can experience a downturn or **contraction** in activity.
+	- We begin by assuming the economy is initially in long run equilibrium at its potential GDP.
+		- The level of aggregate demand (AD1) matches short run aggregate supply (SRAS) at the economy’s potential level of output Yp (on its LRAS curve) - the price level (rate of increase) is P1.
+		- Impact of a reduction in aggregate demand from AD1 to AD2 - Firms would react to lower demand by cutting production, so income and employment would fall.
+		- Real output would fall from Yp to Y1 AND reduced inflationary pressure sees the price level fall from P1 to P2
+	- A contraction could results from a negative supply shock – perhaps a rise in world prices, a natural disaster, or problems with the supply chain like those during the pandemic such as shipments of supplies creating a shortage.
+		- The model again shows that the equilibrium level of output falls from Yp to Y1, but this time prices rise from P1 to P2 because these supply shocks cause production costs to rise, causing upward pressure on prices.
+		- Negative supply shocks - Stagflation, decrease real GDP and increased prices
+- The AD/AS model could also be used to show a business cycle **expansion**.
+	- In Australia’s recent mining construction boom, investment spending and strong commodity exports drove increases in output. employment and income.
+
+Negative shock (Contraction) will shift the real GDP to shift to the left while a positive shock (Expansion) will shift the real GDP to shift to the right.
