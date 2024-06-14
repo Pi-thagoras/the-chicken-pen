@@ -5,6 +5,8 @@ layout: default
 X-Axis: Real GDP
 Y-Axis: **Price Levels**
 
+**Productivity improvements**, shifts both supply curves the the right
+
 Infer from the national income (x-axis) -> production and hence cyclical employment
 - Other major economic indicators are shown on the ADAS diagram.
 
@@ -110,13 +112,17 @@ Does not stay in the contractionary gap:
 The AD/AS model helps us to visualize expansions and contractions of the business cycle and the associated problems of unemployment and inflation.
 - Firstly, we use the AD/AS model to show how an economy can experience a downturn or **contraction** in activity.
 	- We begin by assuming the economy is initially in long run equilibrium at its potential GDP.
-		- The level of aggregate demand (AD1) matches short run aggregate supply (SRAS) at the economy’s potential level of output Yp (on its LRAS curve) - the price level (rate of increase) is P1.
-		- Impact of a reduction in aggregate demand from AD1 to AD2 - Firms would react to lower demand by cutting production, so income and employment would fall.
-		- Real output would fall from Yp to Y1 AND reduced inflationary pressure sees the price level fall from P1 to P2
+		- The level of aggregate demand (AD) matches short run aggregate supply (SRAS) at the economy’s potential level of output Yp (on its LRAS curve) - the price level (rate of increase) is P1.
+		- Impact of a reduction in aggregate demand from AD to AD1 - Firms would react to lower demand by cutting production, so income and employment would fall.
+		- Real output would fall from Yp to Y2 AND reduced inflationary pressure sees the price level fall from P1 to P2
 	- A contraction could results from a negative supply shock – perhaps a rise in world prices, a natural disaster, or problems with the supply chain like those during the pandemic such as shipments of supplies creating a shortage.
-		- The model again shows that the equilibrium level of output falls from Yp to Y1, but this time prices rise from P1 to P2 because these supply shocks cause production costs to rise, causing upward pressure on prices.
+		- The model again shows that the equilibrium level of output falls from Yp to Y2, but this time prices rise from P1 to P2 because these supply shocks cause production costs to rise, causing upward pressure on prices.
 		- Negative supply shocks - Stagflation, decrease real GDP and increased prices
 - The AD/AS model could also be used to show a business cycle **expansion**.
 	- In Australia’s recent mining construction boom, investment spending and strong commodity exports drove increases in output. employment and income.
 
 Negative shock (Contraction) will shift the real GDP to shift to the left while a positive shock (Expansion) will shift the real GDP to shift to the right.
+
+<image src="/the-chicken-pen/assets/ADAS_BTC.png" alt="Negative AD and SRAS Shocks" width=900px />
+
+As you can see, the contractionary gap is the gap between Yp and Y2, since the new equilibrium lies to the left of the LRAS curve for both the negative shocks.

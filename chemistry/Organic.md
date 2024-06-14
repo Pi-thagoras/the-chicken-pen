@@ -67,3 +67,34 @@ layout: default
 |           | Ethers*           |     |     |
 | Weakest   | Alkanes           |     |     |
 \* Don't need to know about them but they are normal alkanes but with a cheeky oxygen in the middle to disrupt the carbon chain.
+
+
+### Oxidation of Alcohols and Aldehydes
+
+Common Oxidising Agent used:
+- $K_{2}Cr_{2}O_{7}$ - Potassium Dichromate (Focus on Dichromate Ion)
+- $H_{2}O_{2}$ - Hydrogen Peroxide
+- $KMnO_{4}$ - Potassium Permanganate
+
+Using **Acidified** Permanganate results in most likely a **complete** oxidation.
+
+Using **Acidified** Dichromate results in most likely a **incomplete** oxidation.
+
+Remember:
+- Incomplete oxidation with a 1° alcohol -> Aldehyde
+	- Always has 2$H^+$ + 2$e^-$ as products in final equation
+- Complete oxidation with a 1° alcohol -> Carboxylic Acid
+	- Always has $H_{2}O$ as reactants and 2$H^+$ + 2$e^-$ as products in final equation
+- Oxidation of Aldehydes -> Carboxylic Acid
+- Oxidation of 2° alcohol -> Ketone
+- 3° Alcohols NEVER oxidized
+
+### Reactions with Sodium
+
+Ethanol + Sodium -> Sodium Ethoxide + Hydrogen Gas
+
+Ethanoic Acid + Sodium -> Sodium Ethanoate + Hydrogen Gas
+
+Can be used to differentiate alcohols and carboxylic acids with other organic compounds. e.g. if you have 3 solutions - propanal, methanol, and 2-methylbutan-2-ol
+- You can use permanganate ions to tell which one is the tertiary alcohol since it will not react.
+- Then you can use sodium to distinguish between the aldehyde and alcohol since aldehydes do not react with sodium.
