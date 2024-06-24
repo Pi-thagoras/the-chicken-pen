@@ -25,7 +25,7 @@ Infer from the national income (x-axis) -> production and hence cyclical employm
 	- A rise in price levels increases interest rates, which has a negative impact on the **investment and consumption components of the AD**
 - The open economy (international trade) effect
 	- Thirdly, if the domestic price level rises relative to other countries, domestically produced goods and services become less competitive with those produces overseas, leading to a reduction in export revenue.
-	- At the same time, a rise in the domestic price level means that consumers and business firms with purchase more goods ansd services from foreign producers and less from domestic producers.
+	- At the same time, a rise in the domestic price level means that consumers and business firms will purchase more goods and services from foreign producers and less from domestic producers.
 	- In other words and increase in the price level will decrease net exports.
 
 If there is a change other than C and I, movements along the AD curve.

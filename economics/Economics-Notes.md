@@ -22,6 +22,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 	- [The Consumption Function + Disequilibrium](econs_year_12/AE-Model.md) AE Graph 1
 	- [Multiplier Effect](econs_year_12/Multiplier.md) AE Graph 2
 - [Aggregate Demand & Aggregate Supply](econs_year_12/ADAS.md)
+- [Economic Objectives](econs_year_12/Economic-Objectives.md)
 
 
 ### Unit 3

@@ -33,7 +33,7 @@ Need MPC and MPS to calculate your multiplier
 
 Multiplier Formula: 
 
-$$k = ΔY/ΔI$$
+$$k = ΔS/ΔY$$
 
 and also the value of the multiplier is determined by the marginal propensity to consume and can be derived from the formula:
 
