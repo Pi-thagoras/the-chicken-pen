@@ -49,9 +49,8 @@ What if MPC increases: This would increase the ‘re-spending’ effect from a g
 
 The business cycle can be modelled using the Keynesian aggregate expenditure model. Falls in AE bring about a contraction, as growth in real GDP slows from Yf to Yd. Rises in AE, on the other hand, are associated with an expansion - growth in real GDP increases from Yf to Yi.
 
-The level of income in the economy expands in successive rounds of new spending which generates new income.
-
-The level of income in the economy expands in successive rounds of new spending via the marginal propensity to consume.
+The level of income in the economy expands in successive rounds of new spending which generates new income via the marginal propensity to consume.
+- ***Alternate (For negative multiplier effect): This phenomenon is called the negative multiplier effect, where any change in autonomous components in AE result in larger changes in income through successive rounds of reduced spending which generate reduced new income via the marginal propensity to consume.***
 
 **A change in the autonomous component of AE results in larger change to income**
 

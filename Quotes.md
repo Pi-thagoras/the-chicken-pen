@@ -4,6 +4,9 @@ title: "Quotes"
 
 Welp, here are quotes that I personally think are cool (or funny, you'll know if it's funny). Books and movies are quoted with the author's name in bold and the book/movie name after it, while animes are quoted with the person who actually said it in bold and the name of the anime after it.
 
+>ヤァ、来たのかい。初めましてだね。鬼舞辻無慘。- **Ubuyashiki Kaguya**
+>なんと、醜悪の姿だな、産屋敷。- **Kibutsuji Muzan** in response, 鬼滅の刃
+
 >"Onward then. Music and magic. Triumph and folly. Think now. What does the story need? What vital element is lacking?" - Kvothe
 >"Women of course, there's a real paucity of women."  - Bast in reply to Kvothe
 >**The Name of the Wind**
