@@ -59,8 +59,8 @@ There are 4 main ways in which a government can **finance a budget deficit**:
 - A bond is a financial instrument which raises funds for its issuer (in this case, the government), in return for a rate of interest payable to the buyer. 
 - They are guaranteed by the government and are very popular with institutional and private investors.
 - They can be bought by both domestic and foreign residents.
-- In 2022, of the $892 billion worth of CGS on issue, 45 percent were owned by overseas residents.
-- If you use surplus cash to buy a $1000 government bond, on which the rate of interest is 2 per cent p.a. you are effectively lending money to the government in return for an annual interest payment of $20
+- In 2022, of the 892 billion dollars worth of CGS on issue, 45 percent were owned by overseas residents.
+- If you use surplus cash to buy a 1000 dollar government bond, on which the rate of interest is 2 per cent p.a. you are effectively lending money to the government in return for an annual interest payment of 20 dollars
 - When the government issues new bonds it is competing for funds in the financial market.
 - This can lead to interest rates rising which can discourage private borrowing - government borrowing creates higher demand for funds in the financial market.
 	- Economists call this ‘**crowding out**’ – the private investment spending is said to be ‘crowded out’ by the higher government spending.
