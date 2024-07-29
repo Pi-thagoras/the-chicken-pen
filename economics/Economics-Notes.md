@@ -24,6 +24,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 - [Aggregate Demand & Aggregate Supply](econs_year_12/ADAS.md)
 - [Economic Objectives](econs_year_12/Economic-Objectives.md)
 - [Fiscal Policy](econs_year_12/Fiscal-Policy.md)
+- [Monetary Policy](econs_year_12/Monetary-Policy.md)
 
 
 ### Unit 3

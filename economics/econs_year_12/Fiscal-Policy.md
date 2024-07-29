@@ -165,7 +165,7 @@ Budget balance = structural balance + cyclical balance
 ## Fiscal Policy: Strengths & Weaknesses
 
 Strengths:
-- Fiscal policy is fairly direct (Other policies are not so direct but EXPLAIN why direct is good... not lagging so less time blah blah)
+- **Fiscal policy is fairly direct** (Other policies are not so direct but EXPLAIN why direct is good... not lagging so less time blah blah)
 - Revenue and spending measures announced in the Budget can be implemented immediately, if required.
 	- For example, the Treasurer might announce an increase in the excise tax on a commodity from the day after the Budget, or a reduction in the marginal rates of taxation after a certain date.
 - Consumers feel the impact of these decision as soon as they come into law.
