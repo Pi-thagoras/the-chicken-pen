@@ -67,7 +67,7 @@ Commercial banks have accounts with the central bank like how we have accounts w
 
 Stances
 - In general terms, an UPWARD CASH RATE MOVEMENT over a period of time is described as a ‘CONTRACTIONARY’ monetary policy stance, (Tight monetary policy)
-- A DOWNWARD MOVEMENT is an ‘EXPANSIONARY’ stance. (Lose monetary policy)
+- A DOWNWARD MOVEMENT is an ‘EXPANSIONARY’ stance. (Loose monetary policy)
 
 **A stance is not necessarily just labelled by whether rates are rising or falling.**
 - A bench mark that is sometimes used to help understand the monetary policy stance at any point in time is the neutral rate.
@@ -111,3 +111,44 @@ The Transmission Mechanism
 	- The competitiveness of exports in overseas markets suffers as overseas residents pay more for the products they buy; **(X)**
 	- Imports become cheaper for Australian household; **(M)**
 	- Import-competing firms in Australia have to compete with those cheaper imports.
+
+
+### Strengths
+
+**Flexibility**
+- RBA meets 8 times a year, so monetary policy is relatively flexible compared to fiscal.
+- Interest rate decisions can be made without authorisation of parliament, which also adds to policy flexibility
+
+**Independence**
+- As an independent authority, Reserve Bank monetary policy decisions are independent of political bias.
+
+Monetary policy is more effective in the control of high levels of aggregate demand and inflation than it is during the contraction or recession phase of the business cycle
+
+**A contractionary stance** tends to have a **greater impact than an easy monetary policy** because *higher interest rates have a more direct effect on household and business decisions than do lower interest rates.*
+
+**Interest Rate - Exchange Rate Relationship** (Positive)
+- A cut in interest rates, for example, will lead to a fall in capital inflow
+- This will reduce the demand for the currency and lead to a depreciation
+- Net exports will be stimulated as prices fall in overseas markets , and imports should fall as prices rise. (?) – Improve this statement.
+- Thus an expansionary monetary policy (reducing interest rates) will not only increase consumption and investment but also increase net exports.
+
+### Weaknesses
+
+Both Fiscal and Monetary Policy suffer from time lags:
+- **The recognition lag** – the time taken to recognise trends;
+- **The decision lag** – the time taken to make policy decisions; and
+- **The action or effect lag** – the time taken for policy decisions to have an effect on aggregate demand and the economy
+
+The *recognition* and **decision lags** are short for monetary policy because the RBA Board meets monthly and its decisions are informed by recent data and expectations.
+
+The **effect lag** is thought to be quite **long**, because the transmission chain from the policy to the impact on aggregate demand is indirect – through other interest rates and then the cost of borrowing , cash flow, asset price and exchange rate channels.
+
+**Not Effective in a Contraction:**
+- Monetary policy seems less effective in a contraction or trough – low interest rates don’t seem sufficient to stimulate private spending when economic conditions are pessimistic.
+- Two of the four transmission mechanism channels are responsible for this weakness
+- **Businesses don’t necessarily react to lower costs of borrowing if they are not confident about economic prospects when aggregate demand is low** - this explanation is relevant in the Australian case in recent years.
+- Likewise, asset prices are influenced by many factors apart from the interest rate, especially expected future income that can be earned from an asset - this is influenced by confidence about the future
+
+**No Target**
+- Unlike fiscal policy, **monetary policy cannot be used selectively to target particular groups or sectors in the economy**.
+- The reserve Bank cannot raise interest rates in Western Australia to curb a booming economy, yet leave them unchanged in the rest of Australia. (States' differing performance)
