@@ -3,6 +3,7 @@ const links = document.querySelectorAll("ul li a");
 const links2 = document.querySelectorAll("p a");
 
 document.addEventListener("mousemove", (e) => {
+    sleep(1000)
     let x = e.pageX + 4;
     let y = e.pageY + 4;
     cursor.style.left = x + "px";
