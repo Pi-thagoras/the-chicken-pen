@@ -2,6 +2,10 @@ const cursor = document.querySelector(".cursor");
 const links = document.querySelectorAll("ul li a");
 const links2 = document.querySelectorAll("p a");
 
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 document.addEventListener("mousemove", (e) => {
     sleep(1000)
     let x = e.pageX + 4;
@@ -33,8 +37,4 @@ links2.forEach(link => {
         cursor.classList.remove("large");
     })
 })
-
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
 
