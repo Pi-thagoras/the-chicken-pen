@@ -25,7 +25,7 @@ Economics is the study of making decisions under the conditions of scarcity, wit
 - [Economic Objectives](econs_year_12/Economic-Objectives.md)
 - [Fiscal Policy](econs_year_12/Fiscal-Policy.md)
 - [Monetary Policy](econs_year_12/Monetary-Policy.md)
-
+- [Labour Productivity](econs_year_12/Labour-Productivity.md)
 
 ### Unit 3
 - [Australia's International Trade](econs_year_12/Australias-International-Trade.md)
