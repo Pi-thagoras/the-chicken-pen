@@ -19,7 +19,8 @@ Effects of Long Run Growth
 - Economic dividend: further increases in economic growth will increase tax collections and decrease government spending on welfare benefits connected to unemployment and poverty.
 - Encourages new investment
 - Attracts foreign direct investment
-	- Both these investment points further increase economic grwoth
+	- Both these investment points further increase economic growth
+
 ### Productivity: Drivers/Factors
 
 These are the drivers of productivity that 'do more with less' in the long term:
