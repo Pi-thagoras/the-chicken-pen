@@ -94,7 +94,7 @@ At the firm level, production occurs when a firm employs labour and capital equi
 
 At the macro level (the whole economy), the aggregate production function (APF) model was developed to explain the causes of economic growth.
 
-<image src="/the-chicken-pen/assets/Business-Trade-Cycle-2.png" alt="The Business Trade Cycle" width=900px />
+<image src="/the-chicken-pen/assets/APF_Model.png" alt="APF Model" width=900px />
 \*ONLY THE SHIFT IN APF WILL BE REQUIRED TO BE DRAWN
 
 In the figure, the APF, PF1, shows the relationship between two variables – the labour force and the real GDP, holding other factors constant, such as the quantity of capital and the state of technology.
