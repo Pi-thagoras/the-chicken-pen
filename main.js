@@ -14,6 +14,15 @@ document.addEventListener("mousemove", (e) => {
     cursor.style.top = y + "px";
 })
 
+document.addEventListener('scroll', (f) => {
+    total_scroll = window.scrollY + clientScrollY;
+    console.log("Current Pos: " + total_scroll);
+    let x = f.pageX + 4;
+    let y = f.pageY + 4;
+    cursor.style.left = x + "px";
+    cursor.style.top = y + "px";
+})
+
 links.forEach(link => {
     link.addEventListener("mouseenter", () => {
         cursor.classList.add("large");
