@@ -230,11 +230,12 @@ p a:hover {
 
 .cursor {
   position: absolute;
-  width: 50px;
-  height: 50px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   border: 2px solid rgba(255, 185, 33, 0.75);
   left: 0;
+  top: 0;
   transform: translate(-45%, -45%);
   pointer-events: none;
   transition: width 1000ms, height 1000ms;
