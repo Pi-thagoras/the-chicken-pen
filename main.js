@@ -6,6 +6,14 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+window.onscroll = function (e) {  
+    // called when the window is scrolled.
+    let x = e.pageX + 4;
+    let y = e.pageY + 4;
+    cursor.style.left = x + "px";
+    cursor.style.top = y + "px";
+} 
+
 document.addEventListener("mousemove", (e) => {
     sleep(1000)
     let x = e.pageX + 4;
