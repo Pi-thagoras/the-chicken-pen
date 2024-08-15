@@ -6,21 +6,29 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-window.onscroll = function (e) {  
-    // called when the window is scrolled.
-    let x = e.pageX + 4;
-    let y = e.pageY + 4;
-    cursor.style.left = x + "px";
-    cursor.style.top = y + "px";
-} 
+let clientScrollY = 0;
+let totalScrollY = 0;
 
-document.addEventListener("mousemove", (e) => {
-    sleep(1000)
-    let x = e.pageX + 4;
-    let y = e.pageY + 4;
-    cursor.style.left = x + "px";
-    cursor.style.top = y + "px";
+function updateTotalScrollY(){
+  totalScrollY = window.scrollY + clientScrollY;
+  console.log(totalScrollY);
+}
+
+document.addEventListener('mousemove', (e1) => {
+  clientScrollY = e1.clientY;
+  updateTotalScrollY();
 })
+document.addEventListener('scroll', (e) => {
+  updateTotalScrollY();
+})
+
+// document.addEventListener("mousemove", (e) => {
+//     sleep(1000)
+//     let x = e.pageX + 4;
+//     let y = e.pageY + 4;
+//     cursor.style.left = x + "px";
+//     cursor.style.top = y + "px";
+// })
 
 links.forEach(link => {
     link.addEventListener("mouseenter", () => {
