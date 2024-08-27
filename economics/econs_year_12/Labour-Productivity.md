@@ -45,7 +45,7 @@ $$Labour Productivity = Q/L$$
 Where $Q$ represent output and $L$ is the number of hours worked
 
 Simply put, labour productivity will rise if:
-- More output can be produced or a given level of labour input, or
+- More output can be produced with a given level of labour input, or
 - Less labour input is required to produce a given amount of output
 
 Labour Productivity can be separate into two components: (**CANNOT BE TESTED SPECIFICALLY**)

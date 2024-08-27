@@ -152,3 +152,55 @@ The **effect lag** is thought to be quite **long**, because the transmission cha
 **No Target**
 - Unlike fiscal policy, **monetary policy cannot be used selectively to target particular groups or sectors in the economy**.
 - The reserve Bank cannot raise interest rates in Western Australia to curb a booming economy, yet leave them unchanged in the rest of Australia. (States' differing performance)
+
+
+### Unconventional Monetary Policy
+
+Conventional is the normal policy -> changing the interest rates
+
+Unconventional monetary policy occurs when tools other than changing a policy interest rate are used. These tools include:
+- **forward guidance**
+- **asset purchases**
+- **term funding facilities**
+- **adjustments to market operations**
+- negative interest rates.
+
+
+**Forward Guidance**
+- Forward guidance relates to the central bank’s communication of the ‘stance’ of monetary policy.
+- It lets market participants and the general public know what the future path of the policy interest rate, and potentially other aspects of monetary policy, is likely to be.
+- Forward guidance can be:
+	- time-based; or
+	- based on the state of the economy.
+	- Under ‘**time-based guidance**’, the central bank commits to a stance of monetary policy until a specific point in time (e.g. it will not increase interest rates until a certain date).
+	- Under ‘**state-based guidance**’, the central bank commits to a stance of monetary policy until a specific set of economic conditions are met (e.g. it will not increase interest rates until inflation or unemployment reach certain levels).
+- A primary motivation for their forward guidance was to reinforce the central bank’s commitment to low interest rates, which helps reduce the interest rates people can expect in the future. (influence expectations)
+
+**Asset Prices**
+- **Asset purchases** involve the outright purchase of assets by the central bank from the private sector with the central bank paying for these assets by creating ‘central bank reserves’ (in Australia these are referred to as Exchange Settlement or ES balances).
+- (Some people have referred to this as ‘printing money’, but the central bank does not actually print any banknotes to pay for the asset purchases.)
+- When a central bank undertakes asset purchases, it can either set a target for the **quantity of assets it will purchase** (at any price) OR a target for the **price of an asset** (purchasing whatever quantity of assets will achieve that price); for a bond, the relevant price is its interest rate.
+- A quantity target for asset purchases is also known as quantitative easing (QE).
+- In this way, asset purchases by the central bank can lower a range of interest rates other than the policy interest rate
+
+**Term Funding Facilities**
+- Term funding facilities *involve central banks providing low-cost, long-term funding to financial institutions at rates below the cost of most of their existing funding sources.*
+- Such facilities were used following the GFC and again more recently in response to the COVID-19 pandemic.
+- Term funding facilities are useful when short-term interest rates are already very low, since they can help to lower the cost of longer-term funding for financial institutions.
+- This helps to reduce interest rates for borrowers and support the supply of credit to the economy.
+
+**Adjustments to Market Operations**
+- In response to the GFC and later to the COVID-19 pandemic, many central banks made significant changes to their existing market operations to deal with strains in financial markets that were impairing the supply of credit to the economy.
+- Changes to operations have included central banks:
+	- providing much larger amounts of liquidity to the financial system than before the crises
+	- expanding the range of collateral that they accept from financial institutions
+	- increasing the range of ‘eligible counterparties’ that they allow to engage in domestic market operations.
+
+**Negative Interest Rates**
+- Negative interest rates are truly unconventional. They are also difficult to imagine, as they imply that instead of earning interest on money deposited in a bank, people would be charged by their bank to deposit money.
+- Prior to the GFC, it was widely thought that there was a ‘zero lower bound’ for the policy interest rate, meaning that it was thought interest rates could never be negative.
+- This was because if interest rates were negative, people would simply choose to hold their savings as banknotes outside the banking system (‘cash under the mattress’) so that deposits would be unavailable to banks for lending or other purposes.
+- A zero lower bound did not prove to be a constraint.
+- Policy interest rates became negative in several countries. However, commercial banks did not pass on negative policy interest rates and implement negative rates for all their customers – they judged that it did not make sense either commercially or politically to charge households and smaller businesses for holding their deposits.
+- Nonetheless, there is still likely to be a lower bound.
+- At some point depositors will withdraw money and hold banknotes, so central bankers began to talk about an ‘effective lower bound’ for policy interest rates rather than a zero lower bound.
