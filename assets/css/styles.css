@@ -234,8 +234,8 @@ p a:hover {
   height: 45px;
   border-radius: 50%;
   border: 2px solid rgba(255, 185, 33, 0.75);
-  left: 0;
-  top: 0;
+  left: -30px;
+  top: -30px;
   transform: translate(-45%, -45%);
   pointer-events: none;
   transition: width 1000ms, height 1000ms;
